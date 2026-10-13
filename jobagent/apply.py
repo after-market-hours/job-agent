@@ -6,6 +6,7 @@ fill -> screenshot -> user types 'yes' -> submit -> user confirms outcome -> tra
 from __future__ import annotations
 
 import re
+import sys
 from pathlib import Path
 
 import yaml
@@ -135,6 +136,9 @@ def run(job_id: str, dry_run: bool = False):
     resume = ROOT / p["resume_path"]
     if not resume.exists():
         raise SystemExit(f"Resume not found at {resume}. Put your PDF there or edit config/profile.yaml.")
+    if not dry_run and not sys.stdin.isatty():
+        # Safety: a scheduled task / script can never submit an application. Only a person at a terminal can.
+        raise SystemExit("Refusing to submit: apply needs an interactive terminal where you type 'yes'. Use --dry-run to preview.")
     print(f"{row['title']} @ {row['company']}\n{row['apply_url']}")
 
     with sync_playwright() as pw:

@@ -1,0 +1,130 @@
+# Publicly traded companies to scan for the separate "public companies" section.
+# Market cap is fetched live (Yahoo Finance via yfinance); only companies under max_market_cap_usd are used.
+# Add any company: name, ticker, website (used to find its careers page / job board).
+max_market_cap_usd: 20000000000
+companies:
+  # crypto / AI-infrastructure miners and related
+  - {name: Hut 8, ticker: HUT, website: hut8.com}
+  - {name: Riot Platforms, ticker: RIOT, website: riotplatforms.com}
+  - {name: MARA Holdings, ticker: MARA, website: mara.com}
+  - {name: CleanSpark, ticker: CLSK, website: cleanspark.com}
+  - {name: Cipher Mining, ticker: CIFR, website: ciphermining.com}
+  - {name: Core Scientific, ticker: CORZ, website: corescientific.com}
+  - {name: TeraWulf, ticker: WULF, website: terawulf.com}
+  - {name: IREN, ticker: IREN, website: iren.com}
+  - {name: Galaxy Digital, ticker: GLXY, website: galaxy.com}
+  - {name: Bakkt, ticker: BKKT, website: bakkt.com}
+  - {name: Applied Digital, ticker: APLD, website: applieddigital.com}
+  - {name: Bitdeer, ticker: BTDR, website: bitdeer.com}
+  # consumer / DTC / retail
+  - {name: Warby Parker, ticker: WRBY, website: warbyparker.com}
+  - {name: FIGS, ticker: FIGS, website: wearfigs.com}
+  - {name: Allbirds, ticker: BIRD, website: allbirds.com}
+  - {name: Peloton, ticker: PTON, website: onepeloton.com}
+  - {name: Chewy, ticker: CHWY, website: chewy.com}
+  - {name: Etsy, ticker: ETSY, website: etsy.com}
+  - {name: Hims & Hers, ticker: HIMS, website: forhims.com}
+  - {name: Duolingo, ticker: DUOL, website: duolingo.com}
+  - {name: Bumble, ticker: BMBL, website: bumble.com}
+  - {name: Grindr, ticker: GRND, website: grindr.com}
+  - {name: Rent the Runway, ticker: RENT, website: renttherunway.com}
+  - {name: ThredUp, ticker: TDUP, website: thredup.com}
+  - {name: The RealReal, ticker: REAL, website: therealreal.com}
+  - {name: Sweetgreen, ticker: SG, website: sweetgreen.com}
+  - {name: CAVA, ticker: CAVA, website: cava.com}
+  - {name: Dutch Bros, ticker: BROS, website: dutchbros.com}
+  - {name: Olaplex, ticker: OLPX, website: olaplex.com}
+  - {name: e.l.f. Beauty, ticker: ELF, website: elfbeauty.com}
+  - {name: Celsius Holdings, ticker: CELH, website: celsius.com}
+  - {name: Vita Coco, ticker: COCO, website: vitacoco.com}
+  - {name: Oatly, ticker: OTLY, website: oatly.com}
+  - {name: Beyond Meat, ticker: BYND, website: beyondmeat.com}
+  - {name: Revolve, ticker: RVLV, website: revolve.com}
+  - {name: Stitch Fix, ticker: SFIX, website: stitchfix.com}
+  - {name: The Honest Company, ticker: HNST, website: honest.com}
+  - {name: Sonos, ticker: SONO, website: sonos.com}
+  - {name: GoPro, ticker: GPRO, website: gopro.com}
+  - {name: Traeger, ticker: COOK, website: traeger.com}
+  - {name: YETI, ticker: YETI, website: yeti.com}
+  - {name: Solo Brands, ticker: DTC, website: solobrands.com}
+  - {name: Lulu's Fashion Lounge, ticker: LVLU, website: lulus.com}
+  - {name: a.k.a. Brands, ticker: AKA, website: akabrands.com}
+  - {name: Coursera, ticker: COUR, website: coursera.org}
+  - {name: Udemy, ticker: UDMY, website: udemy.com}
+  - {name: NerdWallet, ticker: NRDS, website: nerdwallet.com}
+  - {name: Lemonade, ticker: LMND, website: lemonade.com}
+  - {name: Root Insurance, ticker: ROOT, website: joinroot.com}
+  - {name: Hippo, ticker: HIPO, website: hippo.com}
+  - {name: Oscar Health, ticker: OSCR, website: hioscar.com}
+  - {name: Opendoor, ticker: OPEN, website: opendoor.com}
+  - {name: Compass, ticker: COMP, website: compass.com}
+  - {name: Redfin, ticker: RDFN, website: redfin.com}
+  - {name: Offerpad, ticker: OPAD, website: offerpad.com}
+  - {name: Vacasa, ticker: VCSA, website: vacasa.com}
+  - {name: Nextdoor, ticker: KIND, website: nextdoor.com}
+  # software / internet
+  - {name: Klaviyo, ticker: KVYO, website: klaviyo.com}
+  - {name: Braze, ticker: BRZE, website: braze.com}
+  - {name: Amplitude, ticker: AMPL, website: amplitude.com}
+  - {name: Asana, ticker: ASAN, website: asana.com}
+  - {name: Dropbox, ticker: DBX, website: dropbox.com}
+  - {name: Box, ticker: BOX, website: box.com}
+  - {name: Zeta Global, ticker: ZETA, website: zetaglobal.com}
+  - {name: DigitalOcean, ticker: DOCN, website: digitalocean.com}
+  - {name: Fastly, ticker: FSLY, website: fastly.com}
+  - {name: Sprinklr, ticker: CXM, website: sprinklr.com}
+  - {name: Sprout Social, ticker: SPT, website: sproutsocial.com}
+  - {name: Semrush, ticker: SEMR, website: semrush.com}
+  - {name: Similarweb, ticker: SMWB, website: similarweb.com}
+  - {name: Olo, ticker: OLO, website: olo.com}
+  - {name: Toast, ticker: TOST, website: toasttab.com}
+  - {name: Wix, ticker: WIX, website: wix.com}
+  - {name: Fiverr, ticker: FVRR, website: fiverr.com}
+  - {name: Upwork, ticker: UPWK, website: upwork.com}
+  - {name: Vimeo, ticker: VMEO, website: vimeo.com}
+  - {name: Yext, ticker: YEXT, website: yext.com}
+  - {name: BILL Holdings, ticker: BILL, website: bill.com}
+  - {name: Flywire, ticker: FLYW, website: flywire.com}
+  - {name: Marqeta, ticker: MQ, website: marqeta.com}
+  - {name: Payoneer, ticker: PAYO, website: payoneer.com}
+  - {name: Remitly, ticker: RELY, website: remitly.com}
+  - {name: Affirm, ticker: AFRM, website: affirm.com}
+  - {name: Upstart, ticker: UPST, website: upstart.com}
+  - {name: SoFi, ticker: SOFI, website: sofi.com}
+  - {name: Dave, ticker: DAVE, website: dave.com}
+  - {name: LendingClub, ticker: LC, website: lendingclub.com}
+  - {name: Doximity, ticker: DOCS, website: doximity.com}
+  - {name: Teladoc, ticker: TDOC, website: teladochealth.com}
+  - {name: Talkspace, ticker: TALK, website: talkspace.com}
+  - {name: Progyny, ticker: PGNY, website: progyny.com}
+  - {name: Tempus AI, ticker: TEM, website: tempus.com}
+  - {name: Recursion, ticker: RXRX, website: recursion.com}
+  - {name: Ginkgo Bioworks, ticker: DNA, website: ginkgobioworks.com}
+  - {name: Procore, ticker: PCOR, website: procore.com}
+  - {name: Samsara, ticker: IOT, website: samsara.com}
+  - {name: Rubrik, ticker: RBRK, website: rubrik.com}
+  - {name: Instacart (Maplebear), ticker: CART, website: instacart.com}
+  - {name: Lyft, ticker: LYFT, website: lyft.com}
+  - {name: Snap, ticker: SNAP, website: snap.com}
+  - {name: Squarespace, ticker: SQSP, website: squarespace.com}
+  # industrials / building products / energy / space
+  - {name: Hayward Holdings, ticker: HAYW, website: hayward.com}
+  - {name: Trex, ticker: TREX, website: trex.com}
+  - {name: Simpson Manufacturing, ticker: SSD, website: simpsonmfg.com}
+  - {name: Latham Group, ticker: SWIM, website: lathampool.com}
+  - {name: Janus International, ticker: JBI, website: janusintl.com}
+  - {name: Array Technologies, ticker: ARRY, website: arraytechinc.com}
+  - {name: Shoals Technologies, ticker: SHLS, website: shoals.com}
+  - {name: Sunrun, ticker: RUN, website: sunrun.com}
+  - {name: QuantumScape, ticker: QS, website: quantumscape.com}
+  - {name: Joby Aviation, ticker: JOBY, website: jobyaviation.com}
+  - {name: Archer Aviation, ticker: ACHR, website: archer.com}
+  - {name: Rocket Lab, ticker: RKLB, website: rocketlabusa.com}
+  - {name: Planet Labs, ticker: PL, website: planet.com}
+  - {name: Redwire, ticker: RDW, website: redwirespace.com}
+  - {name: Proto Labs, ticker: PRLB, website: protolabs.com}
+  - {name: Xometry, ticker: XMTR, website: xometry.com}
+  - {name: Symbotic, ticker: SYM, website: symbotic.com}
+  - {name: Enovix, ticker: ENVX, website: enovix.com}
+  - {name: Fluence Energy, ticker: FLNC, website: fluenceenergy.com}
+  - {name: Stem, ticker: STEM, website: stem.com}

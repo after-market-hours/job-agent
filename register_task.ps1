@@ -6,7 +6,9 @@ $trigger = New-ScheduledTaskTrigger -Daily -At 8:00am
 $settings = New-ScheduledTaskSettingsSet -StartWhenAvailable -RunOnlyIfNetworkAvailable
 Register-ScheduledTask -TaskName "JobAgentDigest" -Action $action -Trigger $trigger -Settings $settings -Force
 
-# Weekly refresh (Sundays 6am) of the YC/accelerator company list so new hiring startups get picked up.
-$weekly = New-ScheduledTaskAction -Execute $py -Argument "-m jobagent harvest" -WorkingDirectory $root
+# Weekly refresh (Sundays 6am): YC company list, then the VC company directory + emerging-brand watchlist.
+# These only update company lists. Nothing here (or in the daily digest) ever submits an application.
+$harvest = New-ScheduledTaskAction -Execute $py -Argument "-m jobagent harvest" -WorkingDirectory $root
+$watch = New-ScheduledTaskAction -Execute $py -Argument "-m jobagent watchlist" -WorkingDirectory $root
 $wtrigger = New-ScheduledTaskTrigger -Weekly -DaysOfWeek Sunday -At 6:00am
-Register-ScheduledTask -TaskName "JobAgentHarvest" -Action $weekly -Trigger $wtrigger -Settings $settings -Force
+Register-ScheduledTask -TaskName "JobAgentWeeklyRefresh" -Action @($harvest, $watch) -Trigger $wtrigger -Settings $settings -Force

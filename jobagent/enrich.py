@@ -30,7 +30,8 @@ _AUTH = re.compile(
 
 
 def strip_html(s: str) -> str:
-    s = re.sub(r"<(br|/p|/li|/h\d|/div)[^>]*>", "\n", s or "", flags=re.I)
+    s = re.sub(r"<(script|style|noscript)\b.*?</\1>", " ", s or "", flags=re.I | re.S)  # page code is not job text
+    s = re.sub(r"<(br|/p|/li|/h\d|/div)[^>]*>", "\n", s, flags=re.I)
     s = re.sub(r"<[^>]+>", "", s)
     return html.unescape(s)
 

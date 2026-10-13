@@ -21,11 +21,13 @@ exclude_title_patterns:
   - \b(vp|vice president|head of|svp|evp|chief (?!of staff))\b
   - \b(engineer|developer|designer|scientist|attorney|counsel|accountant|nurse|recruiter)\b
   - \bintern(ship)?\b
+  - \b(warehouse|fulfillment|facilit(y|ies)|plant|store|retail operations|field operations|reinsurance|payroll|hr|legal|people operations|recruiting|trading|mining|site operations|customer support|contract)\b
 max_age_days: 60
-daily_limit: 12
+daily_limit: 30
 max_lone_min_years: 5      # exclude if the lone minimum is >= 6
 locations: []              # e.g. ["united states", "remote"]; empty = no location filter
 exclude_location_patterns:    # skip roles clearly outside the US
   - '\b(london|uk|united kingdom|dublin|ireland|berlin|germany|paris|france|belgrade|serbia|europe|emea|apac|india|bangalore|singapore|sydney|australia|toronto|canada|amsterdam|netherlands|lisbon|portugal|madrid|spain|tel aviv|israel|warsaw|poland|brazil|mexico|saudi|riyadh|dubai|uae|abu dhabi|qatar|gcc|middle east|africa|nigeria|kenya|lagos|vietnam|ho chi minh|manila|philippines|japan|tokyo|korea|seoul|hong kong|china|shanghai|bogota|colombia|argentina|buenos aires|chile|zurich|switzerland|stockholm|sweden|copenhagen|denmark|oslo|norway|helsinki|finland|vienna|austria|milan|italy|prague|romania|bucharest|ukraine|kyiv|turkey|istanbul|cairo|egypt)\b'
 location_override_patterns:   # ...unless the location also says one of these
   - 'united states|\busa?\b|new york|san francisco|remote \(us|remote - us'
+public_limit: 10

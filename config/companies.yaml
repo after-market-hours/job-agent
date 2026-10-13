@@ -1,6 +1,6 @@
 # Stage is a best-effort label from public funding info (may be stale) -- review/edit freely.
 # Only companies whose stage is in `allowed_stages` are scanned. Add more via `cli.py add-company`.
-allowed_stages: [seed, A, B]
+allowed_stages: [seed, A, B, C]
 companies:
   - {name: Clarify, ats: ashby, slug: clarify, stage: seed}
   - {name: Hightouch, ats: ashby, slug: hightouch, stage: B}

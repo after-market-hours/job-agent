@@ -34,6 +34,11 @@ def connect(path: Path = DB_PATH) -> sqlite3.Connection:
     con = sqlite3.connect(path)
     con.row_factory = sqlite3.Row
     con.executescript(SCHEMA)
+    cols = {r[1] for r in con.execute("PRAGMA table_info(jobs)")}
+    if "kind" not in cols:
+        con.execute("ALTER TABLE jobs ADD COLUMN kind TEXT DEFAULT 'private'")
+    if "badge" not in cols:
+        con.execute("ALTER TABLE jobs ADD COLUMN badge TEXT DEFAULT ''")
     return con
 
 
@@ -51,10 +56,10 @@ def save_job(con, j: Job, state: str = "new"):
     import json
     con.execute(
         "INSERT OR IGNORE INTO jobs (id,ats,slug,ext_id,company,stage,title,url,apply_url,location,posted_at,comp_line,"
-        "equity_line,visa_flag,visa_snippet,exp_line,custom_questions,state,first_seen) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
+        "equity_line,visa_flag,visa_snippet,exp_line,custom_questions,state,first_seen,kind,badge) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
         (j.id, j.ats, j.slug, j.ext_id, j.company, j.stage, j.title, j.url, j.apply_url, j.location,
          j.posted_at.isoformat() if j.posted_at else None, j.comp_line, j.equity_line, j.visa_flag, j.visa_snippet,
-         j.exp_line, None if j.custom_questions is None else json.dumps(j.custom_questions), state, now()),
+         j.exp_line, None if j.custom_questions is None else json.dumps(j.custom_questions), state, now(), j.kind, j.badge),
     )
     con.execute("INSERT INTO history VALUES (?,?,?,?)", (j.id, state, now(), "saved"))
 

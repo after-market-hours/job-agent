@@ -26,3 +26,10 @@ Daily email of ~20 fresh seed–Series B Chief of Staff / Strategy & Ops / GTM r
   `add-company "Name" https://their-site.com --stage seed` (finds their Ashby/Greenhouse/Lever board, or scans their own careers page).
 - **Vetting** (`config/vetting.yaml`): public and Series C+ companies are never emailed. A company nobody has judged yet is **not emailed**; its name appears in the digest footer so it can be vetted.
 - Custom careers pages: scanned by plain HTTP daily; JavaScript-only pages get a browser scan on Mondays.
+
+## Digest layout (30 startups + 10 public)
+- **Startups, seed to Series C** (30/day, stage shown on every row): Ready to auto-apply / Manual (custom questions) / Form not checked.
+- **Public companies under $20B market cap** (10/day, live market cap from Yahoo Finance; edit `config/public_companies.yaml`).
+- Emerging consumer / building-products / industrial brands from `data/watchlist.json` carry a blue tag with sector, headcount and a news-mention count (Google News, last 90 days) as a press-activity signal.
+- Rebuild watchlists weekly (scheduled Sundays): `harvest` (YC) and `watchlist` (VC directory + emerging brands).
+- **Applications are never automatic.** The digest and scheduled tasks never apply. `apply <id>` works only in an interactive terminal, shows exactly what it will submit, and submits only if you type `yes`.

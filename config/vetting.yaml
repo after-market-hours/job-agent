@@ -36,14 +36,8 @@ TikTok:                  {verdict: public, note: "ByteDance subsidiary"}
 # ---- late stage / not an early-stage startup (never emailed) ----
 Anduril:            {verdict: late}
 Base Power:         {verdict: late, note: "memory: Series C 2025"}
-Decagon:            {verdict: late}
-Headway:            {verdict: late}
-EliseAI:            {verdict: late}
-Jeeves:             {verdict: late}
 Benchling:          {verdict: late}
 Plaid:              {verdict: late}
-Cresta:             {verdict: late}
-Kalshi:             {verdict: late}
 Skydio:             {verdict: late}
 Harvey:             {verdict: late}
 Flexport:           {verdict: late}
@@ -55,7 +49,6 @@ Applied Intuition:  {verdict: late}
 Ambience Healthcare: {verdict: late}
 Shield AI:          {verdict: late}
 Forgepoint:         {verdict: late, note: "venture firm, not a startup"}
-Substack:           {verdict: late}
 Luma AI:            {verdict: late}
 Xsolla:             {verdict: late}
 DRW:                {verdict: late, note: "trading firm"}
@@ -63,8 +56,6 @@ Alchemy:            {verdict: late}
 Komodo Health:      {verdict: late}
 OfferUp:            {verdict: late}
 Tanium:             {verdict: late}
-Talkiatry:          {verdict: late}
-ChartHop:           {verdict: late, note: "web: Series C 2023"}
 Kong:               {verdict: late}
 Netlify:            {verdict: late}
 OpenGov:            {verdict: late}
@@ -89,11 +80,9 @@ Yardsale: {verdict: early, stage: seed, note: "ski/outdoor gear brand, SF; job p
 
 # ---- vetted 2026-10-13 from the unverified queue ----
 # web-checked
-Havenly:        {verdict: late,  note: "web: Series C 2019, no later priced round"}
 Parsley Health: {verdict: early, stage: B, note: "web: Series B $26M 2019; no later priced round found"}
 Ripple Foods:   {verdict: late,  note: "web: Series E 2021"}
 Seated:         {verdict: early, stage: B, note: "web: $30M Series A/B 2020 (Insight, Craft, Greycroft)"}
-Nourish:        {verdict: late,  note: "web: Series C $100M May 2026"}
 Betr:           {verdict: early, stage: A, note: "web: Series A2 $35M 2023"}
 Corgi:          {verdict: early, stage: B, note: "web: Series B/B1/B2 in 2026 at $1.3B-$4B valuation - big for a Series B"}
 Rogo:           {verdict: late,  note: "web: Series D $160M Apr 2026"}
@@ -104,10 +93,8 @@ Stripe:         {verdict: late}
 Scale AI:       {verdict: late}
 X.ai:           {verdict: late}
 Mistral AI:     {verdict: late}
-Alloy:          {verdict: late}
 Automattic:     {verdict: late}
 BambooHR LLC:   {verdict: late}
-Bestow:         {verdict: late}
 Checkr:         {verdict: late}
 Citizen:        {verdict: late}
 Color:          {verdict: late}
@@ -117,7 +104,6 @@ Discord:        {verdict: late}
 DocuSign:       {verdict: public}
 DoorDash:       {verdict: public}
 Drata:          {verdict: late}
-Equip:          {verdict: late}
 Faire:          {verdict: late}
 Flutterwave:    {verdict: late}
 HotelTonight:   {verdict: late, note: "owned by Airbnb"}
@@ -126,10 +112,13 @@ Juniper Square: {verdict: late}
 Justworks:      {verdict: public}
 Oscar Health:   {verdict: public}
 Pendo:          {verdict: late}
-Placer.ai:      {verdict: late}
 Podium:         {verdict: late}
 Procore:        {verdict: public}
 RingCentral:    {verdict: public}
 Rubrik:         {verdict: public}
-Rightway:       {verdict: late}
 TravelPerk:     {verdict: late}
+
+# ---- Series C is now in scope (seed .. Series C) ----
+Havenly:   {verdict: early, stage: C, note: "web: Series C 2019, no later priced round"}
+Nourish:   {verdict: early, stage: C, note: "web: Series C $100M May 2026"}
+ChartHop:  {verdict: early, stage: C, note: "web: Series C $20M 2023"}

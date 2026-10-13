@@ -31,7 +31,7 @@ QUERIES = ["chief of staff", "strategy operations", "business operations", "bizo
 H = {"User-Agent": "Mozilla/5.0 (job-agent personal use)", "Content-Type": "application/json", "Accept": "application/json"}
 
 STAGE = {"pre_seed": "seed", "seed": "seed", "series_a": "A", "series_b": "B",
-         "series_c": "late", "series_c_plus": "late", "series_d": "late", "series_e": "late", "series_f": "late",
+         "series_c": "C", "series_c_plus": "late", "series_d": "late", "series_e": "late", "series_f": "late",
          "series_g": "late", "series_h": "late", "series_i": "late", "ipo": "late", "acquisition": "late",
          "private_equity": "late"}  # anything else (other / series_unknown / none) => '' => unverified
 

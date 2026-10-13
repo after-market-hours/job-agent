@@ -20,6 +20,8 @@ class Job:
     posted_at: Optional[datetime]
     description: str = ""
     structured_comp: str = ""
+    kind: str = "private"          # private | public
+    badge: str = ""                # e.g. emerging consumer brand + press signal, public-company market cap
     # filled by enrich
     comp_line: str = ""
     equity_line: str = ""

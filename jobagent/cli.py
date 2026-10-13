@@ -73,6 +73,16 @@ def cmd_harvest(a):
     print(f"resolved {len(found)} YC companies: {kinds} -> data/discovered.json")
 
 
+def cmd_watchlist(a):
+    from . import directory
+    d = directory.build_directory()
+    w = directory.build_watchlist(d)
+    kinds = {}
+    for c in w:
+        kinds[c["ats"]] = kinds.get(c["ats"], 0) + 1
+    print(f"directory: {len(d)} VC-backed companies; watchlist: {len(w)} emerging consumer/industrial brands {kinds}")
+
+
 def cmd_add_company(a):
     import yaml
     from . import discover
@@ -117,6 +127,8 @@ def main(argv=None):
     h = sp.add_parser("harvest")
     h.add_argument("--limit", type=int)
     h.set_defaults(f=cmd_harvest)
+    wl = sp.add_parser("watchlist", help="rebuild the VC company directory + emerging consumer/industrial watchlist")
+    wl.set_defaults(f=cmd_watchlist)
     ac = sp.add_parser("add-company")
     ac.add_argument("name")
     ac.add_argument("url")
