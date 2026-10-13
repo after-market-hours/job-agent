@@ -1,0 +1,135 @@
+# Manual stage verdicts. verdict: early (seed..Series B, private) | late (Series C+, or not a startup) | public
+# Wins over every other signal. Companies not listed anywhere are 'unverified' and are NOT emailed
+# (they are listed in the digest footer so you can ask for them to be vetted).
+# note: 'web' = checked via press/funding coverage this session; 'memory' = my own knowledge, may be stale.
+
+# ---- early stage (emailed) ----
+Waymark:            {verdict: early, stage: A,    note: "web: $45M Series A 2022, $42M 2023 (a16z, Lux, CVS)"}
+Crux:               {verdict: early, stage: B,    note: "web: $50M Series B Apr 2025"}
+Northwood Space:    {verdict: early, stage: A,    note: "web: $30M Series A Apr 2025"}
+Keycard:            {verdict: early, stage: A,    note: "web: seed + $30M Series A Oct 2025"}
+Protege:            {verdict: early, stage: A,    note: "web: Series A rounds 2025-26"}
+Midstream Health:   {verdict: early, stage: seed, note: "web: ~$6.7M seed Dec 2023"}
+Nash:               {verdict: early, stage: A,    note: "web: $20M Series A Jul 2022 (a16z, YC)"}
+Alleviate Health:   {verdict: early, stage: seed, note: "web: ~$4.3M seed Oct 2025"}
+TENEX.AI:           {verdict: early, stage: B,    note: "web: $250M Series B Mar 2026 (>$1B valuation, large for a Series B)"}
+Wonderschool:       {verdict: early, stage: B,    note: "web: $25M Series B Jan 2022"}
+Prosper AI:         {verdict: early, stage: A,    note: "web: $30M Series A Jun 2026"}
+Exa:                {verdict: early, stage: B,    note: "memory: Series B 2025"}
+HappyRobot:         {verdict: early, stage: B,    note: "memory: Series B 2025"}
+Hebbia AI:          {verdict: early, stage: B,    note: "memory: Series B 2024"}
+OpenRouter:         {verdict: early, stage: A,    note: "memory: Series A 2025"}
+Mariana Minerals:   {verdict: early, stage: A,    note: "memory: Series A 2025"}
+Periodic Labs:      {verdict: early, stage: seed, note: "memory: large seed 2025"}
+
+# ---- public (never emailed) ----
+Roblox:                  {verdict: public}
+Lyft:                    {verdict: public}
+Medtronic:               {verdict: public}
+Figma:                   {verdict: public}
+TD Synnex:               {verdict: public}
+Thermo Fisher Scientific: {verdict: public}
+Applied Materials:       {verdict: public}
+Omada Health:            {verdict: public}
+TikTok:                  {verdict: public, note: "ByteDance subsidiary"}
+
+# ---- late stage / not an early-stage startup (never emailed) ----
+Anduril:            {verdict: late}
+Base Power:         {verdict: late, note: "memory: Series C 2025"}
+Decagon:            {verdict: late}
+Headway:            {verdict: late}
+EliseAI:            {verdict: late}
+Jeeves:             {verdict: late}
+Benchling:          {verdict: late}
+Plaid:              {verdict: late}
+Cresta:             {verdict: late}
+Kalshi:             {verdict: late}
+Skydio:             {verdict: late}
+Harvey:             {verdict: late}
+Flexport:           {verdict: late}
+Zipline:            {verdict: late}
+Cursor:             {verdict: late}
+ElevenLabs:         {verdict: late}
+Illumio:            {verdict: late}
+Applied Intuition:  {verdict: late}
+Ambience Healthcare: {verdict: late}
+Shield AI:          {verdict: late}
+Forgepoint:         {verdict: late, note: "venture firm, not a startup"}
+Substack:           {verdict: late}
+Luma AI:            {verdict: late}
+Xsolla:             {verdict: late}
+DRW:                {verdict: late, note: "trading firm"}
+Alchemy:            {verdict: late}
+Komodo Health:      {verdict: late}
+OfferUp:            {verdict: late}
+Tanium:             {verdict: late}
+Talkiatry:          {verdict: late}
+ChartHop:           {verdict: late, note: "web: Series C 2023"}
+Kong:               {verdict: late}
+Netlify:            {verdict: late}
+OpenGov:            {verdict: late}
+ClickUp:            {verdict: late}
+
+# Still unverified (not emailed until vetted): Emanate, Thatch, Wrapbook, Morpho Labs, Lassie
+
+# ---- corrections to the curated companies.yaml list (memory; Series C+ at last check) ----
+Abridge:   {verdict: late}
+Writer:    {verdict: late}
+Baseten:   {verdict: late}
+Hightouch: {verdict: late}
+Linear:    {verdict: late}
+Sardine:   {verdict: late}
+Recharge:  {verdict: late}
+Honor:     {verdict: late}
+Papa:      {verdict: late}
+Kustomer:  {verdict: late}
+
+# ---- added by Jimmy ----
+Yardsale: {verdict: early, stage: seed, note: "ski/outdoor gear brand, SF; job post says Chief of Staff would be 4th full-time hire"}
+
+# ---- vetted 2026-10-13 from the unverified queue ----
+# web-checked
+Havenly:        {verdict: late,  note: "web: Series C 2019, no later priced round"}
+Parsley Health: {verdict: early, stage: B, note: "web: Series B $26M 2019; no later priced round found"}
+Ripple Foods:   {verdict: late,  note: "web: Series E 2021"}
+Seated:         {verdict: early, stage: B, note: "web: $30M Series A/B 2020 (Insight, Craft, Greycroft)"}
+Nourish:        {verdict: late,  note: "web: Series C $100M May 2026"}
+Betr:           {verdict: early, stage: A, note: "web: Series A2 $35M 2023"}
+Corgi:          {verdict: early, stage: B, note: "web: Series B/B1/B2 in 2026 at $1.3B-$4B valuation - big for a Series B"}
+Rogo:           {verdict: late,  note: "web: Series D $160M Apr 2026"}
+# well-known public / late-stage (memory)
+Anthropic:      {verdict: late}
+OpenAI:         {verdict: late}
+Stripe:         {verdict: late}
+Scale AI:       {verdict: late}
+X.ai:           {verdict: late}
+Mistral AI:     {verdict: late}
+Alloy:          {verdict: late}
+Automattic:     {verdict: late}
+BambooHR LLC:   {verdict: late}
+Bestow:         {verdict: late}
+Checkr:         {verdict: late}
+Citizen:        {verdict: late}
+Color:          {verdict: late}
+Commure:        {verdict: late}
+Cribl:          {verdict: late}
+Discord:        {verdict: late}
+DocuSign:       {verdict: public}
+DoorDash:       {verdict: public}
+Drata:          {verdict: late}
+Equip:          {verdict: late}
+Faire:          {verdict: late}
+Flutterwave:    {verdict: late}
+HotelTonight:   {verdict: late, note: "owned by Airbnb"}
+Joby Aviation:  {verdict: public}
+Juniper Square: {verdict: late}
+Justworks:      {verdict: public}
+Oscar Health:   {verdict: public}
+Pendo:          {verdict: late}
+Placer.ai:      {verdict: late}
+Podium:         {verdict: late}
+Procore:        {verdict: public}
+RingCentral:    {verdict: public}
+Rubrik:         {verdict: public}
+Rightway:       {verdict: late}
+TravelPerk:     {verdict: late}

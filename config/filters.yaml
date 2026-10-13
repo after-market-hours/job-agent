@@ -1,0 +1,31 @@
+include_title_patterns:
+  - chief of staff
+  - \bcos\b
+  - strategy (&|and) operations
+  - strategy ?& ?ops
+  - \bbiz ?ops\b
+  - business operations
+  - strategic operations
+  - \bgtm\b
+  - go[- ]to[- ]market
+  - revenue operations
+  - \brev ?ops\b
+  - sales operations
+  - marketing operations
+  - growth operations
+  - strategy (lead|manager|associate|analyst)
+  - (operations|ops) (lead|manager|associate)
+  - business (strategy|planning)
+exclude_title_patterns:
+  - \b(senior|sr\.?) (director|vice)\b
+  - \b(vp|vice president|head of|svp|evp|chief (?!of staff))\b
+  - \b(engineer|developer|designer|scientist|attorney|counsel|accountant|nurse|recruiter)\b
+  - \bintern(ship)?\b
+max_age_days: 60
+daily_limit: 12
+max_lone_min_years: 5      # exclude if the lone minimum is >= 6
+locations: []              # e.g. ["united states", "remote"]; empty = no location filter
+exclude_location_patterns:    # skip roles clearly outside the US
+  - '\b(london|uk|united kingdom|dublin|ireland|berlin|germany|paris|france|belgrade|serbia|europe|emea|apac|india|bangalore|singapore|sydney|australia|toronto|canada|amsterdam|netherlands|lisbon|portugal|madrid|spain|tel aviv|israel|warsaw|poland|brazil|mexico)\b'
+location_override_patterns:   # ...unless the location also says one of these
+  - 'united states|\busa?\b|new york|san francisco|remote \(us|remote - us'

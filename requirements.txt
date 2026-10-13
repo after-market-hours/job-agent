@@ -1,0 +1,7 @@
+requests
+pyyaml
+jinja2
+openpyxl
+playwright
+python-dotenv
+pytest

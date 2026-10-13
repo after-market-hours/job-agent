@@ -1,0 +1,81 @@
+# Stage is a best-effort label from public funding info (may be stale) -- review/edit freely.
+# Only companies whose stage is in `allowed_stages` are scanned. Add more via `cli.py add-company`.
+allowed_stages: [seed, A, B]
+companies:
+  - {name: Clarify, ats: ashby, slug: clarify, stage: seed}
+  - {name: Hightouch, ats: ashby, slug: hightouch, stage: B}
+  - {name: Dust, ats: ashby, slug: dust, stage: A}
+  - {name: Attio, ats: ashby, slug: attio, stage: B}
+  - {name: Rillet, ats: ashby, slug: rillet, stage: B}
+  - {name: Campfire, ats: ashby, slug: campfire, stage: B}
+  - {name: Pylon, ats: ashby, slug: pylon, stage: B}
+  - {name: Lightfield, ats: ashby, slug: lightfield, stage: A}
+  - {name: Unify, ats: ashby, slug: unify, stage: B}
+  - {name: Basis, ats: lever, slug: basis, stage: B}
+  - {name: Vapi, ats: ashby, slug: vapi, stage: A}
+  - {name: Bland AI, ats: ashby, slug: bland, stage: B}
+  - {name: Retell AI, ats: ashby, slug: retell-ai, stage: A}
+  - {name: Gamma, ats: ashby, slug: gamma, stage: B}
+  - {name: Granola, ats: ashby, slug: granola, stage: B}
+  - {name: Resend, ats: ashby, slug: resend, stage: B}
+  - {name: Mintlify, ats: ashby, slug: mintlify, stage: B}
+  - {name: Speakeasy, ats: ashby, slug: speakeasy, stage: A}
+  - {name: Readme, ats: ashby, slug: readme, stage: A}
+  - {name: Clerk, ats: ashby, slug: clerk, stage: B}
+  - {name: WorkOS, ats: ashby, slug: workos, stage: B}
+  - {name: Warp, ats: ashby, slug: warp, stage: B}
+  - {name: Nabla, ats: ashby, slug: nabla, stage: B}
+  - {name: Found, ats: ashby, slug: found, stage: A}
+  - {name: Oneleet, ats: ashby, slug: oneleet, stage: A}
+  - {name: Secureframe, ats: lever, slug: secureframe, stage: B}
+  - {name: Thoropass, ats: greenhouse, slug: thoropass, stage: B}
+  - {name: Eudia, ats: greenhouse, slug: eudia, stage: A}
+  - {name: Centari, ats: ashby, slug: centari, stage: A}
+  - {name: Shiftsmart, ats: ashby, slug: shiftsmart, stage: B}
+  - {name: Carbon Robotics, ats: ashby, slug: carbon-robotics, stage: B}
+  - {name: Bedrock Robotics, ats: ashby, slug: bedrock-robotics, stage: A}
+  - {name: n8n, ats: ashby, slug: n8n, stage: B}
+  - {name: Inngest, ats: ashby, slug: inngest, stage: A}
+  - {name: Linear, ats: ashby, slug: linear, stage: B}
+  - {name: Gorgias, ats: ashby, slug: gorgias, stage: B}
+  - {name: Postscript, ats: greenhouse, slug: postscript, stage: B}
+  - {name: Papa, ats: greenhouse, slug: papa, stage: B}
+  - {name: Honor, ats: greenhouse, slug: honor, stage: B}
+  - {name: Recharge, ats: ashby, slug: recharge, stage: B}
+  - {name: Rebuy, ats: ashby, slug: rebuy, stage: A}
+  - {name: Kustomer, ats: ashby, slug: kustomer, stage: B}
+  - {name: Assembly (AssemblyAI), ats: greenhouse, slug: assemblyai, stage: B}
+  - {name: Writer, ats: ashby, slug: writer, stage: B}
+  - {name: Abridge, ats: ashby, slug: abridge, stage: B}
+  - {name: Levelpath, ats: ashby, slug: levelpath, stage: A}
+  - {name: Mosaic, ats: ashby, slug: mosaic, stage: B}
+  - {name: Runway, ats: ashby, slug: runway, stage: A}
+  - {name: Cube, ats: ashby, slug: cubesoftware, stage: B}
+  - {name: Abacum, ats: ashby, slug: abacum, stage: B}
+  - {name: Drivetrain, ats: lever, slug: drivetrain, stage: A}
+  - {name: Numeric, ats: ashby, slug: numeric, stage: B}
+  - {name: Artisan, ats: ashby, slug: artisan, stage: B}
+  - {name: Amplemarket, ats: greenhouse, slug: amplemarket, stage: A}
+  - {name: lemlist, ats: ashby, slug: lemlist, stage: B}
+  - {name: Mutiny, ats: ashby, slug: mutiny, stage: B}
+  - {name: Circleback, ats: ashby, slug: circleback, stage: A}
+  - {name: Hyperbound, ats: ashby, slug: hyperbound, stage: A}
+  - {name: LangChain, ats: ashby, slug: langchain, stage: B}
+  - {name: LlamaIndex, ats: ashby, slug: llamaindex, stage: A}
+  - {name: Pinecone, ats: ashby, slug: pinecone, stage: B}
+  - {name: Weaviate, ats: ashby, slug: weaviate, stage: B}
+  - {name: Modal, ats: ashby, slug: modal, stage: B}
+  - {name: Baseten, ats: ashby, slug: baseten, stage: B}
+  - {name: Tandem Health, ats: ashby, slug: tandem-health, stage: A}
+  - {name: Suki, ats: greenhouse, slug: suki, stage: B}
+  - {name: MotherDuck, ats: ashby, slug: motherduck, stage: B}
+  - {name: Prefect, ats: ashby, slug: prefect, stage: B}
+  - {name: Omni, ats: ashby, slug: omni, stage: B}
+  - {name: Sardine, ats: ashby, slug: sardine, stage: B}
+  - {name: Column, ats: ashby, slug: column, stage: B}
+  - {name: Healthie, ats: greenhouse, slug: healthie, stage: B}
+  - {name: Fieldwire, ats: greenhouse, slug: fieldwire, stage: B}
+  - {name: Mem0, ats: ashby, slug: mem0, stage: A}
+  - {name: Letta, ats: ashby, slug: letta, stage: A}
+  - {name: Lightdash, ats: ashby, slug: lightdash, stage: A}
+  - {name: Yardsale, ats: web, slug: yardsale, careers_url: "https://yardsale.day/pages/jobs", stage: seed}

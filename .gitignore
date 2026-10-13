@@ -1,0 +1,10 @@
+.venv/
+.env
+data/
+logs/
+resume/*
+!resume/.gitkeep
+digest.html
+applications.xlsx
+__pycache__/
+config/profile.yaml
