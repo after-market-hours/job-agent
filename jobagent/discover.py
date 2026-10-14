@@ -18,6 +18,10 @@ ATS_PATTERNS = [
     ("ashby", re.compile(r"jobs\.ashbyhq\.com/([A-Za-z0-9_.\-]+)")),
     ("greenhouse", re.compile(r"(?:job-boards|boards)\.greenhouse\.io/(?:embed/job_board\?for=)?([A-Za-z0-9_\-]+)")),
     ("lever", re.compile(r"jobs\.lever\.co/([A-Za-z0-9_.\-]+)")),
+    ("workable", re.compile(r"apply\.workable\.com/([A-Za-z0-9_\-]+)")),
+    ("rippling", re.compile(r"ats\.rippling\.com/([A-Za-z0-9_\-]+)")),
+    ("gem", re.compile(r"jobs\.gem\.com/([A-Za-z0-9_\-]+)")),
+    ("bamboohr", re.compile(r"([a-z0-9\-]+)\.bamboohr\.com")),
 ]
 CAREER_PATHS = ["/careers", "/jobs", "/company/careers", "/join"]
 BAD_SLUGS = {"embed", "jobs", "api", "static"}
@@ -50,6 +54,19 @@ def has_jobs(ats: str, slug: str) -> bool:
         if ats == "lever":
             r = requests.get(f"https://api.lever.co/v0/postings/{slug}?mode=json", timeout=8)
             return r.ok and isinstance(r.json(), list) and bool(r.json())
+        if ats == "gem":
+            r = requests.get(f"https://api.gem.com/job_board/v0/{slug}/job_posts/", headers=H, timeout=8)
+            return r.ok and isinstance(r.json(), list) and bool(r.json())
+        if ats == "rippling":
+            r = requests.get(f"https://api.rippling.com/platform/api/ats/v1/board/{slug}/jobs", headers=H, timeout=8)
+            return r.ok and isinstance(r.json(), list) and bool(r.json())
+        if ats == "workable":
+            r = requests.post(f"https://apply.workable.com/api/v3/accounts/{slug}/jobs", headers=H, timeout=8,
+                              json={"query": "", "location": [], "department": [], "worktype": [], "remote": []})
+            return r.ok and bool(r.json().get("results"))
+        if ats == "bamboohr" and slug not in ("www", "app", "help", "documentation"):
+            r = requests.get(f"https://{slug}.bamboohr.com/careers/list", headers={**H, "Accept": "application/json"}, timeout=8)
+            return r.ok and "json" in r.headers.get("content-type", "") and bool(r.json().get("result"))
     except (requests.RequestException, ValueError):
         pass
     return False

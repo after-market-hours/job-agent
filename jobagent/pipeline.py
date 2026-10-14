@@ -13,7 +13,7 @@ from . import db
 from .enrich import enrich
 from .models import Job
 from .rank import age_days, location_ok, sort_key, title_ok
-from .sources import FETCHERS, FORM_CHECKERS, consider, getro, speedrun, web
+from .sources import FETCHERS, FORM_CHECKERS, a16z, consider, getro, speedrun, web
 from .vet import EARLY, Vetter
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -66,7 +66,7 @@ def run(con, limit: int | None = None, persist: bool = True, public_limit: int |
     web.DEEP = date.today().weekday() == 0 or bool(os.environ.get("JOBAGENT_DEEP"))  # browser pass: Mondays only
     with cf.ThreadPoolExecutor(4) as ex:  # browser scans are heavier
         all_jobs += [j for batch in ex.map(fetch, web_cos) for j in batch]
-    for name, src in (("speedrun", speedrun.fetch_all), ("getro", getro.fetch_all), ("consider", consider.fetch_all)):
+    for name, src in (("speedrun", speedrun.fetch_all), ("getro", getro.fetch_all), ("consider", consider.fetch_all), ("a16z", a16z.fetch_all)):
         try:  # aggregator boards: a16z speedrun, Getro VC boards, Consider VC boards
             all_jobs += src()
         except Exception as e:

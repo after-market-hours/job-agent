@@ -773,9 +773,8 @@
    "jobs.lererhippeau.com"
   ],
   "sector": "consumer / DTC",
-  "ats": "web",
+  "ats": "bamboohr",
   "slug": "plusonerobotics",
-  "careers_url": "https://www.plusonerobotics.com/careers",
   "early": true,
   "press_90d": 10
  },
@@ -974,9 +973,8 @@
    "jobs.greycroft.com"
   ],
   "sector": "consumer / DTC",
-  "ats": "web",
+  "ats": "rippling",
   "slug": "thriveglobal",
-  "careers_url": "https://thriveglobal.com/careers",
   "early": true,
   "press_90d": 28
  },
@@ -2330,9 +2328,8 @@
    "jobs.generalcatalyst.com"
   ],
   "sector": "consumer / DTC",
-  "ats": "web",
-  "slug": "fabric",
-  "careers_url": "https://fabric.inc/careers",
+  "ats": "rippling",
+  "slug": "fabric-inc",
   "early": true,
   "press_90d": 100
  },
@@ -2891,9 +2888,8 @@
    "jobs.firstmark.com"
   ],
   "sector": "industrials / manufacturing",
-  "ats": "web",
-  "slug": "bonus",
-  "careers_url": "https://bonusly.com/company/working-at-bonusly",
+  "ats": "rippling",
+  "slug": "bonusly",
   "early": true,
   "press_90d": 2
  },
@@ -4647,9 +4643,8 @@
    "jobs.fifthwall.com"
   ],
   "sector": "building products / construction",
-  "ats": "web",
+  "ats": "gem",
   "slug": "constrafor",
-  "careers_url": "https://www.constrafor.com/careers",
   "early": true,
   "press_90d": 3
  },
@@ -5417,9 +5412,8 @@
    "jobs.nfx.com"
   ],
   "sector": "consumer / DTC",
-  "ats": "web",
+  "ats": "bamboohr",
   "slug": "zubale",
-  "careers_url": "https://www.zubale.com/careers/",
   "early": true,
   "press_90d": 0
  },
@@ -6030,9 +6024,8 @@
    "careers.redpoint.com"
   ],
   "sector": "industrials / manufacturing",
-  "ats": "web",
+  "ats": "gem",
   "slug": "logixboard",
-  "careers_url": "https://www.logixboard.com/careers",
   "early": true,
   "press_90d": 0
  },
@@ -6269,9 +6262,8 @@
    "careers.redpoint.com"
   ],
   "sector": "food & beverage",
-  "ats": "web",
+  "ats": "rippling",
   "slug": "wander",
-  "careers_url": "https://www.wander.com/careers",
   "early": true,
   "press_90d": 100
  },
@@ -9344,9 +9336,8 @@
    "jobs.8vc.com"
   ],
   "sector": "industrials / manufacturing",
-  "ats": "web",
-  "slug": "luminatemed",
-  "careers_url": "https://www.luminatemed.com/careers",
+  "ats": "bamboohr",
+  "slug": "luminatemedical",
   "early": true,
   "press_90d": 2
  },
@@ -9588,9 +9579,8 @@
    "jobs.8vc.com"
   ],
   "sector": "industrials / manufacturing",
-  "ats": "web",
-  "slug": "overland",
-  "careers_url": "https://www.overland.ai/careers",
+  "ats": "rippling",
+  "slug": "overland-ai",
   "early": true,
   "press_90d": 30
  },
@@ -13676,9 +13666,8 @@
    "jobs.accel.com"
   ],
   "sector": "industrials / manufacturing",
-  "ats": "web",
+  "ats": "workable",
   "slug": "fuseenergy",
-  "careers_url": "https://apply.workable.com/fuseenergy/",
   "early": true,
   "press_90d": 30
  },
@@ -15878,9 +15867,8 @@
    "jobs.generalcatalyst.com"
   ],
   "sector": "beauty / wellness",
-  "ats": "web",
+  "ats": "gem",
   "slug": "hallow",
-  "careers_url": "https://jobs.gem.com/hallow",
   "early": true,
   "press_90d": 61
  },
