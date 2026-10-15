@@ -72,6 +72,19 @@ class Vetter:
                 return "late", "late"
         return "unverified", "unverified"
 
+    def is_healthcare(self, name: str) -> bool:
+        """Healthcare / medtech company, from manual flag or industry tags / one-liner in any company dataset."""
+        k = norm(name)
+        if k in self.manual and self.manual[k].get("healthcare"):
+            return True
+        from .healthcare import tags_are_healthcare
+        for src in (self.directory, self.watch):
+            x = src.get(k)
+            if x and tags_are_healthcare(x.get("tags"), x.get("description", "")):
+                return True
+        x = self.discovered.get(k)
+        return bool(x and tags_are_healthcare(None, x.get("one_liner", "")))
+
     def badge(self, name: str) -> str:
         """Tag for emerging consumer / building-products / industrial brands (judged from the company's industry tags only)."""
         w = self.watch.get(norm(name))

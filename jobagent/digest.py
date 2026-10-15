@@ -67,7 +67,7 @@ def render(jobs: list[Job], stats: dict) -> str:
         "<h3>Public companies under $20B market cap</h3><p>No new matching roles today.</p>"
     foot = (f'<p style="color:#57606a;font-size:12px">Scanned {stats["companies"]} companies plus VC job boards '
             f'({stats["fetched"]} postings). Excluded: {stats["no_sponsorship"]} no-sponsorship, '
-            f'{stats["exp_6plus"]} requiring 6+ yrs, {stats.get("not_early_stage", 0)} at later-stage companies.</p>')
+            f'{stats["exp_6plus"]} requiring 6+ yrs, {stats.get("not_early_stage", 0)} at later-stage companies, {stats.get("healthcare", 0)} healthcare, {stats.get("low_salary", 0)} under $100k.</p>')
     return (f'<html><body style="font-family:Segoe UI,Arial,sans-serif;max-width:760px">'
             f"<h2>Job digest · {date.today():%b %d}</h2>{body}{foot}</body></html>")
 

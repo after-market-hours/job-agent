@@ -69,12 +69,15 @@ _LONE = [
 ]
 
 
+MAX_RANGE_MIN = 6  # a range whose lower bound is >= 7 (e.g. 12-15 yrs) is excluded
+
+
 def experience(text: str, max_ok: int = 5) -> tuple[str, bool]:
-    """Return (display line, excluded). Excludes only a lone minimum >= max_ok+1 with no range."""
-    ranges = [(int(a), int(b)) for a, b in _RANGE.findall(text) if int(a) < int(b) <= 20]
+    """Return (display line, excluded). Excludes a lone minimum >= max_ok+1, or a range starting at 7+."""
+    ranges = [(int(a), int(b)) for a, b in _RANGE.findall(text) if int(a) < int(b) <= 30]
     if ranges:
         a, b = ranges[0]
-        return f"Exp: {a}–{b} yrs", False
+        return f"Exp: {a}–{b} yrs", min(r[0] for r in ranges) > MAX_RANGE_MIN
     lone = sorted({int(n) for rx in _LONE for n in rx.findall(text) if 1 <= int(n) <= 20})
     if not lone:
         return "Exp: not stated", False
@@ -96,6 +99,21 @@ def comp(structured: str, text: str) -> str:
             return first
     m = _MONEY.search(text)
     return m.group(0).strip() if m else "Salary not listed"
+
+
+_AMOUNT = re.compile(r"\$\s?(\d[\d,]*(?:\.\d+)?)\s?([kK])?")
+
+
+def salary_too_low(comp_line: str, floor: int = 100_000) -> bool:
+    """True when the listed USD pay (single figure, or the top of a range) is below `floor`. Unlisted/hourly/non-USD: False."""
+    if "$" not in comp_line:
+        return False
+    vals = []
+    for num, k in _AMOUNT.findall(comp_line):
+        v = float(num.replace(",", "")) * (1000 if k else 1)
+        if v >= 10_000:  # smaller numbers are hourly rates or junk
+            vals.append(v)
+    return bool(vals) and max(vals) < floor
 
 
 def equity(structured: str, text: str) -> str:

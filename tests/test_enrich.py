@@ -47,6 +47,29 @@ def test_experience(text, line, excl):
     assert experience(text) == (line, excl)
 
 
+def test_experience_range_starting_at_7_excluded():
+    assert experience("12-15 years of experience") == ("Exp: 12–15 yrs", True)
+    assert experience("7-10 years experience")[1] is True
+
+
+@pytest.mark.parametrize("line,low", [
+    ("$80,000 - $95,000", True), ("$95K", True), ("$90K – $120K", False), ("$100,000", False),
+    ("$211.4K – $290.6K", False), ("Salary not listed", False), ("€49,901 – €54,775", False), ("$45 - $60", False),
+])
+def test_salary_floor(line, low):
+    from jobagent.enrich import salary_too_low
+    assert salary_too_low(line) is low
+
+
+def test_healthcare_detection():
+    from jobagent.healthcare import description_is_healthcare, tags_are_healthcare
+    assert tags_are_healthcare(["Health Care", "Software"])
+    assert tags_are_healthcare(None, "AI for clinicians and hospitals")
+    assert not tags_are_healthcare(["Fintech"], "Payments for creators")
+    assert not description_is_healthcare("We offer health insurance, dental and vision.")
+    assert description_is_healthcare("Our platform serves hospitals and clinicians, improving patient outcomes.")
+
+
 def test_comp_structured_and_regex():
     assert comp("$211.4K – $290.6K • Offers Equity", "") == "$211.4K – $290.6K"
     assert comp("", "Range: $120,000 - $150,000 per year") == "$120,000 - $150,000"

@@ -10,7 +10,8 @@ from pathlib import Path
 import yaml
 
 from . import db
-from .enrich import enrich
+from .enrich import enrich, salary_too_low
+from .healthcare import description_is_healthcare
 from .models import Job
 from .rank import age_days, location_ok, sort_key, title_ok
 from .sources import FETCHERS, FORM_CHECKERS, a16z, consider, getro, speedrun, web
@@ -48,7 +49,7 @@ def run(con, limit: int | None = None, persist: bool = True, public_limit: int |
     limit = limit or cfg.get("daily_limit", 30)
     public_limit = cfg.get("public_limit", 10) if public_limit is None else public_limit
     stats = {"fetched": 0, "title_match": 0, "too_old": 0, "no_sponsorship": 0, "exp_6plus": 0, "dup": 0,
-             "source_errors": 0, "not_early_stage": 0}
+             "source_errors": 0, "not_early_stage": 0, "healthcare": 0, "low_salary": 0}
     companies = gather_companies(stats)
 
     def fetch(c):
@@ -103,6 +104,9 @@ def run(con, limit: int | None = None, persist: bool = True, public_limit: int |
                     continue
             j.stage = stage
             j.badge = vetter.badge(j.company)
+        if vetter.is_healthcare(j.company):
+            stats["healthcare"] += 1
+            continue
         stats["title_match"] += 1
         if age_days(j) > cfg.get("max_age_days", 30):
             stats["too_old"] += 1
@@ -111,6 +115,12 @@ def run(con, limit: int | None = None, persist: bool = True, public_limit: int |
             stats["dup"] += 1
             continue
         enrich(j, cfg.get("max_lone_min_years", 5))
+        if description_is_healthcare(j.description):
+            stats["healthcare"] += 1
+            continue
+        if salary_too_low(j.comp_line, cfg.get("min_salary", 100000)):
+            stats["low_salary"] += 1
+            continue
         if j.visa_flag == "excluded":
             stats["no_sponsorship"] += 1  # dropped entirely; re-evaluated (and re-dropped) each run
             continue
