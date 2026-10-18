@@ -1,5 +1,16 @@
 [
  {
+  "name": "JuziBot",
+  "website": "https://www.juzibot.com/",
+  "stage": "YC Winter 2019",
+  "early": true,
+  "team_size": 34,
+  "one_liner": "Intercom for WeChat, help companies to acquire,  engage, retain\u2026",
+  "ats": "web",
+  "slug": "juzibot",
+  "careers_url": "https://juzibot.com/"
+ },
+ {
   "name": "Overview",
   "website": "https://overview.ai",
   "stage": "YC Winter 2019",
@@ -76,7 +87,7 @@
   "website": "http://www.middesk.com",
   "stage": "YC Winter 2019",
   "early": true,
-  "team_size": 130,
+  "team_size": 140,
   "one_liner": "We make it easier for B2B companies to transact with one another",
   "ats": "ashby",
   "slug": "middesk"
@@ -163,16 +174,6 @@
   "slug": "Axel"
  },
  {
-  "name": "Doppler",
-  "website": "https://doppler.com",
-  "stage": "YC Winter 2019",
-  "early": true,
-  "team_size": 25,
-  "one_liner": "Secure secrets. Prevent breaches. Keep teams moving.",
-  "ats": "ashby",
-  "slug": "doppler"
- },
- {
   "name": "Caribou",
   "website": "https://usecaribou.com",
   "stage": "YC Winter 2019",
@@ -191,6 +192,17 @@
   "one_liner": "Unlocking the utility of genomics for the world.",
   "ats": "lever",
   "slug": "voltalabs"
+ },
+ {
+  "name": "Upsolve",
+  "website": "https://upsolve.org/learn/should-i-file-for-chapter-7-bankruptcy/",
+  "stage": "YC Winter 2019",
+  "early": true,
+  "team_size": 12,
+  "one_liner": "Helping low-income Americans overcome debt and rebuild credit at\u2026",
+  "ats": "web",
+  "slug": "upsolve",
+  "careers_url": "https://upsolve.org/careers/"
  },
  {
   "name": "Alpaca",
@@ -501,8 +513,8 @@
   "website": "http://trykarat.com",
   "stage": "YC Winter 2020",
   "early": true,
-  "team_size": 40,
-  "one_liner": "Better financial services for creators",
+  "team_size": 25,
+  "one_liner": "Business banking that helps you grow",
   "ats": "web",
   "slug": "trykarat",
   "careers_url": "https://www.trykarat.com/about/our-story"
@@ -700,8 +712,8 @@
   "early": true,
   "team_size": 160,
   "one_liner": "Cybersecurity awareness for fast growing companies",
-  "ats": "lever",
-  "slug": "tryriot"
+  "ats": "workable",
+  "slug": "riot"
  },
  {
   "name": "PostHog",
@@ -813,7 +825,7 @@
   "website": "https://useStable.com",
   "stage": "YC Winter 2020",
   "early": true,
-  "team_size": 30,
+  "team_size": 60,
   "one_liner": "A virtual address + mailbox for business",
   "ats": "ashby",
   "slug": "stable"
@@ -922,6 +934,16 @@
   "slug": "lightdash"
  },
  {
+  "name": "Blue Onion",
+  "website": "https://www.blueonion.ai/",
+  "stage": "YC Summer 2020",
+  "early": true,
+  "team_size": 27,
+  "one_liner": "Financial data layer for AI-powered finance and accounting",
+  "ats": "gem",
+  "slug": "blueonion-ai"
+ },
+ {
   "name": "AtoB",
   "website": "https://atob.com/",
   "stage": "YC Summer 2020",
@@ -930,6 +952,17 @@
   "one_liner": "Modernizing global transportation payments.",
   "ats": "ashby",
   "slug": "atob"
+ },
+ {
+  "name": "QuestDB",
+  "website": "https://questdb.com/",
+  "stage": "YC Summer 2020",
+  "early": true,
+  "team_size": null,
+  "one_liner": "Data platform for mission-critical real-time workloads",
+  "ats": "web",
+  "slug": "questdb",
+  "careers_url": "https://questdb.com/careers/"
  },
  {
   "name": "Seam",
@@ -1013,7 +1046,7 @@
   "team_size": 25,
   "one_liner": "API that lets companies embed investment accounts into their services",
   "ats": "ashby",
-  "slug": "atomic-invest"
+  "slug": "atomic"
  },
  {
   "name": "Vitable Health",
@@ -1123,8 +1156,8 @@
   "website": "https://ready.net",
   "stage": "YC Summer 2020",
   "early": true,
-  "team_size": 60,
-  "one_liner": "Collaborative platform for optimizing regulated utilities such as\u2026",
+  "team_size": 75,
+  "one_liner": "Ensuring AI delivers what people need, when and where they need it,\u2026",
   "ats": "ashby",
   "slug": "ready"
  },
@@ -1514,16 +1547,6 @@
   "slug": "popl"
  },
  {
-  "name": "Fathom",
-  "website": "https://www.fathom.ai",
-  "stage": "YC Winter 2021",
-  "early": true,
-  "team_size": 95,
-  "one_liner": "The most flexible AI meeting notetaker ever built.",
-  "ats": "ashby",
-  "slug": "fathom.video"
- },
- {
   "name": "LiveFlow",
   "website": "https://www.liveflow.com",
   "stage": "YC Winter 2021",
@@ -1623,8 +1646,9 @@
   "early": true,
   "team_size": 40,
   "one_liner": "Makes it easy for tech platforms to embed insurance into products",
-  "ats": "greenhouse",
-  "slug": "tintai"
+  "ats": "web",
+  "slug": "tint",
+  "careers_url": "https://www.tint.ai/careers"
  },
  {
   "name": "Slash",
@@ -1718,7 +1742,7 @@
   "team_size": 12,
   "one_liner": "Enterprise ready webhooks service, open-source and in the cloud",
   "ats": "ashby",
-  "slug": "svix"
+  "slug": "Svix"
  },
  {
   "name": "Gigs",
@@ -1886,6 +1910,17 @@
   "ats": "web",
   "slug": "varos",
   "careers_url": "https://varos.com/careers"
+ },
+ {
+  "name": "Baraka",
+  "website": "https://www.getbaraka.com/",
+  "stage": "YC Summer 2021",
+  "early": true,
+  "team_size": 34,
+  "one_liner": "Grow Your Wealth With Baraka",
+  "ats": "web",
+  "slug": "getbaraka",
+  "careers_url": "https://www.getbaraka.com/careers"
  },
  {
   "name": "Rootly",
@@ -2062,6 +2097,17 @@
   "one_liner": "Easiest way for companies to process data requests from governments",
   "ats": "ashby",
   "slug": "kodex"
+ },
+ {
+  "name": "Pirouette Pharma",
+  "website": "https://www.pirouettepharma.com/",
+  "stage": "YC Summer 2021",
+  "early": true,
+  "team_size": 9,
+  "one_liner": "We make injections as easy as pushing a button!",
+  "ats": "web",
+  "slug": "pirouettepharma",
+  "careers_url": "https://www.pirouettepharma.com/careers"
  },
  {
   "name": "SalaryBox",
@@ -2315,16 +2361,6 @@
   "careers_url": "https://www.telm.ai/careers/"
  },
  {
-  "name": "Zuma",
-  "website": "https://www.getzuma.com/",
-  "stage": "YC Summer 2021",
-  "early": true,
-  "team_size": 50,
-  "one_liner": "We help businesses convert leads into sales in minutes using text",
-  "ats": "lever",
-  "slug": "getzuma"
- },
- {
   "name": "Storylane",
   "website": "https://www.storylane.io/",
   "stage": "YC Summer 2021",
@@ -2494,6 +2530,17 @@
   "slug": "sieve"
  },
  {
+  "name": "Craniometrix",
+  "website": "https://craniometrix.com",
+  "stage": "YC Winter 2022",
+  "early": true,
+  "team_size": 64,
+  "one_liner": "Using AI to help dementia patients age at home",
+  "ats": "web",
+  "slug": "craniometrix",
+  "careers_url": "https://www.craniometrix.com/careers"
+ },
+ {
   "name": "Gym Class",
   "website": "https://gymclass.com",
   "stage": "YC Winter 2022",
@@ -2554,6 +2601,16 @@
   "ats": "web",
   "slug": "dartai",
   "careers_url": "https://www.ycombinator.com/companies/dart/jobs"
+ },
+ {
+  "name": "HOKALI",
+  "website": "https://www.hokali.com/",
+  "stage": "YC Winter 2022",
+  "early": true,
+  "team_size": 12,
+  "one_liner": "After School & Enrichment Activities Marketplace",
+  "ats": "workable",
+  "slug": "hokali"
  },
  {
   "name": "Flagright",
@@ -2686,8 +2743,8 @@
   "early": true,
   "team_size": 50,
   "one_liner": "Agency replaces traditional security and compliance headcount with AI.",
-  "ats": "greenhouse",
-  "slug": "agency"
+  "ats": "rippling",
+  "slug": "agencycyber"
  },
  {
   "name": "Prembly (formerly Identitypass)",
@@ -2777,7 +2834,7 @@
   "website": "https://www.rallyuxr.com/",
   "stage": "YC Winter 2022",
   "early": true,
-  "team_size": 35,
+  "team_size": 33,
   "one_liner": "Agentic User Research Infrastructure",
   "ats": "ashby",
   "slug": "rallyuxr"
@@ -2824,17 +2881,6 @@
   "one_liner": "AI platform to win and run government contracts",
   "ats": "ashby",
   "slug": "govdash"
- },
- {
-  "name": "KorrAI",
-  "website": "https://www.korrai.com",
-  "stage": "YC Winter 2022",
-  "early": true,
-  "team_size": 20,
-  "one_liner": "Traceable AI for billion-dollar infrastructure.",
-  "ats": "web",
-  "slug": "korrai",
-  "careers_url": "https://www.korrai.com/"
  },
  {
   "name": "Cofactr",
@@ -2967,6 +3013,17 @@
   "one_liner": "Turns your sales calls into CRM data, automatically.",
   "ats": "ashby",
   "slug": "paragon"
+ },
+ {
+  "name": "Signatur Biosciences",
+  "website": "https://www.signatur.bio/",
+  "stage": "YC Summer 2022",
+  "early": true,
+  "team_size": 5,
+  "one_liner": "Simple tests for complex diseases.",
+  "ats": "web",
+  "slug": "signatur",
+  "careers_url": "https://www.signatur.bio/careers"
  },
  {
   "name": "Novig",
@@ -3272,8 +3329,8 @@
   "website": "https://infisical.com",
   "stage": "YC Winter 2023",
   "early": true,
-  "team_size": 50,
-  "one_liner": "Unified platform for secrets, certs, and privileged access management",
+  "team_size": 70,
+  "one_liner": "Security infrastructure for developers and agents",
   "ats": "ashby",
   "slug": "infisical"
  },
@@ -3295,8 +3352,9 @@
   "early": true,
   "team_size": 5,
   "one_liner": "AI Wealth Manager",
-  "ats": "lever",
-  "slug": "finn"
+  "ats": "web",
+  "slug": "getfinn",
+  "careers_url": "https://getfinn.us/careers/"
  },
  {
   "name": "Reflex",
@@ -3307,17 +3365,6 @@
   "one_liner": "The operating system for building mission-critical enterprise apps.",
   "ats": "greenhouse",
   "slug": "reflex"
- },
- {
-  "name": "Syncly",
-  "website": "https://syncly.app/",
-  "stage": "YC Winter 2023",
-  "early": true,
-  "team_size": 15,
-  "one_liner": "Social listening for the video era",
-  "ats": "web",
-  "slug": "syncly",
-  "careers_url": "https://syncly.app/careers"
  },
  {
   "name": "Credal.ai",
@@ -3415,7 +3462,7 @@
   "website": "http://www.omnistrate.com",
   "stage": "YC Winter 2023",
   "early": true,
-  "team_size": 15,
+  "team_size": 25,
   "one_liner": "Build your control plane to deploy your product in your customer VPC\u2026",
   "ats": "web",
   "slug": "omnistrate",
@@ -3553,6 +3600,17 @@
   "ats": "web",
   "slug": "orchid",
   "careers_url": "https://orchid.health/careers"
+ },
+ {
+  "name": "222",
+  "website": "https://222.place",
+  "stage": "YC Winter 2023",
+  "early": true,
+  "team_size": 28,
+  "one_liner": "the AI social facilitator for offline human to human interactions",
+  "ats": "web",
+  "slug": "222",
+  "careers_url": "https://careers.222.place/"
  },
  {
   "name": "Variance",
@@ -3925,16 +3983,6 @@
   "slug": "subsets"
  },
  {
-  "name": "Capi Money",
-  "website": "https://www.capimoney.com",
-  "stage": "YC Summer 2023",
-  "early": true,
-  "team_size": 40,
-  "one_liner": "Helping businesses in emerging markets make pay their international\u2026",
-  "ats": "ashby",
-  "slug": "capimoney"
- },
- {
   "name": "Alguna",
   "website": "https://alguna.com",
   "stage": "YC Summer 2023",
@@ -3974,17 +4022,6 @@
   "one_liner": "AI-powered user interviews",
   "ats": "ashby",
   "slug": "outset"
- },
- {
-  "name": "Shasta Health",
-  "website": "https://www.shasta.health",
-  "stage": "YC Summer 2023",
-  "early": true,
-  "team_size": 5,
-  "one_liner": "Helping rehab practices book more patients",
-  "ats": "web",
-  "slug": "shasta",
-  "careers_url": "https://www.shasta.health/careers"
  },
  {
   "name": "FleetWorks",
@@ -4028,6 +4065,16 @@
   "slug": "brettonai"
  },
  {
+  "name": "Letter AI",
+  "website": "https://www.letter.ai",
+  "stage": "YC Summer 2023",
+  "early": true,
+  "team_size": 70,
+  "one_liner": "End-to-end content, learning, & deal intelligence for B2B sales teams",
+  "ats": "gem",
+  "slug": "letter-ai"
+ },
+ {
   "name": "Rimward",
   "website": "https://rimward.ai/",
   "stage": "YC Summer 2023",
@@ -4064,7 +4111,7 @@
   "website": "http://www.runconverge.com",
   "stage": "YC Summer 2023",
   "early": true,
-  "team_size": 6,
+  "team_size": 11,
   "one_liner": "All-in-one marketing measurement for B2C",
   "ats": "gem",
   "slug": "converge"
@@ -4135,7 +4182,7 @@
   "website": "https://langdock.com",
   "stage": "YC Summer 2023",
   "early": true,
-  "team_size": 55,
+  "team_size": 65,
   "one_liner": "The all-in-one AI platform for companies.",
   "ats": "ashby",
   "slug": "langdock"
@@ -4243,6 +4290,16 @@
   "slug": "nowadays"
  },
  {
+  "name": "Morph",
+  "website": "https://morphllm.com",
+  "stage": "YC Summer 2023",
+  "early": true,
+  "team_size": 3,
+  "one_liner": "Fast Models Optimized for Coding Agents",
+  "ats": "greenhouse",
+  "slug": "morph"
+ },
+ {
   "name": "Tempo",
   "website": "https://www.tempo.new",
   "stage": "YC Summer 2023",
@@ -4251,17 +4308,6 @@
   "one_liner": "Visual Editor for React, powered by AI",
   "ats": "ashby",
   "slug": "tempo"
- },
- {
-  "name": "Orbio Earth",
-  "website": "https://www.orbio.earth/",
-  "stage": "YC Summer 2023",
-  "early": true,
-  "team_size": 6,
-  "one_liner": "Tracking methane emissions with satellites",
-  "ats": "web",
-  "slug": "orbio",
-  "careers_url": "https://www.orbio.earth/careers"
  },
  {
   "name": "Healthtech 1",
@@ -4290,15 +4336,16 @@
   "early": true,
   "team_size": 7,
   "one_liner": "Agent-Driven Engineering",
-  "ats": "greenhouse",
-  "slug": "navierai"
+  "ats": "web",
+  "slug": "navier",
+  "careers_url": "https://navier.ai:443/careers"
  },
  {
   "name": "Relari",
   "website": "https://www.relari.ai/",
   "stage": "YC Winter 2024",
   "early": true,
-  "team_size": 2,
+  "team_size": 4,
   "one_liner": "Building dexterous robots that learn from human biomechanics",
   "ats": "web",
   "slug": "relari",
@@ -4530,6 +4577,16 @@
   "slug": "centralize"
  },
  {
+  "name": "Open",
+  "website": "https://open.cx",
+  "stage": "YC Winter 2024",
+  "early": true,
+  "team_size": 21,
+  "one_liner": "Enterprise AI customer support",
+  "ats": "workable",
+  "slug": "open-252"
+ },
+ {
   "name": "Ellipsis",
   "website": "https://ellipsis.dev",
   "stage": "YC Winter 2024",
@@ -4576,7 +4633,7 @@
   "website": "https://offdeal.io",
   "stage": "YC Winter 2024",
   "early": true,
-  "team_size": 15,
+  "team_size": 25,
   "one_liner": "AI-native investment bank for small businesses",
   "ats": "ashby",
   "slug": "offdeal"
@@ -4724,8 +4781,8 @@
   "website": "https://rove.com",
   "stage": "YC Winter 2024",
   "early": true,
-  "team_size": 4,
-  "one_liner": "Travel the world for free.",
+  "team_size": 32,
+  "one_liner": "Earn airline miles on hotels and everyday spend.",
   "ats": "web",
   "slug": "rove",
   "careers_url": "https://www.ycombinator.com/companies/rove/jobs"
@@ -4778,8 +4835,8 @@
   "website": "https://www.spurtest.com/",
   "stage": "YC Summer 2024",
   "early": true,
-  "team_size": 8,
-  "one_liner": "Spur is your AI QA Engineer. Test your websites with natural language.",
+  "team_size": 15,
+  "one_liner": "Spur is the validation infrastructure enterprises use to ship at the\u2026",
   "ats": "ashby",
   "slug": "Pear-VC"
  },
@@ -4843,19 +4900,8 @@
   "early": true,
   "team_size": 4,
   "one_liner": "Practical, general-purpose robots for repetitive industrial tasks",
-  "ats": "ashby",
+  "ats": "gem",
   "slug": "ultra"
- },
- {
-  "name": "Roger",
-  "website": "https://hireroger.com",
-  "stage": "YC Summer 2024",
-  "early": true,
-  "team_size": 2,
-  "one_liner": "Roger is an AI SDR that automates outbound sales and follows up 24/7.",
-  "ats": "web",
-  "slug": "hireroger",
-  "careers_url": "https://www.hireroger.com/careers"
  },
  {
   "name": "Domu Technology Inc.",
@@ -5051,7 +5097,7 @@
   "website": "https://www.useelevate.dev/",
   "stage": "YC Summer 2024",
   "early": true,
-  "team_size": 3,
+  "team_size": 10,
   "one_liner": "Automated AI data integrations for roll-ups",
   "ats": "web",
   "slug": "useelevate",
@@ -5397,17 +5443,6 @@
   "careers_url": "https://vendra.io/careers"
  },
  {
-  "name": "Draft The Record",
-  "website": "https://www.drafttherecord.com/",
-  "stage": "YC Summer 2024",
-  "early": true,
-  "team_size": 5,
-  "one_liner": "AI For Litigation",
-  "ats": "web",
-  "slug": "drafttherecord",
-  "careers_url": "https://www.drafttherecord.com/careers"
- },
- {
   "name": "Serve AI",
   "website": "https://serveaiglobal.com/",
   "stage": "YC Summer 2024",
@@ -5438,7 +5473,7 @@
   "one_liner": "Building the open operating system for the automated physical economy.",
   "ats": "web",
   "slug": "shipoway",
-  "careers_url": "https://www.shipoway.com/careers/"
+  "careers_url": "https://oway.io/careers/"
  },
  {
   "name": "Usul",
@@ -6063,6 +6098,17 @@
   "careers_url": "https://www.confident-ai.com/careers"
  },
  {
+  "name": "Nitrode",
+  "website": "https://www.nitrode.com",
+  "stage": "YC Winter 2025",
+  "early": true,
+  "team_size": 8,
+  "one_liner": "Frontier AI research to advance game development",
+  "ats": "web",
+  "slug": "nitrode",
+  "careers_url": "https://www.nitrode.com/careers"
+ },
+ {
   "name": "Harper",
   "website": "https://www.harperinsure.com/",
   "stage": "YC Winter 2025",
@@ -6198,7 +6244,7 @@
   "one_liner": "AI-Powered Company OS",
   "ats": "web",
   "slug": "rebolt",
-  "careers_url": "https://accounts.rebolt.ai/?client_id=client_01JS5CEMWBYSPETDEN7E8V71T9&redirect_uri=https%3A%2F%2Fwww.rebolt.ai%2Fapi%2Fauth%2Fcallback&state=eyJyZXR1cm5QYXRobmFtZSI6Ii9jYXJlZXJzIn0%3D&authorization_session_id=01M4V658PS7WKDENVE1H60A8CN"
+  "careers_url": "https://accounts.rebolt.ai/?client_id=client_01JS5CEMWBYSPETDEN7E8V71T9&redirect_uri=https%3A%2F%2Fwww.rebolt.ai%2Fapi%2Fauth%2Fcallback&state=eyJyZXR1cm5QYXRobmFtZSI6Ii9jYXJlZXJzIn0%3D&authorization_session_id=01M57879WT4N8F4DZDED9TYJ7J"
  },
  {
   "name": "Dalus",
@@ -6242,6 +6288,17 @@
   "ats": "web",
   "slug": "sammylabs",
   "careers_url": "https://www.sammylabs.com/careers"
+ },
+ {
+  "name": "TrainLoop",
+  "website": "http://trainloop.ai",
+  "stage": "YC Winter 2025",
+  "early": true,
+  "team_size": 6,
+  "one_liner": "Reasoning Fine-Tuning",
+  "ats": "web",
+  "slug": "trainloop",
+  "careers_url": "https://www.trainloop.ai/careers"
  },
  {
   "name": "Thirdlayer",
@@ -6446,17 +6503,6 @@
   "careers_url": "https://pgdog.dev/careers"
  },
  {
-  "name": "Attune",
-  "website": "https://attunehq.com",
-  "stage": "YC Spring 2025",
-  "early": true,
-  "team_size": 3,
-  "one_liner": "Faster builds, zero effort.",
-  "ats": "web",
-  "slug": "attunehq",
-  "careers_url": "https://www.attune.inc/"
- },
- {
   "name": "Jeevy Fabrication",
   "website": "https://www.jeevyfabrication.com/",
   "stage": "YC Spring 2025",
@@ -6536,7 +6582,7 @@
   "stage": "YC Spring 2025",
   "early": true,
   "team_size": 10,
-  "one_liner": "AI for High-Stakes Work",
+  "one_liner": "The Agent-Native Computer",
   "ats": "web",
   "slug": "vesence",
   "careers_url": "https://www.vesence.com/careers"
@@ -6779,7 +6825,7 @@
   "website": "https://www.ondeckai.com",
   "stage": "YC Summer 2025",
   "early": true,
-  "team_size": 7,
+  "team_size": 6,
   "one_liner": "Analyze any footage, without training a model",
   "ats": "web",
   "slug": "ondeckai",
@@ -6833,7 +6879,7 @@
   "website": "https://www.useflai.com/",
   "stage": "YC Summer 2025",
   "early": true,
-  "team_size": 35,
+  "team_size": 40,
   "one_liner": "We Bring Customers to Your Dealership",
   "ats": "ashby",
   "slug": "flai"
@@ -6864,10 +6910,11 @@
   "website": "https://solvatechnology.com",
   "stage": "YC Summer 2025",
   "early": true,
-  "team_size": 15,
+  "team_size": 7,
   "one_liner": "Building the new superintelligence for insurance",
-  "ats": "ashby",
-  "slug": "solva"
+  "ats": "web",
+  "slug": "solvatechnology",
+  "careers_url": "https://www.solvatechnology.com/careers"
  },
  {
   "name": "Manufact",
@@ -6889,6 +6936,16 @@
   "one_liner": "deploying the first billion robots for manufacturing",
   "ats": "ashby",
   "slug": "Relling"
+ },
+ {
+  "name": "Autumn",
+  "website": "https://autumn.ai",
+  "stage": "YC Winter 2026",
+  "early": true,
+  "team_size": 4,
+  "one_liner": "The people-intelligence company.",
+  "ats": "ashby",
+  "slug": "autumn"
  },
  {
   "name": "Finto",
@@ -7016,6 +7073,17 @@
   "slug": "interfere"
  },
  {
+  "name": "Vulcan Technologies",
+  "website": "https://vulcan.ai/",
+  "stage": "YC Summer 2025",
+  "early": true,
+  "team_size": 17,
+  "one_liner": "Secure frontier AI for government & adjacent knowledge work",
+  "ats": "web",
+  "slug": "vulcan",
+  "careers_url": "https://vulcan.ai/jobs"
+ },
+ {
   "name": "Veritus",
   "website": "https://www.veritus.com",
   "stage": "YC Summer 2025",
@@ -7043,8 +7111,8 @@
   "early": true,
   "team_size": 3,
   "one_liner": "Agentic Operating System for Food Supply Chain",
-  "ats": "greenhouse",
-  "slug": "burnt"
+  "ats": "gem",
+  "slug": "theburntapp-com"
  },
  {
   "name": "Freya",
@@ -7114,7 +7182,7 @@
   "website": "https://www.brickwiseai.com",
   "stage": "YC Fall 2025",
   "early": true,
-  "team_size": 13,
+  "team_size": 12,
   "one_liner": "AI property manager for landlords and estate agents",
   "ats": "web",
   "slug": "brickwiseai",
@@ -7246,6 +7314,17 @@
   "slug": "zalos-ai"
  },
  {
+  "name": "Sava",
+  "website": "https://www.savahq.com",
+  "stage": "YC Fall 2025",
+  "early": true,
+  "team_size": 7,
+  "one_liner": "Building the future of trusts",
+  "ats": "web",
+  "slug": "savahq",
+  "careers_url": "https://savatrustcompany.com/about"
+ },
+ {
   "name": "Icarus",
   "website": "https://www.icarus.one/",
   "stage": "YC Fall 2025",
@@ -7289,6 +7368,16 @@
   "careers_url": "https://www.jarmin.ai/careers"
  },
  {
+  "name": "General Astronautics",
+  "website": "https://generalastro.com/",
+  "stage": "YC Winter 2026",
+  "early": true,
+  "team_size": 4,
+  "one_liner": "Superintelligent space Robots",
+  "ats": "ashby",
+  "slug": "generalastronautics"
+ },
+ {
   "name": "MadeThis",
   "website": "https://madethis.com",
   "stage": "YC Fall 2025",
@@ -7298,6 +7387,16 @@
   "ats": "web",
   "slug": "madethis",
   "careers_url": "https://www.madethis.com/careers"
+ },
+ {
+  "name": "Rovi Health",
+  "website": "https://www.rovi.health",
+  "stage": "YC Fall 2025",
+  "early": true,
+  "team_size": 3,
+  "one_liner": "AI healthcare concierge for employees",
+  "ats": "gem",
+  "slug": "rovihealth"
  },
  {
   "name": "Lightberry",
@@ -7476,7 +7575,7 @@
   "one_liner": "RamAIn - AI Employees with a computer to perform business tasks just\u2026",
   "ats": "web",
   "slug": "ramain",
-  "careers_url": "https://ramain.ai/careers"
+  "careers_url": "https://ramain.ai/careers/"
  },
  {
   "name": "Salus",
@@ -7532,17 +7631,6 @@
   "slug": "parameter"
  },
  {
-  "name": "Rhizome AI",
-  "website": "https://rhizomeai.com/",
-  "stage": "YC Winter 2026",
-  "early": true,
-  "team_size": 1,
-  "one_liner": "Agent Platform for Life Sciences",
-  "ats": "web",
-  "slug": "rhizomeai",
-  "careers_url": "https://rhizomeai.com/sign-up?redirect_url=https%3A%2F%2Frhizomeai.com%2Fcareers"
- },
- {
   "name": "Cardboard",
   "website": "https://cardboard.ai",
   "stage": "YC Winter 2026",
@@ -7551,6 +7639,17 @@
   "one_liner": "Agentic video editor",
   "ats": "ashby",
   "slug": "cardboard"
+ },
+ {
+  "name": "Jinba",
+  "website": "https://jinba.io",
+  "stage": "YC Winter 2026",
+  "early": true,
+  "team_size": 11,
+  "one_liner": "Automate enterprise workflows through chat",
+  "ats": "web",
+  "slug": "jinba",
+  "careers_url": "https://jinba.io/careers"
  },
  {
   "name": "Visibl Semiconductors",
@@ -7690,17 +7789,6 @@
   "careers_url": "https://www.ycombinator.com/companies/vela/jobs"
  },
  {
-  "name": "Regbase",
-  "website": "https://regbase.com",
-  "stage": "YC Spring 2026",
-  "early": true,
-  "team_size": 3,
-  "one_liner": "Automating Corporate Compliance, Worldwide",
-  "ats": "web",
-  "slug": "regbase",
-  "careers_url": "https://regbase.com/?not-found=%2Fcareers"
- },
- {
   "name": "Brumby (Formerly GrazeMate)",
   "website": "https://brumby",
   "stage": "YC Winter 2026",
@@ -7722,14 +7810,15 @@
   "careers_url": "https://www.aurorincad.com/careers"
  },
  {
-  "name": "Bloom",
-  "website": "https://trybloom.ai",
+  "name": "Rainbrand",
+  "website": "https://rainbrand.com",
   "stage": "YC Spring 2026",
   "early": true,
   "team_size": 3,
   "one_liner": "The brand layer for agents.",
-  "ats": "lever",
-  "slug": "bloom"
+  "ats": "web",
+  "slug": "rainbrand",
+  "careers_url": "https://www.rainbrand.com/careers"
  },
  {
   "name": "Dispatch",
@@ -7842,7 +7931,7 @@
   "website": "https://junocompanion.com/",
   "stage": "YC Spring 2026",
   "early": true,
-  "team_size": 2,
+  "team_size": 5,
   "one_liner": "AI Health Assistant for Chronic Illness",
   "ats": "greenhouse",
   "slug": "juno"
@@ -7867,7 +7956,7 @@
   "one_liner": "The AI Quant: Autonomous Alpha Engine for Funds and Traders.",
   "ats": "web",
   "slug": "kelaitech",
-  "careers_url": "https://kelaitech.com/company/careers"
+  "careers_url": "https://kelaitech.com/careers"
  },
  {
   "name": "Standout",
@@ -7928,7 +8017,7 @@
   "website": "https://minicor.com",
   "stage": "YC Spring 2026",
   "early": true,
-  "team_size": 8,
+  "team_size": 9,
   "one_liner": "Scalable windows desktop automations",
   "ats": "web",
   "slug": "minicor",
@@ -8026,7 +8115,7 @@
   "website": "https://manicule.com",
   "stage": "YC Spring 2026",
   "early": true,
-  "team_size": 7,
+  "team_size": 8,
   "one_liner": "AgentRel \u2014 Devrel For Agents",
   "ats": "web",
   "slug": "manicule",
@@ -8059,7 +8148,7 @@
   "website": "https://kugelaudio.com/en",
   "stage": "YC Spring 2026",
   "early": true,
-  "team_size": 4,
+  "team_size": 5,
   "one_liner": "Kugel is an on-prem Voice AI model supporting 30+ languages ",
   "ats": "web",
   "slug": "kugelaudio",
@@ -8142,6 +8231,17 @@
   "careers_url": "https://screenpipe.com/careers"
  },
  {
+  "name": "Molagri",
+  "website": "https://molagri.com",
+  "stage": "YC Summer 2026",
+  "early": true,
+  "team_size": 4,
+  "one_liner": "Resistance free pesticides.",
+  "ats": "web",
+  "slug": "molagri",
+  "careers_url": "https://molagri.com/careers/"
+ },
+ {
   "name": "Pluto",
   "website": "https://talentpluto.com",
   "stage": "YC Summer 2026",
@@ -8217,6 +8317,16 @@
   "ats": "web",
   "slug": "princeps",
   "careers_url": "https://www.princeps.dev/careers"
+ },
+ {
+  "name": "Allia Health",
+  "website": "https://allia.health/",
+  "stage": "YC Summer 2026",
+  "early": true,
+  "team_size": 3,
+  "one_liner": "AI-Native Medical Group for Mental Health",
+  "ats": "gem",
+  "slug": "allia-health"
  },
  {
   "name": "Orca Aerospace",
