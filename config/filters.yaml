@@ -21,7 +21,6 @@ include_title_patterns:
   - (strategy|business|corporate) (&|and) finance
   - (corporate|business|growth|gtm|revenue|sales|commercial) finance
   - finance (lead|manager|associate|analyst|partner|business partner)
-  - financial (analyst|modeling)
 # Pure business-ops titles are dropped unless they also carry one of the keep terms (strategy, CoS, GTM, revenue/sales/
 # marketing/growth ops, finance...). "Business Operations Manager" is dropped; "Strategy & Business Operations" is kept.
 pure_ops_patterns:
@@ -43,6 +42,7 @@ pure_ops_keep_patterns:
   - founder
   - special projects
 exclude_title_patterns:
+  - \b(junior|jr\.?|new grad|entry[- ]level|apprentice)\b
   - \bmarketing\b
   - \bfp ?(&|and) ?a\b
   - \bfinancial planning\b

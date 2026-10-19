@@ -26,7 +26,7 @@ def test_titles_kept(title):
     "Operations Associate", "Senior Operations Lead", "Ops Manager", "Business Operations Analyst",
     "Head of Strategic Finance", "VP, Finance", "Accounting Manager", "Controller, Finance", "Tax Manager",
     "Accounts Payable Specialist", "FP&A Manager", "FP&A Analyst", "Financial Planning and Analysis Manager",
-    "Marketing Operations Manager", "Growth Marketing Manager", "Senior Director, Strategic Finance",
+    "Marketing Operations Manager", "Senior Financial Analyst", "Junior Financial Analyst", "Financial Analyst (New Grad)", "Junior Strategic Finance Associate", "Growth Marketing Manager", "Senior Director, Strategic Finance",
 ])
 def test_titles_dropped(title):
     assert not title_ok(title, CFG)
