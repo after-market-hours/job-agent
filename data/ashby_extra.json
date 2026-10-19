@@ -1,0 +1,2046 @@
+[
+ {
+  "name": "Capitalize.io",
+  "ats": "ashby",
+  "slug": "capitalize",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Casa",
+  "ats": "ashby",
+  "slug": "casa",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Footprint",
+  "ats": "ashby",
+  "slug": "footprint",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Genies",
+  "ats": "ashby",
+  "slug": "genies",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Novel",
+  "ats": "ashby",
+  "slug": "novel",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "On Me Gifting",
+  "ats": "ashby",
+  "slug": "onme",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Rare Candy",
+  "ats": "ashby",
+  "slug": "rarecandy",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Scaled Cognition",
+  "ats": "ashby",
+  "slug": "scaled-cognition",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Teleskope",
+  "ats": "ashby",
+  "slug": "teleskope",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Chariot",
+  "ats": "ashby",
+  "slug": "chariot",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Altis ",
+  "ats": "ashby",
+  "slug": "altis",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Bedrock Ocean Exploration",
+  "ats": "ashby",
+  "slug": "bedrockocean",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Bobyard",
+  "ats": "ashby",
+  "slug": "bobyard",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Cargado",
+  "ats": "ashby",
+  "slug": "cargado",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Chief",
+  "ats": "ashby",
+  "slug": "chief",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Gryps",
+  "ats": "ashby",
+  "slug": "Pear-VC",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "LightTable",
+  "ats": "ashby",
+  "slug": "lighttable",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Maybern",
+  "ats": "ashby",
+  "slug": "maybern",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Plural",
+  "ats": "ashby",
+  "slug": "plural",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Tabs",
+  "ats": "ashby",
+  "slug": "tabs",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Gorgias",
+  "ats": "ashby",
+  "slug": "gorgias",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Thread AI",
+  "ats": "ashby",
+  "slug": "thread-ai",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Tapcart",
+  "ats": "ashby",
+  "slug": "tapcart",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Mesh",
+  "ats": "ashby",
+  "slug": "mesh",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "ditto",
+  "ats": "ashby",
+  "slug": "ditto",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Capitalize",
+  "ats": "ashby",
+  "slug": "capitalize",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Stable",
+  "ats": "ashby",
+  "slug": "stable",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Firsthand",
+  "ats": "ashby",
+  "slug": "firsthand",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "H Company",
+  "ats": "ashby",
+  "slug": "hcompany",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Lago",
+  "ats": "ashby",
+  "slug": "lago",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Omaze",
+  "ats": "ashby",
+  "slug": "omaze",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Overtone",
+  "ats": "ashby",
+  "slug": "overtone",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Pickle",
+  "ats": "ashby",
+  "slug": "shoponpickle",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Rain",
+  "ats": "ashby",
+  "slug": "rain",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Tracebit",
+  "ats": "ashby",
+  "slug": "tracebit",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Tycho Ai",
+  "ats": "ashby",
+  "slug": "tycho-ai",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Vendelux",
+  "ats": "ashby",
+  "slug": "vendelux",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "VillageSQL",
+  "ats": "ashby",
+  "slug": "villagesql",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Ambrook",
+  "ats": "ashby",
+  "slug": "ambrook",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Braintrust",
+  "ats": "ashby",
+  "slug": "braintrust",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Ello",
+  "ats": "ashby",
+  "slug": "ello",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Kovo",
+  "ats": "ashby",
+  "slug": "kovo",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Matx",
+  "ats": "ashby",
+  "slug": "matx",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Overview",
+  "ats": "ashby",
+  "slug": "overview",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Quanta",
+  "ats": "ashby",
+  "slug": "quanta",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "ResQ",
+  "ats": "ashby",
+  "slug": "resq",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Windfall",
+  "ats": "ashby",
+  "slug": "windfall",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Adaptive Security",
+  "ats": "ashby",
+  "slug": "adaptivesecurity",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Brightwheel",
+  "ats": "ashby",
+  "slug": "brightwheel",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Catio",
+  "ats": "ashby",
+  "slug": "catio",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Evertune",
+  "ats": "ashby",
+  "slug": "evertune",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Genesis",
+  "ats": "ashby",
+  "slug": "genesis",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Ghost",
+  "ats": "ashby",
+  "slug": "ghost",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Mia Labs, Inc.",
+  "ats": "ashby",
+  "slug": "mia-labs",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Universe",
+  "ats": "ashby",
+  "slug": "universe",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Conversion",
+  "ats": "ashby",
+  "slug": "conversion",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Flux",
+  "ats": "ashby",
+  "slug": "flux",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Hatch",
+  "ats": "ashby",
+  "slug": "hatch",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Nectar Social",
+  "ats": "ashby",
+  "slug": "nectar-social",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Simple Ai",
+  "ats": "ashby",
+  "slug": "simple-ai",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Town.com",
+  "ats": "ashby",
+  "slug": "town",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Usul (Yc S24)",
+  "ats": "ashby",
+  "slug": "usul",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "A.Team",
+  "ats": "ashby",
+  "slug": "ateam",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Aligned",
+  "ats": "ashby",
+  "slug": "aligned",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Candex",
+  "ats": "ashby",
+  "slug": "candex",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Codex",
+  "ats": "ashby",
+  "slug": "codex",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Known",
+  "ats": "ashby",
+  "slug": "known",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "OnRamp",
+  "ats": "ashby",
+  "slug": "onramp",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Propel",
+  "ats": "ashby",
+  "slug": "propel",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Ramp",
+  "ats": "ashby",
+  "slug": "ramp",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "REACH",
+  "ats": "ashby",
+  "slug": "reach",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Starfish Space",
+  "ats": "ashby",
+  "slug": "starfish-space-inc",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "UltraHorse",
+  "ats": "ashby",
+  "slug": "ultra",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Arch",
+  "ats": "ashby",
+  "slug": "arch",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Axiom Math",
+  "ats": "ashby",
+  "slug": "axiommath",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Clerk",
+  "ats": "ashby",
+  "slug": "clerk",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Envoy",
+  "ats": "ashby",
+  "slug": "envoy",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Higgsfield AI",
+  "ats": "ashby",
+  "slug": "higgsfieldai",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Immersive Labs",
+  "ats": "ashby",
+  "slug": "immersivelabs",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Kinetic Automation",
+  "ats": "ashby",
+  "slug": "kinetic",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Knoetic",
+  "ats": "ashby",
+  "slug": "knoetic",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Lovable",
+  "ats": "ashby",
+  "slug": "lovable",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Manifest o.s.",
+  "ats": "ashby",
+  "slug": "manifest-os",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Numeric",
+  "ats": "ashby",
+  "slug": "numeric",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Prime Intellect",
+  "ats": "ashby",
+  "slug": "primeintellect",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Suno",
+  "ats": "ashby",
+  "slug": "suno",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Unstructured",
+  "ats": "ashby",
+  "slug": "unstructured",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Wispr Flow",
+  "ats": "ashby",
+  "slug": "wispr-flow",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Zania",
+  "ats": "ashby",
+  "slug": "zania",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Attio",
+  "ats": "ashby",
+  "slug": "attio",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Coder",
+  "ats": "ashby",
+  "slug": "coder",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Comun Banking",
+  "ats": "ashby",
+  "slug": "comun",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Every",
+  "ats": "ashby",
+  "slug": "every-io",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Fable Security",
+  "ats": "ashby",
+  "slug": "fable",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Getboon",
+  "ats": "ashby",
+  "slug": "boon",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Giga",
+  "ats": "ashby",
+  "slug": "gigaml",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Gradient Labs",
+  "ats": "ashby",
+  "slug": "gradient-labs",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Hex Technologies Inc.",
+  "ats": "ashby",
+  "slug": "hex",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "imper.ai",
+  "ats": "ashby",
+  "slug": "imper",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Kustomer",
+  "ats": "ashby",
+  "slug": "kustomer",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "LiveKit",
+  "ats": "ashby",
+  "slug": "livekit",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Materialize",
+  "ats": "ashby",
+  "slug": "materialize",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Maxima",
+  "ats": "ashby",
+  "slug": "maxima",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Modal Labs",
+  "ats": "ashby",
+  "slug": "modal",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Orca Security",
+  "ats": "ashby",
+  "slug": "orca",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Railway",
+  "ats": "ashby",
+  "slug": "railway",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Restate",
+  "ats": "ashby",
+  "slug": "restate",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Revel",
+  "ats": "ashby",
+  "slug": "revel",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Scribe",
+  "ats": "ashby",
+  "slug": "scribe",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Serval",
+  "ats": "ashby",
+  "slug": "serval",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Vega Ventures",
+  "ats": "ashby",
+  "slug": "vega",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Zed Industries",
+  "ats": "ashby",
+  "slug": "zed",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Aleph",
+  "ats": "ashby",
+  "slug": "aleph",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Anrok",
+  "ats": "ashby",
+  "slug": "anrok",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Aslan",
+  "ats": "ashby",
+  "slug": "aslan",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Automat",
+  "ats": "ashby",
+  "slug": "automat",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Cobot",
+  "ats": "ashby",
+  "slug": "cobot",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Coframe",
+  "ats": "ashby",
+  "slug": "coframe",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Dualentry",
+  "ats": "ashby",
+  "slug": "dualentry",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "General Intuition",
+  "ats": "ashby",
+  "slug": "generalintuition-medal",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Gigi",
+  "ats": "ashby",
+  "slug": "gigi",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Hook",
+  "ats": "ashby",
+  "slug": "hookmusic",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Inkeep",
+  "ats": "ashby",
+  "slug": "inkeep",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Kiddom",
+  "ats": "ashby",
+  "slug": "kiddom",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Kognitos",
+  "ats": "ashby",
+  "slug": "kognitos",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Lead Bank ",
+  "ats": "ashby",
+  "slug": "leadbank",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Limelight Steel",
+  "ats": "ashby",
+  "slug": "limelight-steel",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Mimica Automation",
+  "ats": "ashby",
+  "slug": "mimica",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Onyx AI",
+  "ats": "ashby",
+  "slug": "onyx",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Parallel Web Systems",
+  "ats": "ashby",
+  "slug": "parallel",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Primer",
+  "ats": "ashby",
+  "slug": "primer",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Reevoai",
+  "ats": "ashby",
+  "slug": "reevo",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Reflex Robotics",
+  "ats": "ashby",
+  "slug": "reflexrobotics",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Runsybil",
+  "ats": "ashby",
+  "slug": "runsybil-jobs",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Sarvam AI",
+  "ats": "ashby",
+  "slug": "sarvam",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Stuut",
+  "ats": "ashby",
+  "slug": "stuut-ai",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Tempo",
+  "ats": "ashby",
+  "slug": "tempo",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Terra AI",
+  "ats": "ashby",
+  "slug": "terraai",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Tilde",
+  "ats": "ashby",
+  "slug": "tilderesearch",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Traba",
+  "ats": "ashby",
+  "slug": "traba",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "True Link Financial",
+  "ats": "ashby",
+  "slug": "truelinkfinancial",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Vinci4D.ai",
+  "ats": "ashby",
+  "slug": "vinci",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "WindBorne Systems",
+  "ats": "ashby",
+  "slug": "windborne-systems",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Airbyte",
+  "ats": "ashby",
+  "slug": "airbyte",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Basic Capital",
+  "ats": "ashby",
+  "slug": "basiccapital",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Black Forest Labs",
+  "ats": "ashby",
+  "slug": "black-forest-labs",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Comity",
+  "ats": "ashby",
+  "slug": "comity",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Complir",
+  "ats": "ashby",
+  "slug": "complir",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Composite",
+  "ats": "ashby",
+  "slug": "composite",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Concourse",
+  "ats": "ashby",
+  "slug": "concourse",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Convex",
+  "ats": "ashby",
+  "slug": "convex-dev",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Doppel",
+  "ats": "ashby",
+  "slug": "doppel",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Eigen",
+  "ats": "ashby",
+  "slug": "teameigen",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Feathery",
+  "ats": "ashby",
+  "slug": "feathery",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Halliday",
+  "ats": "ashby",
+  "slug": "halliday",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Huskeys",
+  "ats": "ashby",
+  "slug": "huskeys",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Inscribe",
+  "ats": "ashby",
+  "slug": "InscribeAI",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Kodex",
+  "ats": "ashby",
+  "slug": "kodex",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Lance (YC W26)",
+  "ats": "ashby",
+  "slug": "lance",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Method Financial",
+  "ats": "ashby",
+  "slug": "method",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Mosaic",
+  "ats": "ashby",
+  "slug": "mosaic",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Neo.Tax",
+  "ats": "ashby",
+  "slug": "neo-tax",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Nomic AI",
+  "ats": "ashby",
+  "slug": "nomic",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Nylas",
+  "ats": "ashby",
+  "slug": "nylas",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "OSO",
+  "ats": "ashby",
+  "slug": "oso",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Phia",
+  "ats": "ashby",
+  "slug": "phia",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Raindrop",
+  "ats": "ashby",
+  "slug": "raindrop",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Rescale",
+  "ats": "ashby",
+  "slug": "rescale",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Spruce Systems",
+  "ats": "ashby",
+  "slug": "spruceid",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Tavus",
+  "ats": "ashby",
+  "slug": "tavus",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Terac",
+  "ats": "ashby",
+  "slug": "terac",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "White Circle",
+  "ats": "ashby",
+  "slug": "whitecircle",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Wordware",
+  "ats": "ashby",
+  "slug": "sauna.ai",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "WorkOS",
+  "ats": "ashby",
+  "slug": "workos",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Armadin",
+  "ats": "ashby",
+  "slug": "armadin",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Bedrock Robotics",
+  "ats": "ashby",
+  "slug": "bedrock-robotics",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Cambium",
+  "ats": "ashby",
+  "slug": "cambium",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Campus",
+  "ats": "ashby",
+  "slug": "campus",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Coram AI",
+  "ats": "ashby",
+  "slug": "coram-ai",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Edia",
+  "ats": "ashby",
+  "slug": "edia",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Edra.ai",
+  "ats": "ashby",
+  "slug": "edra",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Fabrion",
+  "ats": "ashby",
+  "slug": "fabrion",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Fieldguide",
+  "ats": "ashby",
+  "slug": "fieldguide",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Fractile",
+  "ats": "ashby",
+  "slug": "fractile",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Gallatin",
+  "ats": "ashby",
+  "slug": "gallatin",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Generalist",
+  "ats": "ashby",
+  "slug": "generalist",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Julius AI",
+  "ats": "ashby",
+  "slug": "julius",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "KOJO ",
+  "ats": "ashby",
+  "slug": "kojo",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Luminary",
+  "ats": "ashby",
+  "slug": "luminary",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Matician",
+  "ats": "ashby",
+  "slug": "Maticrobots",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Outset",
+  "ats": "ashby",
+  "slug": "outset",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Parallel Fluidics",
+  "ats": "ashby",
+  "slug": "parallel-fluidics",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Patlytics",
+  "ats": "ashby",
+  "slug": "patlytics",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "PointOne",
+  "ats": "ashby",
+  "slug": "PointOne",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Promise",
+  "ats": "ashby",
+  "slug": "promise",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Realm Alliance",
+  "ats": "ashby",
+  "slug": "realmalliance",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Saris AI",
+  "ats": "ashby",
+  "slug": "saris-ai",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Second Front Systems",
+  "ats": "ashby",
+  "slug": "second-front-systems",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Terminal Industries",
+  "ats": "ashby",
+  "slug": "terminal-industries",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Vals AI",
+  "ats": "ashby",
+  "slug": "vals-ai",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Built Robotics",
+  "ats": "ashby",
+  "slug": "built-robotics",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Cambio",
+  "ats": "ashby",
+  "slug": "cambio",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Impulse",
+  "ats": "ashby",
+  "slug": "impulse",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "AgentMail (YC S25)",
+  "ats": "ashby",
+  "slug": "agentmail",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Anagram",
+  "ats": "ashby",
+  "slug": "anagram",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Artie",
+  "ats": "ashby",
+  "slug": "artie",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "AtoB",
+  "ats": "ashby",
+  "slug": "atob",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Authzed",
+  "ats": "ashby",
+  "slug": "authzed",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Autoscience Institute",
+  "ats": "ashby",
+  "slug": "autoscience",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Avoca Ai",
+  "ats": "ashby",
+  "slug": "avoca",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Bolna",
+  "ats": "ashby",
+  "slug": "bolna",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Cartesia",
+  "ats": "ashby",
+  "slug": "cartesia",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Chalk",
+  "ats": "ashby",
+  "slug": "chalk",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "CTGT",
+  "ats": "ashby",
+  "slug": "ctgt",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "DOSS.COM",
+  "ats": "ashby",
+  "slug": "doss",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Dryft",
+  "ats": "ashby",
+  "slug": "dryft",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Emidat",
+  "ats": "ashby",
+  "slug": "emidat",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Fourier",
+  "ats": "ashby",
+  "slug": "fourier",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Geordie AI",
+  "ats": "ashby",
+  "slug": "geordieai",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Goodstack",
+  "ats": "ashby",
+  "slug": "goodstack",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Lean Technologies",
+  "ats": "ashby",
+  "slug": "leantech",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Liquid",
+  "ats": "ashby",
+  "slug": "liquid",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Luma AI",
+  "ats": "ashby",
+  "slug": "lumaai",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Mercor",
+  "ats": "ashby",
+  "slug": "mercor",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Meter",
+  "ats": "ashby",
+  "slug": "meter",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Method Security",
+  "ats": "ashby",
+  "slug": "method",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Onebrief",
+  "ats": "ashby",
+  "slug": "onebrief",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "OneSchema",
+  "ats": "ashby",
+  "slug": "oneschema",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Payrails",
+  "ats": "ashby",
+  "slug": "payrails",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "PowerUs",
+  "ats": "ashby",
+  "slug": "powerus",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Pylon",
+  "ats": "ashby",
+  "slug": "pylon",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Render",
+  "ats": "ashby",
+  "slug": "render",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Rox",
+  "ats": "ashby",
+  "slug": "Rox-Data-Corp",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Sapien",
+  "ats": "ashby",
+  "slug": "sapien",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Scalar",
+  "ats": "ashby",
+  "slug": "scalar",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Sleeper",
+  "ats": "ashby",
+  "slug": "sleeper",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Slide",
+  "ats": "ashby",
+  "slug": "slide",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Snackpass",
+  "ats": "ashby",
+  "slug": "snackpass",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Spiral",
+  "ats": "ashby",
+  "slug": "spiral",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Stacks",
+  "ats": "ashby",
+  "slug": "stacks",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Standard Bots",
+  "ats": "ashby",
+  "slug": "standardbots",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Twenty",
+  "ats": "ashby",
+  "slug": "twenty",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Veho",
+  "ats": "ashby",
+  "slug": "veho-tech-inc",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Vital Lyfe",
+  "ats": "ashby",
+  "slug": "vital-lyfe",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Wordsmith AI",
+  "ats": "ashby",
+  "slug": "wordsmith",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Agave",
+  "ats": "ashby",
+  "slug": "agave",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Atlas",
+  "ats": "ashby",
+  "slug": "atlas",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Checkly",
+  "ats": "ashby",
+  "slug": "checkly",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Cinder",
+  "ats": "ashby",
+  "slug": "cinder",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Code Metal",
+  "ats": "ashby",
+  "slug": "code-metal",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Complete ",
+  "ats": "ashby",
+  "slug": "complete",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "ConductorOne",
+  "ats": "ashby",
+  "slug": "C1",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Cursor",
+  "ats": "ashby",
+  "slug": "cursor",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Dash0",
+  "ats": "ashby",
+  "slug": "dash0",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Deepnote",
+  "ats": "ashby",
+  "slug": "deepnote",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Dovetail",
+  "ats": "ashby",
+  "slug": "dovetail",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Filigran",
+  "ats": "ashby",
+  "slug": "filigran",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Fin Assistant. (2015 - 2019)",
+  "ats": "ashby",
+  "slug": "fin",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Flint",
+  "ats": "ashby",
+  "slug": "flint",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Fluency",
+  "ats": "ashby",
+  "slug": "fluency",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Gamma",
+  "ats": "ashby",
+  "slug": "gamma",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Jellyfish",
+  "ats": "ashby",
+  "slug": "jellyfish",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Kaizen Labs",
+  "ats": "ashby",
+  "slug": "kaizenlabs",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Lightdash",
+  "ats": "ashby",
+  "slug": "lightdash",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Merge",
+  "ats": "ashby",
+  "slug": "merge",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Middesk",
+  "ats": "ashby",
+  "slug": "middesk",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Monarch Money",
+  "ats": "ashby",
+  "slug": "monarchmoney",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Nansen",
+  "ats": "ashby",
+  "slug": "nansen",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "One Robot (YC W26)",
+  "ats": "ashby",
+  "slug": "onerobot",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Pave Bank",
+  "ats": "ashby",
+  "slug": "pavebank",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Periodic Labs",
+  "ats": "ashby",
+  "slug": "periodic-labs",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "PermitFlow",
+  "ats": "ashby",
+  "slug": "permitflow",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "PointFive",
+  "ats": "ashby",
+  "slug": "pointfive",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Polar",
+  "ats": "ashby",
+  "slug": "polar",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Radar",
+  "ats": "ashby",
+  "slug": "radar",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "RadixArk",
+  "ats": "ashby",
+  "slug": "radixark",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Rainforest",
+  "ats": "ashby",
+  "slug": "rainforest-pay",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Rasa",
+  "ats": "ashby",
+  "slug": "rasa",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Recraft",
+  "ats": "ashby",
+  "slug": "recraft",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Rhythms",
+  "ats": "ashby",
+  "slug": "rhythms",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Sapiom",
+  "ats": "ashby",
+  "slug": "sapiom",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Sky Mavis",
+  "ats": "ashby",
+  "slug": "skymavis",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Smallstep",
+  "ats": "ashby",
+  "slug": "smallstep",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Speak",
+  "ats": "ashby",
+  "slug": "speak",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Swan",
+  "ats": "ashby",
+  "slug": "swan",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Tenderly",
+  "ats": "ashby",
+  "slug": "tenderly",
+  "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Tessl",
+  "ats": "ashby",
+  "slug": "tesslcareers",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Teya",
+  "ats": "ashby",
+  "slug": "teya",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Unit",
+  "ats": "ashby",
+  "slug": "unit",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Vivun",
+  "ats": "ashby",
+  "slug": "vivun",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Weaveworks",
+  "ats": "ashby",
+  "slug": "weave",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Zed",
+  "ats": "ashby",
+  "slug": "zed",
+  "stage": "A",
+  "early": true
+ }
+]

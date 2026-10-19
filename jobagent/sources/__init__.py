@@ -4,7 +4,8 @@ FETCHERS = {"ashby": ashby.fetch, "greenhouse": greenhouse.fetch, "lever": lever
             "gem": more_ats.gem, "rippling": more_ats.rippling, "workable": more_ats.workable, "bamboohr": more_ats.bamboohr}
 FORM_CHECKERS = {"ashby": ashby.custom_questions, "greenhouse": greenhouse.custom_questions, "lever": lever.custom_questions,
                  "web": web.custom_questions, "gem": more_ats.no_form_check, "rippling": more_ats.no_form_check,
-                 "workable": more_ats.no_form_check, "bamboohr": more_ats.no_form_check}
+                 "workable": more_ats.no_form_check, "bamboohr": more_ats.no_form_check,
+                 "linkedin": more_ats.no_form_check}
 
 # Field titles that count as "standard" (auto-fillable) on any ATS.
 STANDARD = (

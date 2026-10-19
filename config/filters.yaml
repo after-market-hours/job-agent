@@ -16,14 +16,48 @@ include_title_patterns:
   - strategy (lead|manager|associate|analyst)
   - (operations|ops) (lead|manager|associate)
   - business (strategy|planning)
+  # strategic finance
+  - strategic finance
+  - finance (&|and) (strategy|operations|ops)
+  - (strategy|business|corporate) (&|and) finance
+  - \bfp ?(&|and) ?a\b
+  - financial planning
+  - (corporate|business|growth|gtm|revenue|sales|commercial) finance
+  - finance (lead|manager|associate|analyst|partner|business partner)
+  - financial (analyst|modeling)
+# Pure business-ops titles are dropped unless they also carry one of the keep terms (strategy, CoS, GTM, revenue/sales/
+# marketing/growth ops, finance...). "Business Operations Manager" is dropped; "Strategy & Business Operations" is kept.
+pure_ops_patterns:
+  - \b(business|biz) ?ops\b
+  - \bbizops\b
+  - business operations
+  - ^(senior |sr\.? )?(operations|ops)\b
+  - \b(operations|ops) (lead|manager|associate|analyst|specialist|coordinator)
+pure_ops_keep_patterns:
+  - chief of staff
+  - strateg
+  - \bgtm\b
+  - go[- ]to[- ]market
+  - revenue
+  - \brev ?ops\b
+  - sales
+  - marketing
+  - growth
+  - financ
+  - \bfp ?(&|and) ?a\b
+  - founder
+  - special projects
 exclude_title_patterns:
+  - \b(accountant|accounting|controller|bookkeep\w*|tax|audit\w*|accounts (payable|receivable)|billing|treasury|procurement|payments? operations)\b
   - \b(senior|sr\.?) (director|vice)\b
   - \b(vp|vice president|head of|svp|evp|chief (?!of staff))\b
   - \b(engineer|developer|designer|scientist|attorney|counsel|accountant|nurse|recruiter)\b
   - \bintern(ship)?\b
   - \b(talent|recruit\w*|sourcer|staffing)\b
   - \b(warehouse|fulfillment|facilit(y|ies)|plant|store|retail operations|field operations|reinsurance|payroll|hr|legal|people operations|recruiting|trading|mining|site operations|customer support|contract)\b
-max_age_days: 60
+max_age_days: 35           # postings older than this (or with no posted date) are dropped
+ashby_bonus_days: 7        # an Ashby-hosted role ranks as if it were this many days newer
+linkedin_unverified_limit: 8   # LinkedIn roles at companies whose funding stage can't be verified (separate section)
 daily_limit: 30
 max_lone_min_years: 5      # exclude if the lone minimum is >= 6 (or a range starts at 7+)
 min_salary: 100000         # drop jobs whose listed pay (or top of range) is below this

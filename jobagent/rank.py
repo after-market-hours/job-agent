@@ -10,7 +10,17 @@ def title_ok(title: str, cfg: dict) -> bool:
     t = title.lower()
     if not any(re.search(p, t) for p in cfg["include_title_patterns"]):
         return False
-    return not any(re.search(p, t) for p in cfg["exclude_title_patterns"])
+    if any(re.search(p, t) for p in cfg["exclude_title_patterns"]):
+        return False
+    return not is_pure_ops(t, cfg)
+
+
+def is_pure_ops(title: str, cfg: dict) -> bool:
+    """A plain business-operations role: matches a pure-ops pattern and none of the keep terms (strategy, GTM, finance...)."""
+    t = title.lower()
+    if not any(re.search(p, t) for p in cfg.get("pure_ops_patterns", [])):
+        return False
+    return not any(re.search(p, t) for p in cfg.get("pure_ops_keep_patterns", []))
 
 
 def age_days(j: Job) -> float:
@@ -27,13 +37,19 @@ def is_priority_loc(j: Job) -> bool:
     return bool(PRIORITY_LOC.search(j.location or ""))
 
 
-CORE_TITLE = re.compile(r"chief of staff|strateg|\bgtm\b|go[- ]to[- ]market|biz ?ops|business operations|revenue operations|rev ?ops|founder", re.I)
+CORE_TITLE = re.compile(r"chief of staff|strateg|\bgtm\b|go[- ]to[- ]market|biz ?ops|business operations|revenue operations|rev ?ops|founder|financ|fp ?&? ?a", re.I)
 GENERIC_PENALTY_DAYS = 10  # a plain 'Operations Associate' ranks as if it were 10 days older than a core role
 
 
+ASHBY_BONUS_DAYS = 7        # overridden from filters.yaml (ashby_bonus_days) by the pipeline
+
+
 def sort_key(j: Job):
-    # newest first; SF/NY get a recency bonus; generic ops titles a small penalty; unknown dates last
+    # newest first; SF/NY and Ashby-hosted roles get a recency bonus; generic ops titles a small penalty; unknown dates last;
+    # a LinkedIn copy ranks just behind the same role found on the company's own ATS
     return (age_days(j) - (PRIORITY_BONUS_DAYS if is_priority_loc(j) else 0)
+            - (ASHBY_BONUS_DAYS if j.ats == "ashby" else 0)
+            + (0.5 if j.ats == "linkedin" else 0)
             + (0 if CORE_TITLE.search(j.title) else GENERIC_PENALTY_DAYS))
 
 

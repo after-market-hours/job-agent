@@ -141,3 +141,50 @@ def build_cache(limit: int | None = None) -> list[dict]:
     out.parent.mkdir(exist_ok=True)
     out.write_text(json.dumps(found, indent=1), encoding="utf-8")
     return found
+
+
+def _ashby_slug(name: str, domain: str) -> str | None:
+    """Ashby board slug for a company: slug guesses from its name / domain first, then an Ashby link on its careers page."""
+    host = urlparse(domain if domain.startswith("http") else "https://" + domain).netloc.lower().removeprefix("www.") if domain else ""
+    plain = re.sub(r"[^a-z0-9]", "", name.lower())
+    dashed = re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
+    for g in dict.fromkeys(x for x in (host.split(".")[0], plain, dashed) if x):
+        if has_jobs("ashby", g):
+            return g
+    if host:
+        for u in [f"https://{host}"] + [f"https://{host}{p}" for p in CAREER_PATHS]:
+            r = _get(u)
+            if r:
+                for m in ATS_PATTERNS[0][1].finditer(r.text):
+                    if m.group(1).lower() not in BAD_SLUGS and has_jobs("ashby", m.group(1)):
+                        return m.group(1)
+    return None
+
+
+def build_ashby_extra() -> list[dict]:
+    """Seed-to-Series-C companies from the VC directory (data/directory.json) that hire through Ashby -> data/ashby_extra.json.
+    Ashby is where most startup ops / strategy / finance roles are posted, so the daily scan reads these boards directly."""
+    from .vet import EARLY, Vetter, norm
+
+    directory = json.loads((ROOT / "data" / "directory.json").read_text(encoding="utf-8"))
+    vet = Vetter()
+    cands = [c for c in directory if c.get("stage") in EARLY and not vet.is_healthcare(c["name"])
+             and (c.get("head_count") or 0) <= 1500]
+
+    def go(c):
+        try:
+            slug = _ashby_slug(c["name"], c.get("domain", ""))
+        except Exception:
+            slug = None
+        return {"name": c["name"], "ats": "ashby", "slug": slug, "stage": c["stage"], "early": True} if slug else None
+
+    found = []
+    with cf.ThreadPoolExecutor(32) as ex:
+        for i, x in enumerate(ex.map(go, cands), 1):
+            if x:
+                found.append(x)
+            if i % 200 == 0:
+                print(f"  ...{i}/{len(cands)} checked, {len(found)} on Ashby", flush=True)
+    out = ROOT / "data" / "ashby_extra.json"
+    out.write_text(json.dumps(found, indent=1), encoding="utf-8")
+    return found

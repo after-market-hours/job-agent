@@ -14,8 +14,9 @@ from .enrich import enrich, salary_too_low
 from .healthcare import description_is_healthcare
 from .models import Job
 from .rank import age_days, location_ok, sort_key, title_ok
-from .sources import FETCHERS, FORM_CHECKERS, a16z, consider, getro, speedrun, web
-from .vet import EARLY, Vetter
+from . import rank
+from .sources import FETCHERS, FORM_CHECKERS, a16z, consider, getro, linkedin, speedrun, web
+from .vet import EARLY, Vetter, norm
 
 ROOT = Path(__file__).resolve().parent.parent
 log = logging.getLogger("jobagent")
@@ -35,7 +36,7 @@ def gather_companies(stats: dict) -> list[dict]:
     allowed = set(comp_cfg.get("allowed_stages", []))
     companies = [c for c in comp_cfg["companies"] if c.get("stage") in allowed]
     have = {(c["ats"], c["slug"]) for c in companies}
-    for fname in ("discovered.json", "watchlist.json"):  # YC companies; consumer/industrial watchlist
+    for fname in ("discovered.json", "watchlist.json", "ashby_extra.json"):  # YC companies; consumer watchlist; Ashby boards found in VC directories
         for c in _load_json(fname):
             if (c["ats"], c["slug"]) not in have and c.get("early"):
                 companies.append(c)
@@ -49,7 +50,8 @@ def run(con, limit: int | None = None, persist: bool = True, public_limit: int |
     limit = limit or cfg.get("daily_limit", 30)
     public_limit = cfg.get("public_limit", 10) if public_limit is None else public_limit
     stats = {"fetched": 0, "title_match": 0, "too_old": 0, "no_sponsorship": 0, "exp_6plus": 0, "dup": 0,
-             "source_errors": 0, "not_early_stage": 0, "healthcare": 0, "low_salary": 0}
+             "source_errors": 0, "not_early_stage": 0, "healthcare": 0, "low_salary": 0, "linkedin_seen": 0}
+    rank.ASHBY_BONUS_DAYS = cfg.get("ashby_bonus_days", rank.ASHBY_BONUS_DAYS)
     companies = gather_companies(stats)
 
     def fetch(c):
@@ -67,9 +69,12 @@ def run(con, limit: int | None = None, persist: bool = True, public_limit: int |
     web.DEEP = date.today().weekday() == 0 or bool(os.environ.get("JOBAGENT_DEEP"))  # browser pass: Mondays only
     with cf.ThreadPoolExecutor(4) as ex:  # browser scans are heavier
         all_jobs += [j for batch in ex.map(fetch, web_cos) for j in batch]
-    for name, src in (("speedrun", speedrun.fetch_all), ("getro", getro.fetch_all), ("consider", consider.fetch_all), ("a16z", a16z.fetch_all)):
-        try:  # aggregator boards: a16z speedrun, Getro VC boards, Consider VC boards
-            all_jobs += src()
+    for name, src in (("speedrun", speedrun.fetch_all), ("getro", getro.fetch_all), ("consider", consider.fetch_all), ("a16z", a16z.fetch_all), ("linkedin", linkedin.fetch_all)):
+        try:  # aggregator boards: a16z speedrun, Getro VC boards, Consider VC boards; LinkedIn job-alert emails (Gmail)
+            got = src()
+            all_jobs += got
+            if name == "linkedin":
+                stats["linkedin_seen"] = len(got)
         except Exception as e:
             log.warning("%s source failed: %s", name, e)
             stats["source_errors"] += 1
@@ -87,7 +92,8 @@ def run(con, limit: int | None = None, persist: bool = True, public_limit: int |
     vetter = Vetter()
 
     known = db.known_ids(con)
-    pools: dict[str, list[Job]] = {"private": [], "public": []}
+    have_roles = {(norm(r[0]), r[1].lower()) for r in con.execute("SELECT company, title FROM jobs")}  # LinkedIn copies of roles already emailed
+    pools: dict[str, list[Job]] = {"private": [], "public": [], "unverified": []}
     for j in all_jobs + public_jobs:
         if not title_ok(j.title, cfg) or not location_ok(f"{j.location} {j.title}", cfg):
             continue
@@ -99,6 +105,8 @@ def run(con, limit: int | None = None, persist: bool = True, public_limit: int |
             if verdict == "unverified":
                 if j.stage in EARLY:      # the source itself carries a funding stage (VC boards)
                     stage = j.stage
+                elif j.ats == "linkedin":  # LinkedIn gives no funding stage: shown in its own "stage not verified" section
+                    j.kind, stage = "unverified", ""
                 else:                      # unknown stage: skip quietly (logged for later vetting)
                     log.info("unvetted skipped: %s", j.company)
                     continue
@@ -108,10 +116,10 @@ def run(con, limit: int | None = None, persist: bool = True, public_limit: int |
             stats["healthcare"] += 1
             continue
         stats["title_match"] += 1
-        if age_days(j) > cfg.get("max_age_days", 30):
+        if age_days(j) > cfg.get("max_age_days", 35):
             stats["too_old"] += 1
             continue
-        if j.id in known:
+        if j.id in known or (j.ats == "linkedin" and (norm(j.company), j.title.lower()) in have_roles):
             stats["dup"] += 1
             continue
         enrich(j, cfg.get("max_lone_min_years", 5))
@@ -132,10 +140,10 @@ def run(con, limit: int | None = None, persist: bool = True, public_limit: int |
         pools[j.kind].append(j)
 
     picked: list[Job] = []
-    for kind, n, per_company in (("private", limit, 3), ("public", public_limit, 2)):
+    for kind, n, per_company in (("private", limit, 3), ("public", public_limit, 2), ("unverified", cfg.get("linkedin_unverified_limit", 8), 2)):
         seen_ids, seen_titles, per_co, chosen = set(), set(), {}, []
         for j in sorted(pools[kind], key=sort_key):
-            title_key = (j.company, j.title.lower())  # same role listed for several offices => one row
+            title_key = (norm(j.company), j.title.lower())  # same role listed for several offices => one row
             if j.id in seen_ids or title_key in seen_titles or per_co.get(j.company, 0) >= per_company:
                 continue
             seen_ids.add(j.id)

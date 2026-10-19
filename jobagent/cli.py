@@ -83,6 +83,12 @@ def cmd_watchlist(a):
     print(f"directory: {len(d)} VC-backed companies; watchlist: {len(w)} emerging consumer/industrial brands {kinds}")
 
 
+def cmd_ashby(a):
+    from . import discover
+    found = discover.build_ashby_extra()
+    print(f"{len(found)} seed-to-Series-C companies from the VC directory hire on Ashby -> data/ashby_extra.json")
+
+
 def cmd_add_company(a):
     import yaml
     from . import discover
@@ -129,6 +135,8 @@ def main(argv=None):
     h.set_defaults(f=cmd_harvest)
     wl = sp.add_parser("watchlist", help="rebuild the VC company directory + emerging consumer/industrial watchlist")
     wl.set_defaults(f=cmd_watchlist)
+    ab = sp.add_parser("ashby", help="find Ashby job boards of seed-to-Series-C companies in the VC directory")
+    ab.set_defaults(f=cmd_ashby)
     ac = sp.add_parser("add-company")
     ac.add_argument("name")
     ac.add_argument("url")

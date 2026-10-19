@@ -28,6 +28,7 @@ jobs:
           mkdir -p logs data
           python -m jobagent harvest
           python -m jobagent watchlist
+          python -m jobagent ashby
       - name: Save lists
         run: |
           git config user.name "job-agent-bot"

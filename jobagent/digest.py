@@ -29,7 +29,7 @@ def _row(j: Job) -> str:
         qs = "; ".join(escape(q[:80]) for q in j.custom_questions[:4])
         cq = f'<div style="font-size:12px;color:#9a3412">Custom questions: {qs}</div>'
     badge = f'<div style="font-size:12px;color:#0969da">{escape(j.badge)}</div>' if j.badge else ""
-    stage = escape(stage_label(j.stage)) if j.kind == "private" else "Public company"
+    stage = {"public": "Public company", "unverified": "Stage not verified"}.get(j.kind) or escape(stage_label(j.stage))
     return (
         '<tr><td style="padding:10px 0;border-bottom:1px solid #d0d7de">'
         f'<a href="{escape(j.url)}" style="font-size:15px;font-weight:600">{escape(j.title)}</a> — {escape(j.company)} '
@@ -51,6 +51,7 @@ def _section(title: str, sub: str, items: list[Job]) -> str:
 def render(jobs: list[Job], stats: dict) -> str:
     priv = [j for j in jobs if j.kind == "private"]
     pub = [j for j in jobs if j.kind == "public"]
+    unver = [j for j in jobs if j.kind == "unverified"]
     ready = [j for j in priv if j.custom_questions == []]
     manual = [j for j in priv if j.custom_questions]
     unchecked = [j for j in priv if j.custom_questions is None]
@@ -65,9 +66,12 @@ def render(jobs: list[Job], stats: dict) -> str:
         body += "<p>No new matching startup roles today.</p>"
     body += _section("Public companies under $20B market cap", "Same role criteria; stock-listed employers.", pub) if pub else \
         "<h3>Public companies under $20B market cap</h3><p>No new matching roles today.</p>"
+    if unver:
+        body += _section("From LinkedIn: company stage not verified", "Found through your LinkedIn alerts. I can't confirm these "
+                         "are seed to Series C, so check the company before applying (apply manually on LinkedIn).", unver)
     foot = (f'<p style="color:#57606a;font-size:12px">Scanned {stats["companies"]} companies plus VC job boards '
             f'({stats["fetched"]} postings). Excluded: {stats["no_sponsorship"]} no-sponsorship, '
-            f'{stats["exp_6plus"]} requiring 6+ yrs, {stats.get("not_early_stage", 0)} at later-stage companies, {stats.get("healthcare", 0)} healthcare, {stats.get("low_salary", 0)} under $100k.</p>')
+            f'{stats["exp_6plus"]} requiring 6+ yrs, {stats.get("not_early_stage", 0)} at later-stage companies, {stats.get("healthcare", 0)} healthcare, {stats.get("low_salary", 0)} under $100k. LinkedIn alert roles read: {stats.get("linkedin_seen", 0)}.</p>')
     return (f'<html><body style="font-family:Segoe UI,Arial,sans-serif;max-width:760px">'
             f"<h2>Job digest · {date.today():%b %d}</h2>{body}{foot}</body></html>")
 
