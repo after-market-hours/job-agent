@@ -37,7 +37,7 @@ def is_priority_loc(j: Job) -> bool:
     return bool(PRIORITY_LOC.search(j.location or ""))
 
 
-CORE_TITLE = re.compile(r"chief of staff|strateg|\bgtm\b|go[- ]to[- ]market|biz ?ops|business operations|revenue operations|rev ?ops|founder|financ|fp ?&? ?a", re.I)
+CORE_TITLE = re.compile(r"chief of staff|strateg|\bgtm\b|go[- ]to[- ]market|biz ?ops|business operations|revenue operations|rev ?ops|founder|financ", re.I)
 GENERIC_PENALTY_DAYS = 10  # a plain 'Operations Associate' ranks as if it were 10 days older than a core role
 
 

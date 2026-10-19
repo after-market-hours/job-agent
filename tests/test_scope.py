@@ -11,8 +11,8 @@ CFG = yaml.safe_load(open("config/filters.yaml", encoding="utf-8"))
 
 
 @pytest.mark.parametrize("title", [
-    "Strategic Finance Manager", "Strategic Finance & Operations", "FP&A Manager", "Finance & Strategy Lead",
-    "Senior Strategic Finance Associate", "Corporate Finance Analyst", "Financial Planning and Analysis Manager",
+    "Strategic Finance Manager", "Strategic Finance & Operations", "Finance & Strategy Lead",
+    "Senior Strategic Finance Associate", "Corporate Finance Analyst",
     "Chief of Staff", "Chief of Staff to the CEO", "Strategy & Operations Manager", "Strategy and Business Operations",
     "GTM Operations Manager", "Revenue Operations Manager", "Sales Operations Lead", "Business Operations & Strategy",
     "Growth Operations Associate", "Operations Manager, GTM",
@@ -25,7 +25,8 @@ def test_titles_kept(title):
     "Business Operations Manager", "Business Operations Associate", "BizOps Lead", "Operations Manager",
     "Operations Associate", "Senior Operations Lead", "Ops Manager", "Business Operations Analyst",
     "Head of Strategic Finance", "VP, Finance", "Accounting Manager", "Controller, Finance", "Tax Manager",
-    "Accounts Payable Specialist", "Senior Director, Strategic Finance",
+    "Accounts Payable Specialist", "FP&A Manager", "FP&A Analyst", "Financial Planning and Analysis Manager",
+    "Marketing Operations Manager", "Growth Marketing Manager", "Senior Director, Strategic Finance",
 ])
 def test_titles_dropped(title):
     assert not title_ok(title, CFG)

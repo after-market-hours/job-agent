@@ -11,7 +11,6 @@ include_title_patterns:
   - revenue operations
   - \brev ?ops\b
   - sales operations
-  - marketing operations
   - growth operations
   - strategy (lead|manager|associate|analyst)
   - (operations|ops) (lead|manager|associate)
@@ -20,8 +19,6 @@ include_title_patterns:
   - strategic finance
   - finance (&|and) (strategy|operations|ops)
   - (strategy|business|corporate) (&|and) finance
-  - \bfp ?(&|and) ?a\b
-  - financial planning
   - (corporate|business|growth|gtm|revenue|sales|commercial) finance
   - finance (lead|manager|associate|analyst|partner|business partner)
   - financial (analyst|modeling)
@@ -41,13 +38,14 @@ pure_ops_keep_patterns:
   - revenue
   - \brev ?ops\b
   - sales
-  - marketing
   - growth
   - financ
-  - \bfp ?(&|and) ?a\b
   - founder
   - special projects
 exclude_title_patterns:
+  - \bmarketing\b
+  - \bfp ?(&|and) ?a\b
+  - \bfinancial planning\b
   - \b(accountant|accounting|controller|bookkeep\w*|tax|audit\w*|accounts (payable|receivable)|billing|treasury|procurement|payments? operations)\b
   - \b(senior|sr\.?) (director|vice)\b
   - \b(vp|vice president|head of|svp|evp|chief (?!of staff))\b
