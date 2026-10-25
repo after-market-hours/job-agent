@@ -21,7 +21,7 @@
    "Technology"
   ],
   "description": "10Beauty, located in Burlington, MA, is building the definitive Intelligent Beauty company, leveraging robotics and automation to reimagine how people can interact with machines on a service level. We have built the world\u2019s first full manicure machine, having already pre-sold over $13M in annual manicure pod subscriptions to our first launch partners. Our diverse 30-person and growing team is built around individuals with a consistently demonstrated track record of introducing successful new-to-the-world products, with 75+ new products launched across the team.",
-  "active_jobs": 9,
+  "active_jobs": 10,
   "boards": [
    "jobs.lererhippeau.com"
   ],
@@ -29,7 +29,7 @@
   "ats": "greenhouse",
   "slug": "10beauty",
   "early": true,
-  "press_90d": 7
+  "press_90d": 5
  },
  {
   "name": "Air",
@@ -50,7 +50,7 @@
    "Software"
   ],
   "description": "Air is an agent for creative tasks built for creative and marketing teams. It combines a creative library, a DAM, reviews and approvals, and an AI agent that scales approved work across formats and channels. Teams use Air to organize creative, lock what's approved, and multiply it everywhere\u2014without starting over.",
-  "active_jobs": 8,
+  "active_jobs": 7,
   "boards": [
    "jobs.lererhippeau.com"
   ],
@@ -136,7 +136,7 @@
   "slug": "getbellhops",
   "careers_url": "https://www.getbellhops.com/about/careers/",
   "early": true,
-  "press_90d": 5
+  "press_90d": 8
  },
  {
   "name": "Birdstop",
@@ -174,7 +174,7 @@
   "slug": "birdstop",
   "careers_url": "https://birdstop.io/careers",
   "early": true,
-  "press_90d": 5
+  "press_90d": 9
  },
  {
   "name": "Block Renovation",
@@ -311,7 +311,7 @@
    "Wind Power"
   ],
   "description": "Drift empowers people with the freedom to buy and sell energy based on what is important to them, not what is important to the power companies.",
-  "active_jobs": 29,
+  "active_jobs": 35,
   "boards": [
    "jobs.lererhippeau.com",
    "jobs.generalcatalyst.com"
@@ -353,7 +353,7 @@
    "Wearables"
   ],
   "description": "Fi is building the operating system for pet health. Armed with AI-powered smart collars and the world's smallest GPS trackers, Fi is transforming how millions of pet parents understand and care for their dogs (and now cats). Beyond simple location tracking\u2014where they've already reunited over 268,000 lost dogs with their families\u2014Fi is pioneering real-time behavioral health intelligence: detecting subtle shifts in activity, sleep, appetite, hydration, and stress signals that would otherwise go unnoticed until a vet visit.",
-  "active_jobs": 10,
+  "active_jobs": 9,
   "boards": [
    "jobs.lererhippeau.com"
   ],
@@ -388,7 +388,7 @@
    "Software Development",
    "Technology"
   ],
-  "description": "Footprint is an onboarding platform that solves KYC, Security, Auth, and Fraud with five lines of code. By utilizing novel technologies such as Nitro Enclaves, Passkeys, and App Clips, Footprint has helped companies generate hundreds of thousands of dollars in customer LTV by boosting their conversion while also preventing fraud attacks through proprietary deterministic signals.",
+  "description": "The agentic platform that learns your compliance program and runs it end-to-end. Investigations are fully auditable, connected to trusted data sources, and committed to an organizational memory that compounds.",
   "active_jobs": 13,
   "boards": [
    "jobs.lererhippeau.com"
@@ -424,7 +424,7 @@
   "ats": "ashby",
   "slug": "genies",
   "early": true,
-  "press_90d": 19
+  "press_90d": 21
  },
  {
   "name": "Herb",
@@ -479,7 +479,7 @@
    "Software"
   ],
   "description": "Hungryroot is your personal grocer, powered by AI and the belief that food deeply impacts your daily life. You tell us a little about yourself, and we use proprietary predictive technology to deliver groceries and recipes that best suit your individual needs and goals. We also assist with meal planning and nutritional support, helping you save time, save money, shop sustainably, and eat what makes you feel your best. Hungryroot is a provider of an artificial intelligence-powered personalized grocery service.\n\nHungryroot first launched in 2015 as a better-for-you foods brand. Now six years later, Hungryroot is pioneering an entirely new way to grocery shop through predictive, personalized grocery delivery. Along with offering the best modern brands, Hungryroot continues to develop its own line of innovative healthy products, including the brand's award-winning Black Bean Brownie Batter. Check us out at: www.hungryroot.com.",
-  "active_jobs": 5,
+  "active_jobs": 4,
   "boards": [
    "jobs.lererhippeau.com"
   ],
@@ -487,7 +487,7 @@
   "ats": "greenhouse",
   "slug": "hungryroot",
   "early": true,
-  "press_90d": 11
+  "press_90d": 10
  },
  {
   "name": "IFTTT",
@@ -534,7 +534,7 @@
   "slug": "ifttt",
   "careers_url": "https://ifttt.com/careers",
   "early": true,
-  "press_90d": 27
+  "press_90d": 28
  },
  {
   "name": "Jaro Fleet Technologies",
@@ -585,7 +585,7 @@
   "slug": "lilsnack",
   "careers_url": "https://www.lilsnack.co/jobs",
   "early": true,
-  "press_90d": 17
+  "press_90d": 10
  },
  {
   "name": "Loop Returns",
@@ -601,7 +601,7 @@
    "Software"
   ],
   "description": "Retain customers and revenue with the most advanced returns and exchanges app on Shopify. Customers can seamlessly swap their product for any new variant. Loop will place the new order within Shopify, triggered by return package movements. Smooth for the customer and totally hands-free for you. Loop Triggers, the app is able to process a return at any point on its way back to you, getting an exchange or refund in the customer's hands within just a few days. If automated processing isn't your thing, issue refunds and place new exchange orders with just one click in the Loop Admin Panel.",
-  "active_jobs": 4,
+  "active_jobs": 2,
   "boards": [
    "jobs.lererhippeau.com",
    "jobs.firstmark.com"
@@ -610,7 +610,7 @@
   "ats": "lever",
   "slug": "loopreturns",
   "early": true,
-  "press_90d": 10
+  "press_90d": 9
  },
  {
   "name": "Mentium.io",
@@ -637,44 +637,6 @@
   "ats": "web",
   "slug": "mentium",
   "careers_url": "https://mentium.io/careers",
-  "early": true,
-  "press_90d": 0
- },
- {
-  "name": "Nifty League",
-  "domain": "niftyleague.com",
-  "stage": "seed",
-  "head_count": 1,
-  "tags": [
-   "Application Software",
-   "Blockchain and Cryptocurrency",
-   "Consumer Software",
-   "Cryptocurrency",
-   "Entertainment Software",
-   "Game Development",
-   "Games",
-   "Gaming",
-   "Hardware",
-   "Internet Services",
-   "Mobile Games",
-   "NFTs",
-   "Online Games",
-   "Other Financial Services",
-   "Software",
-   "Software Development",
-   "Technology",
-   "Virtual Reality",
-   "Web3"
-  ],
-  "description": "Nifty League is a web-focused game studio that decentralizes game development. It intends to build a studio for production and player engagement in order to encourage other independent developers to collaborate with them to create a decentralized future.",
-  "active_jobs": 0,
-  "boards": [
-   "jobs.lererhippeau.com"
-  ],
-  "sector": "industrials / manufacturing",
-  "ats": "web",
-  "slug": "niftyleague",
-  "careers_url": "https://niftyleague.com/careers",
   "early": true,
   "press_90d": 0
  },
@@ -768,7 +730,7 @@
    "Warehouse Automation"
   ],
   "description": "Plus One Robotics develops a parcel-handling robotics platform for logistics applications. Plus One's intelligent solutions combine computer vision, AI, and supervised autonomy to pick parcels for the Global 100's leading logistics and e-commerce companies. Plus One's AI-powered software determines the precise movement of millions of SKUs in routine tasks like sortation and depalletizing. Plus One focuses on logistics application development and logistics robot deployment for material handling tasks in warehouses and distribution centers.",
-  "active_jobs": 5,
+  "active_jobs": 6,
   "boards": [
    "jobs.lererhippeau.com"
   ],
@@ -776,7 +738,7 @@
   "ats": "bamboohr",
   "slug": "plusonerobotics",
   "early": true,
-  "press_90d": 5
+  "press_90d": 19
  },
  {
   "name": "PowerToFly",
@@ -829,7 +791,7 @@
   "slug": "powertofly",
   "careers_url": "https://powertofly.com/jobs",
   "early": true,
-  "press_90d": 1
+  "press_90d": 2
  },
  {
   "name": "Prose",
@@ -859,7 +821,7 @@
    "Sustainable"
   ],
   "description": "Prose is a custom hair care brand that offers consumers freshly made products to meet their unique hair and scalp needs. Consumers take a holistic consultation about their hair type and texture, lifestyle habits, environmental exposure (pollution, UV, humidity, hard water, and wind), and even diet and stress levels. Each custom formula also accounts for personal preferences, whether they are vegan, gluten-free, or opt for fragrance-free, and is made to order in their NYC lab. Prose is available nationwide via prose.com and through select stylists.",
-  "active_jobs": 5,
+  "active_jobs": 8,
   "boards": [
    "jobs.lererhippeau.com"
   ],
@@ -883,7 +845,7 @@
    "Software"
   ],
   "description": "Scotch provides a point-of-sale and business management platform designed specifically for liquor retailers. The platform combines payment processing, inventory management, ordering, receiving, analytics, and back-office operations within a single system. Its software supports liquor-specific workflows such as case-break tracking, invoice digitization, age verification, inventory reconciliation, and distributor order management. Scotch also offers reporting and analytics tools that help retailers monitor inventory levels, product performance, pricing changes, and operational activity. The platform is designed to support both in-store transactions and ongoing business operations for independent and multi-location liquor stores.",
-  "active_jobs": 14,
+  "active_jobs": 11,
   "boards": [
    "jobs.lererhippeau.com"
   ],
@@ -910,7 +872,7 @@
    "Retail"
   ],
   "description": "Studs is a piercing studio meant to appeal to a conscious millennial and Gen-Z customer. The company offers safe and healthy ear piercings. Founded in 2019 by Anna Harman and Lisa Bubbers, Studs is headquartered in New York, United States.",
-  "active_jobs": 76,
+  "active_jobs": 67,
   "boards": [
    "jobs.lererhippeau.com"
   ],
@@ -976,7 +938,7 @@
   "ats": "rippling",
   "slug": "thriveglobal",
   "early": true,
-  "press_90d": 36
+  "press_90d": 44
  },
  {
   "name": "Trestle",
@@ -1012,7 +974,7 @@
   "slug": "gotrestle",
   "careers_url": "https://www.gotrestle.com/company",
   "early": true,
-  "press_90d": 100
+  "press_90d": 43
  },
  {
   "name": "Urban Sky",
@@ -1051,7 +1013,7 @@
   "ats": "greenhouse",
   "slug": "urbansky",
   "early": true,
-  "press_90d": 10
+  "press_90d": 9
  },
  {
   "name": "Valdera",
@@ -1080,7 +1042,7 @@
   "ats": "lever",
   "slug": "valdera",
   "early": true,
-  "press_90d": 5
+  "press_90d": 7
  },
  {
   "name": "Zipline",
@@ -1126,7 +1088,7 @@
    "Workforce Management"
   ],
   "description": "Zipline is a California-based automated logistics company that designs, manufactures, and operates drones to deliver vital medical products. Zipline's mission is to provide every human on Earth with instant access to vital medical supplies.\n\nIn 2014, Zipline was created to deliver medicine to those who needed it. Since then, the company has built a quick delivery drone and an autonomous logistics network. Zipline designs and tests its technology in Half Moon Bay, California. The company assembles the drones and the technology that powers their distribution.",
-  "active_jobs": 345,
+  "active_jobs": 349,
   "boards": [
    "jobs.lererhippeau.com",
    "jobs.fifthwall.com"
@@ -1167,7 +1129,7 @@
   "slug": "alifehealth",
   "careers_url": "https://www.alifehealth.com/careers/",
   "early": true,
-  "press_90d": 13
+  "press_90d": 12
  },
  {
   "name": "Blip",
@@ -1190,7 +1152,7 @@
   "ats": "greenhouse",
   "slug": "blip",
   "early": true,
-  "press_90d": 84
+  "press_90d": 97
  },
  {
   "name": "Brewbird",
@@ -1206,7 +1168,7 @@
    "Other Commercial Products"
   ],
   "description": "Brewbird is building a sustainable future in coffee. We\u2019re developing a platform to help local and national roasters scale their craft to every home and office. We\u2019re a passionate team of builders who use technology to craft elegant and delightful solutions to real-world problems that impact billions of people. At Brewbird, we are supported by some of the world\u2019s best venture funds, roasters, and clients. Join us and help shape the future of coffee.",
-  "active_jobs": 2,
+  "active_jobs": 1,
   "boards": [
    "jobs.maveron.com"
   ],
@@ -1214,7 +1176,7 @@
   "ats": "gem",
   "slug": "brewbird",
   "early": true,
-  "press_90d": 0
+  "press_90d": 1
  },
  {
   "name": "Dolls Kill",
@@ -1238,7 +1200,7 @@
    "Style And Fashion"
   ],
   "description": "Dolls Kill started as a rebellious movement in response to a general lack in the proper fulfillment of online shopping sites. Tired of the same old clothing brands and rigid stern-faced models, Dolls Kill was created to subvert the established shopping etiquette. Always emphasizing change and experimentation in fashion is the key to the Dolls Kill movement. Encouraging personal freedom from a defined style and the balls to stand out from a crowd.",
-  "active_jobs": 9,
+  "active_jobs": 7,
   "boards": [
    "jobs.maveron.com"
   ],
@@ -1246,7 +1208,7 @@
   "ats": "lever",
   "slug": "dollskill",
   "early": true,
-  "press_90d": 29
+  "press_90d": 17
  },
  {
   "name": "Lovevery",
@@ -1272,7 +1234,7 @@
   "slug": "lovevery",
   "careers_url": "https://shop.lovevery.com/pages/join",
   "early": true,
-  "press_90d": 10
+  "press_90d": 16
  },
  {
   "name": "Pacagen",
@@ -1285,7 +1247,7 @@
    "PET"
   ],
   "description": "Pacagen develops innovative biotechnology solutions that help neutralize pet allergens, particularly targeting common allergens from cats, dogs, and dust mites. Their software supports managing and delivering these allergen-neutralizing products effectively, improving the lives of pet owners who suffer from allergies.\n\nProprietary allergen neutralization technology (WHISKERBLOCK) that reduces up to 98% of cat allergens (Fel d 1).\n\nComprehensive product line including sprays for cats, dogs, and dust mites, plus supplements for pet food.\n\nSafe, non-toxic, and suitable for use around children, pets, and adults.\n\nIntegration with e-commerce platforms like their website and Amazon for easy purchasing and product tracking.\n\nThe software and products are designed for pet owners and families affected by pet allergies, veterinarians, and pet care professionals who want effective, safe solutions to reduce allergen exposure.\n\nPacagen\u2019s solutions help reduce allergy symptoms by neutralizing allergens in the environment and on pets, improving the quality of life for allergic individuals while allowing them to enjoy pet companionship comfortably and safely.",
-  "active_jobs": 1,
+  "active_jobs": 0,
   "boards": [
    "jobs.maveron.com"
   ],
@@ -1357,7 +1319,7 @@
    "Transportation"
   ],
   "description": "Alloy is the global end-to-end identity risk solution that helps banks and fintechs automate and manage their decisions for onboarding, ongoing fraud & AML monitoring, and credit underwriting.",
-  "active_jobs": 25,
+  "active_jobs": 26,
   "boards": [
    "jobs.primary.vc",
    "jobs.eniac.vc",
@@ -1365,7 +1327,7 @@
    "jobs.8vc.com"
   ],
   "sector": "consumer / DTC",
-  "ats": "greenhouse",
+  "ats": "ashby",
   "slug": "alloy",
   "early": true,
   "press_90d": 100
@@ -1411,7 +1373,7 @@
   "slug": "ark-biotech",
   "careers_url": "https://www.ark-biotech.com/careers",
   "early": true,
-  "press_90d": 6
+  "press_90d": 5
  },
  {
   "name": "Bedrock Ocean Exploration",
@@ -1476,7 +1438,7 @@
    "Software"
   ],
   "description": "Construction is one of the largest industries in the world, but it is also one of the least technologically innovative spaces. Conducting fast and accurate cost estimates is a massive pain point because of the tedious nature of takeoffs (measuring and counting materials needed from the drawings). Bobyard automates the construction takeoff process with CV and NLP models to make cost estimates 10x faster while eliminating mistakes. We are a lean startup backed by some of the best VCs in the world: Primary and Pear. Almost all of the work lies ahead of us. We are excited to create next-gen software for the built world!",
-  "active_jobs": 41,
+  "active_jobs": 43,
   "boards": [
    "jobs.primary.vc",
    "jobs.8vc.com"
@@ -1485,7 +1447,7 @@
   "ats": "ashby",
   "slug": "bobyard",
   "early": true,
-  "press_90d": 1
+  "press_90d": 0
  },
  {
   "name": "Bravely",
@@ -1529,7 +1491,7 @@
   "slug": "workbravely",
   "careers_url": "https://workbravely.com/",
   "early": true,
-  "press_90d": 100
+  "press_90d": 47
  },
  {
   "name": "Cargado",
@@ -1559,7 +1521,7 @@
   "ats": "ashby",
   "slug": "cargado",
   "early": true,
-  "press_90d": 18
+  "press_90d": 23
  },
  {
   "name": "Gryps",
@@ -1598,7 +1560,7 @@
   "ats": "ashby",
   "slug": "Pear-VC",
   "early": true,
-  "press_90d": 2
+  "press_90d": 3
  },
  {
   "name": "Kinetic",
@@ -1660,7 +1622,7 @@
    "Workers Compensation"
   ],
   "description": "Stay ahead of workplace risks with workers' comp insurance and smart safety solutions built for industries like parcel delivery, manufacturing, and transportation. \n\nWith Kinetic, policyholders and self-insured businesses actively predict, prevent, and manage injuries\u2014reducing workplace injuries by up to 60%. Protect your employees and your business.",
-  "active_jobs": 3,
+  "active_jobs": 2,
   "boards": [
    "jobs.primary.vc",
    "jobs.svangel.com"
@@ -1685,7 +1647,7 @@
    "Software"
   ],
   "description": "LightTable is a software company that specializes in designing documents and fewer RFIs for architects and construction.",
-  "active_jobs": 5,
+  "active_jobs": 7,
   "boards": [
    "jobs.primary.vc"
   ],
@@ -1693,7 +1655,7 @@
   "ats": "ashby",
   "slug": "lighttable",
   "early": true,
-  "press_90d": 0
+  "press_90d": 1
  },
  {
   "name": "Lyric",
@@ -1730,7 +1692,7 @@
    "Travel & Tourism"
   ],
   "description": "Lyric provides data-driven solutions to optimize supply chain operations, utilizing algorithms and advanced analytics to improve inventory management, transportation logistics, and overall efficiency for organizations in various sectors. The company offers tools that enable sales teams to access critical market insights, forecast demand accurately, and streamline procurement processes. Additionally, Lyric integrates machine learning to analyze patterns and trends, helping clients make informed decisions regarding resource allocation and risk management. Through its innovative approach, Lyric aims to support businesses in achieving operational excellence and enhancing their competitive edge in the marketplace.",
-  "active_jobs": 26,
+  "active_jobs": 24,
   "boards": [
    "jobs.primary.vc",
    "jobs.nfx.com"
@@ -1802,7 +1764,7 @@
   "ats": "lever",
   "slug": "relay-commerce",
   "early": true,
-  "press_90d": 1
+  "press_90d": 0
  },
  {
   "name": "Wunderkind (formerly BounceX)",
@@ -1839,7 +1801,7 @@
    "Technology, Information and Media"
   ],
   "description": "Wunderkind is a performance marketing engine that delivers tailored experiences at scale. Digital businesses use Wunderkind to remember who users are better than ever before, allowing them to deliver high-performing, one-to-one messages on websites, through emails and texts, and in ads at a scale that\u2019s not otherwise possible.\n\nWunderkind drives $1.2 billion annually in directly attributable revenue for top e-commerce brands like Uniqlo, Sonos, and HelloFresh, often ranking as a top-3 revenue channel in their own analytics. Wunderkind is maniacally obsessed with ROI and aims to be the infrastructural interface between individuals and brands in a world where consumers choose what they want, from whom, and when.",
-  "active_jobs": 15,
+  "active_jobs": 16,
   "boards": [
    "jobs.primary.vc"
   ],
@@ -1873,7 +1835,7 @@
    "Truck Transportation"
   ],
   "description": "The courier industry is decades old and has remained relatively unchanged, with minimal use of technology, mediocre service levels, and no national brand. Dropoff aims to become the first national brand for same-day delivery. We offer businesses a superior experience built on convenience, reliability, and unmatched customer service, all powered by our proprietary technology platform. We provide easy web and mobile ordering, flexible delivery options, transparent pricing, real-time tracking and confirmations, up-to-the-minute ETAs, delivery Agent ratings, and a feature-rich API for a seamless last mile logistics solution. Dropoff is headquartered in Austin, Texas.",
-  "active_jobs": 97,
+  "active_jobs": 99,
   "boards": [
    "jobs.greycroft.com"
   ],
@@ -1925,7 +1887,7 @@
   "ats": "greenhouse",
   "slug": "chowbus",
   "early": true,
-  "press_90d": 1
+  "press_90d": 2
  },
  {
   "name": "Invisible Technologies",
@@ -1973,7 +1935,32 @@
   "ats": "greenhouse",
   "slug": "invisible",
   "early": true,
-  "press_90d": 6
+  "press_90d": 7
+ },
+ {
+  "name": "Gorgias",
+  "domain": "gorgias.com",
+  "stage": "C",
+  "head_count": 4,
+  "tags": [
+   "Agentic AI",
+   "Customer Service",
+   "E-Commerce",
+   "Enterprise Software",
+   "Messaging",
+   "Professional Services",
+   "Retail Technology"
+  ],
+  "description": "Gorgias is a one-of-a-kind customer service platform specifically designed for ecommerce businesses to deliver effortless customer service at every stage of growth. With cutting-edge automation and AI capabilities, Gorgias revolutionizes how online stores interact with their customers by providing efficient and personalized support across email, voice, SMS, live chat, and social media channels.\n\nFounded in 2015, Gorgias began as a two-person team and has grown to more than 250 employees and eight offices in San Francisco, New York, Charlotte, Toronto, Buenos Aires, Paris, Lisbon, and Sydney. As a certified B Corporation, Gorgias is proud to be a leader in sustainable and equitable workplace practices.\n\nToday, Gorgias serves 12,000+ merchants in the ecommerce space, including Steve Madden, Glossier, BruMate, and TUSHY.",
+  "active_jobs": 19,
+  "boards": [
+   "jobs.greycroft.com"
+  ],
+  "sector": "consumer / DTC",
+  "ats": "ashby",
+  "slug": "gorgias",
+  "early": true,
+  "press_90d": 11
  },
  {
   "name": "Anine Bing",
@@ -2000,7 +1987,7 @@
    "Women's Shoes"
   ],
   "description": "ANINE BING was launched in 2012 with headquarters in downtown Los Angeles, California. Inspired by the fusion of Scandinavian heritage and American spirit, ANINE BING offers luxurious staples, wardrobe basics, and statement pieces that are current and timeless. Creative director Anine Bing thoughtfully curates each piece in her 'see now buy now' monthly collections where she marries edgy and feminine in a soft meets hard design approach. To this date, ANINE BING is sold in more than 300 boutiques worldwide. Five ANINE BING flagship stores can be found in Los Angeles, New York, Belgium, France, and Spain; and this expansion will continue throughout 2016 worldwide.",
-  "active_jobs": 16,
+  "active_jobs": 17,
   "boards": [
    "jobs.greycroft.com"
   ],
@@ -2009,66 +1996,6 @@
   "slug": "aninebing",
   "early": true,
   "press_90d": 31
- },
- {
-  "name": "Gorgias",
-  "domain": "gorgias.com",
-  "stage": "C",
-  "head_count": 4,
-  "tags": [
-   "Agentic AI",
-   "Customer Service",
-   "E-Commerce",
-   "Enterprise Software",
-   "Messaging",
-   "Professional Services",
-   "Retail Technology"
-  ],
-  "description": "Gorgias is a one-of-a-kind customer service platform specifically designed for ecommerce businesses to deliver effortless customer service at every stage of growth. With cutting-edge automation and AI capabilities, Gorgias revolutionizes how online stores interact with their customers by providing efficient and personalized support across email, voice, SMS, live chat, and social media channels.\n\nFounded in 2015, Gorgias began as a two-person team and has grown to more than 250 employees and eight offices in San Francisco, New York, Charlotte, Toronto, Buenos Aires, Paris, Lisbon, and Sydney. As a certified B Corporation, Gorgias is proud to be a leader in sustainable and equitable workplace practices.\n\nToday, Gorgias serves 12,000+ merchants in the ecommerce space, including Steve Madden, Glossier, BruMate, and TUSHY.",
-  "active_jobs": 16,
-  "boards": [
-   "jobs.greycroft.com"
-  ],
-  "sector": "consumer / DTC",
-  "ats": "ashby",
-  "slug": "gorgias",
-  "early": true,
-  "press_90d": 5
- },
- {
-  "name": "Ocient",
-  "domain": "ocient.com",
-  "stage": "C",
-  "head_count": 3,
-  "tags": [
-   "Analytics",
-   "Artificial Intelligence",
-   "Big Data",
-   "Business/Productivity Software",
-   "Computer",
-   "Consumer Electronics",
-   "Data & Analytics",
-   "Data Management",
-   "Database",
-   "Database Software",
-   "Hardware",
-   "Machine Learning",
-   "Platform",
-   "Software",
-   "Software Development",
-   "Technology"
-  ],
-  "description": "Ocient is a developer of a data analytics platform designed to provide rapid analysis of massive datasets. The company's platform works on large datasets measured in tens of terabytes, petabytes, or exabytes with trillions or quadrillions of rows, as well as ingressing billions of rows per second, filtering, and computing aggregate results at rates of up to trillions of rows per second, allowing organizations to harness the power of large datasets at scale and velocity.",
-  "active_jobs": 14,
-  "boards": [
-   "jobs.greycroft.com"
-  ],
-  "sector": "industrials / manufacturing",
-  "ats": "web",
-  "slug": "ocient",
-  "careers_url": "https://ocient.com/careers/",
-  "early": true,
-  "press_90d": 4
  },
  {
   "name": "Candid",
@@ -2116,6 +2043,41 @@
   "press_90d": 100
  },
  {
+  "name": "Ocient",
+  "domain": "ocient.com",
+  "stage": "C",
+  "head_count": 3,
+  "tags": [
+   "Analytics",
+   "Artificial Intelligence",
+   "Big Data",
+   "Business/Productivity Software",
+   "Computer",
+   "Consumer Electronics",
+   "Data & Analytics",
+   "Data Management",
+   "Database",
+   "Database Software",
+   "Hardware",
+   "Machine Learning",
+   "Platform",
+   "Software",
+   "Software Development",
+   "Technology"
+  ],
+  "description": "Ocient is a developer of a data analytics platform designed to provide rapid analysis of massive datasets. The company's platform works on large datasets measured in tens of terabytes, petabytes, or exabytes with trillions or quadrillions of rows, as well as ingressing billions of rows per second, filtering, and computing aggregate results at rates of up to trillions of rows per second, allowing organizations to harness the power of large datasets at scale and velocity.",
+  "active_jobs": 12,
+  "boards": [
+   "jobs.greycroft.com"
+  ],
+  "sector": "industrials / manufacturing",
+  "ats": "web",
+  "slug": "ocient",
+  "careers_url": "https://ocient.com/careers/",
+  "early": true,
+  "press_90d": 4
+ },
+ {
   "name": "Tapcart",
   "domain": "tapcart.com",
   "stage": "B",
@@ -2156,7 +2118,7 @@
   "ats": "ashby",
   "slug": "tapcart",
   "early": true,
-  "press_90d": 1
+  "press_90d": 0
  },
  {
   "name": "Groundlight",
@@ -2253,7 +2215,7 @@
   "ats": "greenhouse",
   "slug": "enboarder",
   "early": true,
-  "press_90d": 0
+  "press_90d": 1
  },
  {
   "name": "Guidewheel",
@@ -2293,42 +2255,6 @@
   "press_90d": 1
  },
  {
-  "name": "Mighty Networks",
-  "domain": "mightynetworks.com",
-  "stage": "B",
-  "head_count": 3,
-  "tags": [
-   "Business And Industrial",
-   "Business/Productivity Software",
-   "Commerce and Shopping",
-   "Communities",
-   "Community and Lifestyle",
-   "Consumer Software",
-   "E-Commerce",
-   "Media and Information Services (B2B)",
-   "Mobile App",
-   "Private Social Networking",
-   "Professional Networking",
-   "Professional Services",
-   "SaaS",
-   "Social Networks",
-   "Social/Platform Software",
-   "Software",
-   "Software Development",
-   "Technology"
-  ],
-  "description": "Mighty Networks is an online platform for creators and brands to build communities. Their SaaS platform serves creators with the purpose of selling experiences, relationships, and expertise to their members via community, content, online courses, and subscription commerce\u2014all offered in one place under the creator\u2019s brand, on every platform. A Mighty Network brings together community, online courses, sales pages, and more in one place under their brand, available on every platform. A Mighty Network connects members to each other so that the creators' brand gets more valuable for every member with each new person who joins.\n\nThe company was founded in 2017 and is headquartered in Palo Alto, California, USA.",
-  "active_jobs": 4,
-  "boards": [
-   "jobs.greycroft.com"
-  ],
-  "sector": "consumer / DTC",
-  "ats": "greenhouse",
-  "slug": "mightynetworks",
-  "early": true,
-  "press_90d": 6
- },
- {
   "name": "fabric",
   "domain": "fabric.inc",
   "stage": "C",
@@ -2356,7 +2282,7 @@
    "Telehealth"
   ],
   "description": "Fabric accelerates e-commerce growth by eliminating the need for replatforming. Its open, modular platform empowers retailers underserved by Shopify, Oracle, or Salesforce to scale quickly\u2014often going live in months. Trusted by brands like BuildDirect and GNC, Fabric boosts digital revenue up to 3x and enhances existing tech stacks.",
-  "active_jobs": 21,
+  "active_jobs": 24,
   "boards": [
    "jobs.greycroft.com",
    "careers.redpoint.com",
@@ -2369,48 +2295,40 @@
   "press_90d": 100
  },
  {
-  "name": "9GAG",
-  "domain": "9gag.com",
-  "stage": "seed",
+  "name": "Mighty Networks",
+  "domain": "mightynetworks.com",
+  "stage": "B",
   "head_count": 3,
   "tags": [
-   "Art And Entertainment",
-   "Content Creation",
-   "Digital Media",
-   "Enterprise Software",
-   "Entertainment",
-   "Entertainment Providers",
-   "Facebook",
-   "Food & Beverages",
-   "Gaming",
-   "Instagram",
-   "Internet",
-   "Internet Services",
-   "Media",
-   "Media & Entertainment",
-   "Mobile",
+   "Business And Industrial",
+   "Business/Productivity Software",
+   "Commerce and Shopping",
+   "Communities",
+   "Community and Lifestyle",
+   "Consumer Software",
+   "E-Commerce",
+   "Media and Information Services (B2B)",
    "Mobile App",
-   "Platform",
-   "Social Content",
-   "Social Media",
-   "Social Networking",
+   "Private Social Networking",
+   "Professional Networking",
+   "Professional Services",
+   "SaaS",
+   "Social Networks",
    "Social/Platform Software",
-   "Twitter",
-   "Video",
-   "Viral Videos",
-   "Website"
+   "Software",
+   "Software Development",
+   "Technology"
   ],
-  "description": "9GAG.TV is a website that features user-generated videos under categories such as Fail and Prank, Comedy, Game, Cute, Movie and TV, Music, and more. Its featured videos are updated daily, covering various TV shows or commercials that can be found on the site.",
-  "active_jobs": 2,
+  "description": "Mighty Networks is an online platform for creators and brands to build communities. Their SaaS platform serves creators with the purpose of selling experiences, relationships, and expertise to their members via community, content, online courses, and subscription commerce\u2014all offered in one place under the creator\u2019s brand, on every platform. A Mighty Network brings together community, online courses, sales pages, and more in one place under their brand, available on every platform. A Mighty Network connects members to each other so that the creators' brand gets more valuable for every member with each new person who joins.\n\nThe company was founded in 2017 and is headquartered in Palo Alto, California, USA.",
+  "active_jobs": 3,
   "boards": [
    "jobs.greycroft.com"
   ],
-  "sector": "food & beverage",
-  "ats": "web",
-  "slug": "9gag",
-  "careers_url": "https://about.9gag.com/jobs",
+  "sector": "consumer / DTC",
+  "ats": "greenhouse",
+  "slug": "mightynetworks",
   "early": true,
-  "press_90d": 8
+  "press_90d": 7
  },
  {
   "name": "Mapped",
@@ -2452,29 +2370,47 @@
   "press_90d": 100
  },
  {
-  "name": "Cometeer",
-  "domain": "cometeer.com",
-  "stage": "C",
+  "name": "9GAG",
+  "domain": "9gag.com",
+  "stage": "seed",
   "head_count": 3,
   "tags": [
-   "Adult",
-   "Beverages",
-   "Coffee",
-   "Food & Beverage",
-   "Food Products",
-   "Food and Beverage Manufacturing",
-   "Other Consumer Non-Durables",
-   "Sustainability"
+   "Art And Entertainment",
+   "Content Creation",
+   "Digital Media",
+   "Enterprise Software",
+   "Entertainment",
+   "Entertainment Providers",
+   "Facebook",
+   "Food & Beverages",
+   "Gaming",
+   "Information Technology",
+   "Instagram",
+   "Internet",
+   "Internet Services",
+   "Media",
+   "Media & Entertainment",
+   "Mobile",
+   "Mobile App",
+   "Platform",
+   "Social Content",
+   "Social Media",
+   "Social Networking",
+   "Social/Platform Software",
+   "Twitter",
+   "Video",
+   "Viral Videos",
+   "Website"
   ],
-  "description": "Cometeer is a technology-driven company that is reshaping the global coffee industry. It provides a new-format coffee capsule with the quality of specialty coffee. Its capsules are delivered frozen to the consumer's door; all the consumer has to do is peel back the lid, add water or milk, and enjoy (no machine required).",
-  "active_jobs": 1,
+  "description": "9GAG.TV is a website that features user-generated videos under categories such as Fail and Prank, Comedy, Game, Cute, Movie and TV, Music, and more. Its featured videos are updated daily, covering various TV shows or commercials that can be found on the site.",
+  "active_jobs": 2,
   "boards": [
    "jobs.greycroft.com"
   ],
   "sector": "food & beverage",
   "ats": "web",
-  "slug": "cometeer",
-  "careers_url": "https://recruiting.paylocity.com/recruiting/jobs/All/20ea5205-5108-400c-a3f9-bcf2c941ed0f/Cometeer-Inc",
+  "slug": "9gag",
+  "careers_url": "https://about.9gag.com/jobs",
   "early": true,
   "press_90d": 9
  },
@@ -2639,7 +2575,7 @@
    "iPaaS"
   ],
   "description": "TRAY\u00ae is a complete point of sale system for the enterprise that specializes in self-service ordering. We\u2019re changing the way people order and pay in hospitality venues such as entertainment centers, hotels, restaurants, and more.\n\nAs a growing number of companies seek to introduce self-service into their operations to improve their customer experience and reduce operating costs, TRAY is the only enterprise-class system that offers a full turnkey solution, as well as a platform solution that can integrate with existing legacy point of sale systems, including MICROS and Infogenesis.\n\nUnlike other POS companies, TRAY was built with self-service at its core, not an afterthought. TRAY uses a modern, cloud-based backend combined with inexpensive Android terminals. Thanks to our scalable, PCI Level-1 compliant architecture, our solution is flexible, scalable, secure, and low-cost, and we have already won engagements with major global brands, including hotel groups, quick serve chains, and entertainment chains.",
-  "active_jobs": 4,
+  "active_jobs": 5,
   "boards": [
    "jobs.greycroft.com",
    "jobs.trueventures.com"
@@ -2683,7 +2619,7 @@
    "Website Design"
   ],
   "description": "Ditto allows teams to collaborate on a consistent and effective copy.\n\nWith Ditto, teams can see edit history and status on individual pieces of text, sync duplicate text, search copy across all designs by text or metadata, and collaborate within and across teams. It is used by non-technical and technical people at numerous companies ranging from small startups to large tech corporations across industry verticals.",
-  "active_jobs": 6,
+  "active_jobs": 9,
   "boards": [
    "jobs.greycroft.com",
    "jobs.trueventures.com"
@@ -2727,7 +2663,7 @@
   "slug": "cuyana",
   "careers_url": "https://cuyana.com/pages/careers",
   "early": true,
-  "press_90d": 20
+  "press_90d": 22
  },
  {
   "name": "Red Balloon Security",
@@ -2850,6 +2786,33 @@
   "press_90d": 0
  },
  {
+  "name": "Cometeer",
+  "domain": "cometeer.com",
+  "stage": "C",
+  "head_count": 3,
+  "tags": [
+   "Adult",
+   "Beverages",
+   "Coffee",
+   "Food & Beverage",
+   "Food Products",
+   "Food and Beverage Manufacturing",
+   "Other Consumer Non-Durables",
+   "Sustainability"
+  ],
+  "description": "Cometeer is a technology-driven company that is reshaping the global coffee industry. It provides a new-format coffee capsule with the quality of specialty coffee. Its capsules are delivered frozen to the consumer's door; all the consumer has to do is peel back the lid, add water or milk, and enjoy (no machine required).",
+  "active_jobs": 0,
+  "boards": [
+   "jobs.greycroft.com"
+  ],
+  "sector": "food & beverage",
+  "ats": "web",
+  "slug": "cometeer",
+  "careers_url": "https://recruiting.paylocity.com/recruiting/jobs/All/20ea5205-5108-400c-a3f9-bcf2c941ed0f/Cometeer-Inc",
+  "early": true,
+  "press_90d": 11
+ },
+ {
   "name": "Beli",
   "domain": "beliapp.com",
   "stage": "seed",
@@ -2868,7 +2831,7 @@
    "Technology, Information and Internet"
   ],
   "description": "Beli is an application that specializes in tracking, sharing, and discovering restaurants, as well as organizing travel lists and maps.",
-  "active_jobs": 5,
+  "active_jobs": 7,
   "boards": [
    "jobs.firstmark.com"
   ],
@@ -2877,7 +2840,7 @@
   "slug": "beliapp",
   "careers_url": "https://beliapp.com/jobs",
   "early": true,
-  "press_90d": 47
+  "press_90d": 27
  },
  {
   "name": "Bonusly",
@@ -2929,7 +2892,7 @@
   "ats": "rippling",
   "slug": "bonusly",
   "early": true,
-  "press_90d": 4
+  "press_90d": 3
  },
  {
   "name": "HowGood",
@@ -2967,7 +2930,7 @@
    "Transparency"
   ],
   "description": "HowGood is a SaaS data platform with the world's largest database on product sustainability. With more than 33,000 ingredients, chemicals, and materials assessed, HowGood SaaS and impact data offerings help leading brands, retailers, and investors improve their environmental and social impact. Through in-depth, ingredient-level insights into factors ranging from greenhouse gas emissions to animal welfare to labor risk, HowGood data powers strategic decision-making for the sourcing, manufacturing, merchandising, and marketing of sustainable products.",
-  "active_jobs": 4,
+  "active_jobs": 5,
   "boards": [
    "jobs.firstmark.com"
   ],
@@ -3022,7 +2985,7 @@
    "Software"
   ],
   "description": "Pickle is a peer-to-peer clothing rental marketplace that allows users to rent trendy outfits from their local community. The platform offers same-day local delivery options for rented items, ensuring customers get their stylish outfits quickly. The rental service operates through mail across the country, with a particular emphasis on New York, Los Angeles, and Miami. In these locations, lenders and renters can either meet in person or utilize courier services like UBER or DOORDASH for quick exchanges.",
-  "active_jobs": 7,
+  "active_jobs": 8,
   "boards": [
    "jobs.firstmark.com"
   ],
@@ -3043,7 +3006,7 @@
    "Retail"
   ],
   "description": "Thuma makes lifestyle-enhancing pieces for the bedroom, the most important room in the house.",
-  "active_jobs": 24,
+  "active_jobs": 23,
   "boards": [
    "jobs.firstmark.com"
   ],
@@ -3051,7 +3014,7 @@
   "ats": "lever",
   "slug": "thuma",
   "early": true,
-  "press_90d": 29
+  "press_90d": 22
  },
  {
   "name": "Tycho Ai",
@@ -3118,7 +3081,7 @@
    "Sustainability"
   ],
   "description": "Ambrook provides financial management software for farms and other family-run businesses. Its platform combines accounting, bookkeeping, invoicing, bill payments, expense tracking, cash flow management, analytics, and reporting to help organizations manage finances and business operations through a unified system.",
-  "active_jobs": 12,
+  "active_jobs": 14,
   "boards": [
    "careers.homebrew.co"
   ],
@@ -3126,7 +3089,7 @@
   "ats": "ashby",
   "slug": "ambrook",
   "early": true,
-  "press_90d": 11
+  "press_90d": 10
  },
  {
   "name": "Boom Supersonic",
@@ -3152,7 +3115,7 @@
    "Travel"
   ],
   "description": "Boom Supersonic is a commercial airplane manufacturer that builds 65- to 88-seat supersonic airliners. Boom Technology is making supersonic passenger travel into reality by making a supersonic airliner. Boom was founded on the philosophy that they need to overcome the challenges to supersonic passenger flight, not surrender to them. They're making supersonic aircraft affordable for business travel. Their ultimate goal is a routine supersonic flight for everyone. Boom Supersonic is redefining what it means to fly in a commercial aircraft by building Overture, its Mach-2.2.",
-  "active_jobs": 31,
+  "active_jobs": 32,
   "boards": [
    "careers.homebrew.co",
    "jobs.8vc.com"
@@ -3162,7 +3125,7 @@
   "slug": "boomsupersonic",
   "careers_url": "https://boomsupersonic.com/careers",
   "early": true,
-  "press_90d": 59
+  "press_90d": 82
  },
  {
   "name": "CoreStory",
@@ -3178,7 +3141,7 @@
    "Software"
   ],
   "description": "CoreStory provides a platform that helps enterprises understand their legacy code. The service uses AI to show business logic, rules, workflows, and system architecture inside the code. It gives insights into how the code is structured, how repositories are organized, and where dependencies exist. The platform supports use cases such as legacy application modernization, system maintenance, onboarding developers, and documenting AI-generated code. It offers models that can be queried and accessed through API and MCP. CoreStory also provides example applications, including tools for exploring business processes, architecture, and code entry points. The platform extends insights to analysts, architects, project managers, and business users through reports and interactive interfaces.",
-  "active_jobs": 4,
+  "active_jobs": 3,
   "boards": [
    "careers.homebrew.co"
   ],
@@ -3228,7 +3191,7 @@
    "Telecommunications"
   ],
   "description": "Estimote creates small, wireless sensors that use modern IoT radio technologies such as Bluetooth, Ultra Wideband, and LTE/NB-IoT to compute precise indoor location and enable asset tracking applications.",
-  "active_jobs": 17,
+  "active_jobs": 1,
   "boards": [
    "careers.homebrew.co"
   ],
@@ -3260,7 +3223,7 @@
    "Technology And Computing"
   ],
   "description": "Finix is a developer of a B2B payment processing platform designed to let businesses own, manage, and monetize their payments. Their platform uses modular, workflow-driven architecture and a real-time interface to track transactions, consolidate disparate payment processor data, and underwrite merchant accounts, enabling banks, acquirers, and enterprises to send money anywhere and facilitate push payments over debit cards.",
-  "active_jobs": 24,
+  "active_jobs": 27,
   "boards": [
    "careers.homebrew.co"
   ],
@@ -3307,7 +3270,7 @@
    "Workforce Management"
   ],
   "description": "Gusto, Inc. is a company that provides a cloud-based payroll, benefits, and human resource management software for businesses based in the United States.",
-  "active_jobs": 103,
+  "active_jobs": 101,
   "boards": [
    "careers.homebrew.co",
    "jobs.8vc.com",
@@ -3340,7 +3303,7 @@
    "Transportation"
   ],
   "description": "Manifest is a cybersecurity firm focused on assisting businesses in securing their software supply chains. Manifest is creating the first all-in-one SBOM management platform.",
-  "active_jobs": 4,
+  "active_jobs": 5,
   "boards": [
    "careers.homebrew.co"
   ],
@@ -3348,7 +3311,7 @@
   "ats": "greenhouse",
   "slug": "manifest",
   "early": true,
-  "press_90d": 100
+  "press_90d": 47
  },
  {
   "name": "Matx",
@@ -3376,7 +3339,46 @@
   "ats": "ashby",
   "slug": "matx",
   "early": true,
-  "press_90d": 79
+  "press_90d": 93
+ },
+ {
+  "name": "Nuvocargo",
+  "domain": "nuvocargo.com",
+  "stage": "B",
+  "head_count": 3,
+  "tags": [
+   "Business And Industrial",
+   "Business/Productivity Software",
+   "Cargo Insurance",
+   "Customs Brokerage",
+   "Financial Services",
+   "Fintech",
+   "Freight",
+   "Freight Forwarding",
+   "Freight Service",
+   "Logistics",
+   "Platform",
+   "Software",
+   "Supply Chain",
+   "Supply Chain Management",
+   "Technology",
+   "Trade",
+   "Transportation",
+   "Transportation/Trucking/Railroad",
+   "Trucking"
+  ],
+  "description": "Nuvocargo is the only all-in-one digital platform for cross-border trade offering freight forwarding, customs brokerage, cargo insurance, and supply chain financing. It combines powerful technology with an exceptional team of experts to seamlessly integrate end-to-end movement of cargo in a single platform. Nuvocargo is modernizing a $2T market that has yet to experience real digitalization, empowering shippers with unparalleled visibility, efficiency, and support. Run by a fully bilingual team, Nuvocargo's unique position at the intersection of technology, logistics, the US, and Latin America contributes to growing revenues of over 25% month over month since beginning operations in late 2019. Nuvocargo is backed by Tiger Global, QED Investors, NFX, ALLVP, world-renowned startup accelerator Y Combinator, and leading entrepreneurs, including the founders of NuBank, Rappi, Loft, Ramp, Deel, and the COO of Kavak, among others.",
+  "active_jobs": 3,
+  "boards": [
+   "careers.homebrew.co",
+   "jobs.nfx.com"
+  ],
+  "sector": "industrials / manufacturing",
+  "ats": "web",
+  "slug": "nuvocargo",
+  "careers_url": "https://nuvocargo.com/about/#roles",
+  "early": true,
+  "press_90d": 0
  },
  {
   "name": "Overview",
@@ -3444,7 +3446,7 @@
   "ats": "ashby",
   "slug": "resq",
   "early": true,
-  "press_90d": 20
+  "press_90d": 22
  },
  {
   "name": "Slang",
@@ -3482,7 +3484,7 @@
    "Voice AI"
   ],
   "description": "Slang AI offers a virtual phone agent that operates continuously, answering calls and booking reservations for restaurants. The platform answers incoming calls, takes reservations, handles common guest questions, and processes orders through natural language conversations. It integrates with point-of-sale systems, reservation platforms, and other restaurant software to sync availability, menus, and order details in real time. Slang\u2019s technology is built to interpret conversational speech patterns and route complex requests to staff when needed. The company\u2019s services aim to reduce missed calls and streamline front-of-house operations through automated voice assistance tailored to hospitality environments.",
-  "active_jobs": 12,
+  "active_jobs": 10,
   "boards": [
    "careers.homebrew.co"
   ],
@@ -3525,7 +3527,7 @@
    "Warehousing"
   ],
   "description": "Third Wave Automation develops the Shared Autonomy Platform, integrating machine learning with autonomous reach trucks. This system allows human operators to oversee operations while intervening only when needed, enhancing safety and efficiency.",
-  "active_jobs": 2,
+  "active_jobs": 1,
   "boards": [
    "careers.homebrew.co"
   ],
@@ -3533,7 +3535,7 @@
   "ats": "greenhouse",
   "slug": "thirdwaveautomation",
   "early": true,
-  "press_90d": 2
+  "press_90d": 1
  },
  {
   "name": "Windfall",
@@ -3567,7 +3569,7 @@
    "Technology"
   ],
   "description": "Windfall is a people intelligence and AI company that gives go-to-market teams actionable insights. By democratizing access to people data, organizations can intelligently prioritize go-to-market resources to drive greater business outcomes. Powered by best-in-class machine learning and artificial intelligence, Windfall activates insights into workflows that engage the right people for each respective organization. More than 1,500 data-driven organizations use Windfall to power their business.",
-  "active_jobs": 14,
+  "active_jobs": 13,
   "boards": [
    "careers.homebrew.co"
   ],
@@ -3613,7 +3615,7 @@
   "ats": "ashby",
   "slug": "catio",
   "early": true,
-  "press_90d": 39
+  "press_90d": 30
  },
  {
   "name": "Comm Technologies",
@@ -3652,7 +3654,7 @@
   "slug": "comm",
   "careers_url": "https://comm.app/careers",
   "early": true,
-  "press_90d": 1
+  "press_90d": 0
  },
  {
   "name": "Genesis",
@@ -3674,7 +3676,7 @@
    "Software"
   ],
   "description": "Operator of a digital platform intended for a social network for digital ownership. The company is currently operating in stealth mode.",
-  "active_jobs": 72,
+  "active_jobs": 75,
   "boards": [
    "jobs.eniac.vc",
    "jobs.khoslaventures.com"
@@ -3705,7 +3707,7 @@
    "Technology"
   ],
   "description": "Ghost is a marketplace that connects leading retail brands with surplus distribution partners. Ghost combines real-time data with intelligent solutions to help brands monetize their excess inventory discreetly and sustainably. By providing liquidity, protection, and transparency, the Ghost platform serves as the backbone for retailers to diversify and optimize their inventory lifecycle.",
-  "active_jobs": 6,
+  "active_jobs": 4,
   "boards": [
    "jobs.eniac.vc",
    "jobs.svangel.com"
@@ -3802,7 +3804,7 @@
   "ats": "lever",
   "slug": "isee",
   "early": true,
-  "press_90d": 22
+  "press_90d": 25
  },
  {
   "name": "MaestroQA",
@@ -4106,7 +4108,7 @@
   "slug": "fairing",
   "careers_url": "https://fairing.co/careers",
   "early": true,
-  "press_90d": 64
+  "press_90d": 73
  },
  {
   "name": "Feroot Security",
@@ -4213,7 +4215,7 @@
    "Technology"
   ],
   "description": "Gridware offers a grid-intelligence platform that equips utilities with real-time visibility into the physical, electrical, and environmental conditions of their overhead infrastructure. Its core product, GridScope, is a small, solar-powered sensor mounted on utility poles that continuously monitors mechanical vibrations, electrical activity, and ambient stressors even during outages. On-device analytics identify hazards, localize faults, and classify their severity, allowing line crews to respond efficiently and safely. Through its Active Grid Response system, Gridware helps utilities detect issues before they escalate, supporting timely maintenance and more stable grid operations.",
-  "active_jobs": 19,
+  "active_jobs": 16,
   "boards": [
    "jobs.trueventures.com"
   ],
@@ -4274,7 +4276,7 @@
    "Technology"
   ],
   "description": "Marley is the insurance industry\u2019s premier intelligent conversation platform. Hi Marley is a conversation platform that simply and easily connects people with their insurance companies. Marley combines intelligent messaging and human touch to make the experience as easy and efficient as possible. It was founded in 2017 and headquartered in Boston, Massachusetts.",
-  "active_jobs": 11,
+  "active_jobs": 10,
   "boards": [
    "jobs.trueventures.com"
   ],
@@ -4348,7 +4350,7 @@
   "slug": "moltensaltsolutions",
   "careers_url": "https://www.moltensaltsolutions.com/careers",
   "early": true,
-  "press_90d": 9
+  "press_90d": 8
  },
  {
   "name": "Nectar Social",
@@ -4373,7 +4375,7 @@
    "Software"
   ],
   "description": "Nectar Social is an AI-powered platform that helps brands manage online communities, monitor social conversations, and analyze engagement across channels such as Instagram, TikTok, and direct messaging platforms. The company combines community management, social listening, influencer tracking, and performance analytics into a single system that allows businesses to track customer interactions and connect them to sales activity. Its platform includes AI-assisted tools for responding to messages, categorizing conversations, monitoring sentiment, and identifying trends or customer feedback in real time. Nectar Social also provides workflow automation and reporting features designed to help marketing, customer experience, and social media teams coordinate activities across multiple channels. The company primarily works with consumer-focused brands in sectors such as beauty, wellness, retail, and lifestyle, supporting their efforts to manage social engagement and customer communication at scale.",
-  "active_jobs": 18,
+  "active_jobs": 19,
   "boards": [
    "jobs.trueventures.com"
   ],
@@ -4381,7 +4383,7 @@
   "ats": "ashby",
   "slug": "nectar-social",
   "early": true,
-  "press_90d": 6
+  "press_90d": 5
  },
  {
   "name": "Parry Labs",
@@ -4414,7 +4416,7 @@
    "Technology"
   ],
   "description": "Parry Labs is a solutions provider to the U.S. Department of Defense and commercial companies. Parry designs and deploys solutions ranging from mission computing, power systems, manned and unmanned system architectures, and RF solutions. Parry\u2019s Stellar Relay products are a full system suite of high-performance mission computing, Artificial Intelligence (A.I.) processing, and cross-domain systems.",
-  "active_jobs": 14,
+  "active_jobs": 15,
   "boards": [
    "jobs.trueventures.com"
   ],
@@ -4508,7 +4510,7 @@
   "slug": "prellisbio",
   "careers_url": "https://prellisbio.com/careers",
   "early": true,
-  "press_90d": 1
+  "press_90d": 3
  },
  {
   "name": "Prime Roots",
@@ -4541,7 +4543,7 @@
   "slug": "primeroots",
   "careers_url": "https://www.primeroots.com/en-us/pages/careers",
   "early": true,
-  "press_90d": 4
+  "press_90d": 6
  },
  {
   "name": "Solo.io",
@@ -4567,7 +4569,7 @@
   "ats": "greenhouse",
   "slug": "soloioinc",
   "early": true,
-  "press_90d": 9
+  "press_90d": 20
  },
  {
   "name": "A.Team",
@@ -4681,7 +4683,7 @@
    "Supply Chain Management"
   ],
   "description": "Candex provides fintech-driven procurement and payment solutions that enable businesses to engage, manage, and pay vendors without requiring traditional supplier onboarding. The company operates as a master vendor, allowing organizations to transact with a wide range of suppliers\u2014especially one-time or low-volume vendors\u2014through a centralized platform that handles purchasing, invoicing, and payments. Its platform streamlines tail-spend procurement by consolidating transactions with smaller vendors into a single workflow, reducing administrative burden and simplifying vendor management. Buyers can issue purchase orders, track invoices, and process payments across multiple currencies, while the system manages compliance, tax validation, and regulatory checks.",
-  "active_jobs": 13,
+  "active_jobs": 5,
   "boards": [
    "jobs.nfx.com"
   ],
@@ -4766,7 +4768,7 @@
   "ats": "gem",
   "slug": "constrafor",
   "early": true,
-  "press_90d": 0
+  "press_90d": 1
  },
  {
   "name": "Cord",
@@ -4861,7 +4863,7 @@
    "Technology, Information and Internet"
   ],
   "description": "Faddom provides agentless IT infrastructure and application dependency mapping software. It helps organizations discover assets, map application dependencies, monitor hybrid environments, and support IT operations, migrations, security, and change management.",
-  "active_jobs": 0,
+  "active_jobs": 1,
   "boards": [
    "jobs.nfx.com"
   ],
@@ -5019,7 +5021,7 @@
   "slug": "kimkim",
   "careers_url": "https://www.kimkim.com/careers",
   "early": true,
-  "press_90d": 8
+  "press_90d": 9
  },
  {
   "name": "La Haus",
@@ -5086,7 +5088,7 @@
   "slug": "letsdothis",
   "careers_url": "https://www.letsdothis.com/gb",
   "early": true,
-  "press_90d": 57
+  "press_90d": 59
  },
  {
   "name": "Medinas Health",
@@ -5244,7 +5246,7 @@
    "Software Development"
   ],
   "description": "Sauce is a delivery engagement platform that helps successful restaurants and small chains grow direct online orders. The platform offers commission-free ordering, delivery management, and AI-driven customer retention tools. Sauce simplifies logistics and support so restaurants can focus on operations while keeping more revenue and building customer loyalty.",
-  "active_jobs": 13,
+  "active_jobs": 15,
   "boards": [
    "jobs.nfx.com"
   ],
@@ -5293,7 +5295,7 @@
   "ats": "greenhouse",
   "slug": "scaleops",
   "early": true,
-  "press_90d": 0
+  "press_90d": 1
  },
  {
   "name": "Shop Circle",
@@ -5335,7 +5337,7 @@
    "Workflow Automation"
   ],
   "description": "Circeus is an AI-first technology holding company that acquires and scales mission-critical software, modernising it for the AI era. Through a centralised AI platform deployed across its portfolio, the company expands software from systems of record into systems of action. Circeus focuses on software powering the physical world, serving 200,000+ companies worldwide and enabling them to work smarter, scale faster, and stay ahead. Circeus is backed by leading global institutional investors. Shop Circle is backed by leading global institutional investors.",
-  "active_jobs": 5,
+  "active_jobs": 2,
   "boards": [
    "jobs.nfx.com"
   ],
@@ -5344,7 +5346,7 @@
   "slug": "shopcircle",
   "careers_url": "https://shopcircle.co/pages/careers",
   "early": true,
-  "press_90d": 10
+  "press_90d": 7
  },
  {
   "name": "Starfish Space",
@@ -5365,7 +5367,7 @@
    "Transportation"
   ],
   "description": "Starfish Space is a space technology company focused on developing infrastructure for in-orbit satellite servicing and maintenance. It designs autonomous spacecraft, particularly its Otter vehicle, which can rendezvous with, dock to, and interact with satellites already in orbit. The company\u2019s technology enables services such as extending the operational life of satellites, repositioning them, and safely removing defunct satellites or debris from space. Its systems rely on advanced robotics, navigation software, and electric propulsion to perform precise proximity operations in orbit. Through these capabilities, it aims to make satellite servicing more affordable and scalable, supporting the long-term sustainability and growth of space activities.",
-  "active_jobs": 13,
+  "active_jobs": 12,
   "boards": [
    "jobs.nfx.com"
   ],
@@ -5373,7 +5375,7 @@
   "ats": "ashby",
   "slug": "starfish-space-inc",
   "early": true,
-  "press_90d": 32
+  "press_90d": 29
  },
  {
   "name": "super.AI",
@@ -5427,7 +5429,7 @@
   "ats": "greenhouse",
   "slug": "superai",
   "early": true,
-  "press_90d": 39
+  "press_90d": 45
  },
  {
   "name": "TradeForm",
@@ -5489,7 +5491,7 @@
   "slug": "trebu",
   "careers_url": "https://www.trebu.ai/",
   "early": true,
-  "press_90d": 3
+  "press_90d": 2
  },
  {
   "name": "Vendict",
@@ -5615,31 +5617,6 @@
   "press_90d": 100
  },
  {
-  "name": "Assemble Labs",
-  "domain": "assemblelabs.co",
-  "stage": "seed",
-  "head_count": 1,
-  "tags": [
-   "Artificial Intelligence (AI)",
-   "Data & Analytics",
-   "Hardware",
-   "Manufacturing",
-   "Science and Engineering",
-   "Software"
-  ],
-  "description": "AssembleAI runs your hardware lab",
-  "active_jobs": 0,
-  "boards": [
-   "jobs.menlovc.com"
-  ],
-  "sector": "industrials / manufacturing",
-  "ats": "web",
-  "slug": "assemblelabs",
-  "careers_url": "https://assemblelabs.ai/",
-  "early": true,
-  "press_90d": 0
- },
- {
   "name": "CloudTrucks",
   "domain": "cloudtrucks.com",
   "stage": "B",
@@ -5675,7 +5652,7 @@
   "slug": "cloudtrucks",
   "careers_url": "https://www.cloudtrucks.com/careers",
   "early": true,
-  "press_90d": 1
+  "press_90d": 0
  },
  {
   "name": "Envoy",
@@ -5692,7 +5669,7 @@
    "Technology"
   ],
   "description": "Envoy transforms modern workplaces, challenging the status quo with products that make office life and work more meaningful. Envoy has redefined how offices interact with visitors and manage deliveries in over 13,000 locations around the globe while building products for a new era of workplace experience. Companies like Slack, Asana, Pinterest, and Warby Parker rely on Envoy to create an unrivaled first impression and keep their offices secure and compliant.\n\nWith more than 100,000 new sign-ins every day, Envoy Visitors empowers workplaces to create a warm welcome for guests while safeguarding their people, property, and ideas. Envoy Deliveries ensures that packages safely reach their recipients at work, without mailroom pile-ups or communication delays.",
-  "active_jobs": 23,
+  "active_jobs": 22,
   "boards": [
    "jobs.menlovc.com"
   ],
@@ -5736,7 +5713,7 @@
   "ats": "rippling",
   "slug": "kinetic",
   "early": true,
-  "press_90d": 1
+  "press_90d": 0
  },
  {
   "name": "Observe.AI",
@@ -5781,7 +5758,7 @@
   "ats": "greenhouse",
   "slug": "observeai",
   "early": true,
-  "press_90d": 8
+  "press_90d": 11
  },
  {
   "name": "Prime Intellect",
@@ -5804,7 +5781,7 @@
    "Software Development Applications"
   ],
   "description": "Prime Intellect is an artificial intelligence infrastructure company that develops an open platform for training, deploying, and continuously improving AI models and agents. It combines AI infrastructure, Reinforcement Learning (RL) tooling, compute orchestration, and open-source research to make frontier AI training accessible to organizations of all sizes. Its platform enables enterprises and researchers to build, evaluate, fine-tune, and deploy custom AI models while leveraging globally distributed compute resources.\n\nThe company's platform provides an integrated stack for compute, RL post-training, evaluation, inference, and agent development. Its offerings include hosted model training on thousands of Reinforcement Learning environments, evaluation tools with public leaderboards, one-click deployment for fine-tuned models, and infrastructure that continuously feeds production data back into training workflows. Prime Intellect also operates an Environment Hub containing thousands of open-source RL environments and develops Prime-RL, an open-source framework for large-scale asynchronous Reinforcement Learning.",
-  "active_jobs": 35,
+  "active_jobs": 39,
   "boards": [
    "jobs.menlovc.com"
   ],
@@ -5843,7 +5820,7 @@
   "ats": "greenhouse",
   "slug": "siteline",
   "early": true,
-  "press_90d": 80
+  "press_90d": 85
  },
  {
   "name": "Unstructured",
@@ -5881,7 +5858,7 @@
   "ats": "ashby",
   "slug": "unstructured",
   "early": true,
-  "press_90d": 68
+  "press_90d": 66
  },
  {
   "name": "Zylo",
@@ -5952,7 +5929,7 @@
    "Trucking"
   ],
   "description": "Augment is the AI productivity platform for supply chain. Its flagship product, Augie, is an industry-native AI teammate that works across phone, email, portals, and enterprise systems to automate complex operational workflows \u2014 supporting brokers, shippers, carriers, and distributors from quote to cash. Augment has raised $110M from Redpoint Ventures, 8VC, Applico Capital and has over 110 engineers all based in North America.",
-  "active_jobs": 4,
+  "active_jobs": 6,
   "boards": [
    "careers.redpoint.com",
    "jobs.8vc.com"
@@ -5987,7 +5964,7 @@
    "Software"
   ],
   "description": "Fable Security provides the Human Risk Platform, which directly influences employee behavior. Its agentic technology, designed for simplicity and enterprise scale, synthesizes complicated employee data, identifies unsafe behaviors, and automatically distributes highly relevant interventions to individuals in real time, exactly where they work.",
-  "active_jobs": 3,
+  "active_jobs": 7,
   "boards": [
    "careers.redpoint.com"
   ],
@@ -6096,7 +6073,7 @@
    "Transportation"
   ],
   "description": "Levelpath is the premier AI procurement platform. Powered by its proprietary Hyperbridge reasoning engine, Levelpath automates administrative work and provides unprecedented clarity at every step from intake and sourcing to contracting and payment. Procurement teams can focus on unlocking maximum value from supplier relationships, while finance, legal, and IT gain a complete view of spend and risk. Levelpath\u2019s embedded AI agents, underpinned by the industry\u2019s first supplier graph, deliver contextually relevant and genuinely helpful answers, uncover valuable opportunities, and reliably handle tasks to high standards, dramatically increasing team productivity. Global brands, including Ace Hardware, American Airlines, Amgen, AON, Blue Cross Blue Shield, Coupang, GATX, Levi's, Teva Pharmaceuticals, Western Union, and Zendesk, trust Levelpath\u2019s deep procurement expertise to transform their purchasing and drive value from their supplier relationships. Headquartered in San Francisco, Levelpath is backed by Battery, Benchmark, Redpoint Ventures, Menlo Ventures, NewView Capital, and World Innovation Lab.",
-  "active_jobs": 24,
+  "active_jobs": 23,
   "boards": [
    "careers.redpoint.com"
   ],
@@ -6104,7 +6081,7 @@
   "ats": "ashby",
   "slug": "levelpath",
   "early": true,
-  "press_90d": 9
+  "press_90d": 8
  },
  {
   "name": "LiveKit",
@@ -6140,7 +6117,7 @@
    "Video Streaming"
   ],
   "description": "LiveKit provides an open-source framework and cloud platform that enables developers to build, deploy, and manage real-time communication and AI-driven applications involving voice, video, and data streams. The company\u2019s tools abstract the complexity of WebRTC infrastructure by offering scalable media routing, session management, and SDKs for platforms such as web, iOS, Android, and backend environments, supporting low-latency interaction across diverse use cases. LiveKit\u2019s platform includes features to support AI agent development, multimodal communication, telephony integration, and real-time conferencing that help engineering teams incorporate interactive media into applications without building the underlying transport layer from scratch. Its offering allows teams to choose between self-hosting or using a globally managed cloud service with consistent APIs, enabling a unified development experience across deployment models. LiveKit\u2019s capabilities also extend to real-time data exchange, encryption, and adaptive streaming features that support secure and responsive applications. The company works with developers to integrate its communication layer into solutions such as collaborative tools, live streaming, customer support interfaces, and AI voice agents that interact through audio and video in real time.",
-  "active_jobs": 27,
+  "active_jobs": 28,
   "boards": [
    "careers.redpoint.com"
   ],
@@ -6148,7 +6125,7 @@
   "ats": "ashby",
   "slug": "livekit",
   "early": true,
-  "press_90d": 14
+  "press_90d": 13
  },
  {
   "name": "Logixboard",
@@ -6184,7 +6161,7 @@
    "Visibility"
   ],
   "description": "Logixboard is a white-labeled customer experience software that helps logistics service providers increase sales and retain customers. It connects directly to your internal software and can be launched in less than three weeks with very little effort from your team.",
-  "active_jobs": 7,
+  "active_jobs": 4,
   "boards": [
    "careers.redpoint.com"
   ],
@@ -6264,7 +6241,7 @@
   "ats": "ashby",
   "slug": "modal",
   "early": true,
-  "press_90d": 60
+  "press_90d": 69
  },
  {
   "name": "Nuon",
@@ -6300,7 +6277,7 @@
   "slug": "nuon",
   "careers_url": "https://nuon.co/careers",
   "early": true,
-  "press_90d": 22
+  "press_90d": 14
  },
  {
   "name": "PsiQuantum",
@@ -6315,7 +6292,7 @@
    "Semiconductor"
   ],
   "description": "PsiQuantum develops quantum computing technologies using photonic qubits and silicon photonics to build fault-tolerant quantum computing systems. The company designs quantum hardware, software, and system architectures that support the development and operation of scalable quantum computers. It manufactures quantum photonic chips through semiconductor fabrication processes and develops cryogenic infrastructure and quantum algorithms for large-scale computing applications. PsiQuantum also collaborates with research institutions, government organizations, and industry partners on quantum computing research and technology development. Its work focuses on advancing quantum computing capabilities for scientific, industrial, and computational applications.",
-  "active_jobs": 79,
+  "active_jobs": 80,
   "boards": [
    "careers.redpoint.com"
   ],
@@ -6323,7 +6300,7 @@
   "ats": "greenhouse",
   "slug": "psiquantum",
   "early": true,
-  "press_90d": 68
+  "press_90d": 55
  },
  {
   "name": "Revel",
@@ -6341,7 +6318,7 @@
    "Web Development"
   ],
   "description": "Revel offers a software platform designed to streamline the development, deployment, and management of hardware systems across diverse industries. The platform features an intuitive command-and-control interface paired with a specialized programming language tailored specifically for hardware applications. As demand for secure, software-driven hardware solutions grows, Revel is expanding into a broader range of industrial control applications, positioning itself as a key player in shaping the next generation of critical infrastructure.",
-  "active_jobs": 29,
+  "active_jobs": 30,
   "boards": [
    "careers.redpoint.com"
   ],
@@ -6424,7 +6401,7 @@
    "Travel Accommodations"
   ],
   "description": "Wander is a luxury rental company that provides smart home travel services. It provides a platform that allows users to book smart homes for their next workcation, vacation, or anything in between. The company offers a curated selection of properties across the United States, each equipped with modern workstations, smart-home technology, and 24/7 concierge service. Wander's vertically integrated model encompasses property acquisition, management, and guest services, all powered by its proprietary WanderOS platform. This system leverages automation and AI to deliver consistent quality and operational efficiency across its portfolio.",
-  "active_jobs": 7,
+  "active_jobs": 4,
   "boards": [
    "careers.redpoint.com"
   ],
@@ -6459,7 +6436,7 @@
    "Technology"
   ],
   "description": "Abacus.AI is an artificial intelligence research and cloud services company that helps organizations design, train, and operationalize machine and deep learning models. It allows organizations to plug and play deep learning systems into their existing customer experiences and business processes.\n\nThe company was founded in 2019 and is based in San Francisco, California.",
-  "active_jobs": 8,
+  "active_jobs": 7,
   "boards": [
    "jobs.khoslaventures.com"
   ],
@@ -6467,7 +6444,7 @@
   "ats": "greenhouse",
   "slug": "abacus",
   "early": true,
-  "press_90d": 12
+  "press_90d": 17
  },
  {
   "name": "Astrus",
@@ -6487,7 +6464,7 @@
    "Software Development Applications"
   ],
   "description": "AI to automate microchip design.",
-  "active_jobs": 5,
+  "active_jobs": 0,
   "boards": [
    "jobs.khoslaventures.com"
   ],
@@ -6496,7 +6473,7 @@
   "slug": "astrus",
   "careers_url": "https://www.astrus.ai/careers",
   "early": true,
-  "press_90d": 2
+  "press_90d": 3
  },
  {
   "name": "AttackIQ",
@@ -6531,7 +6508,7 @@
    "Technology"
   ],
   "description": "AttackIQ provides a Breach & Attack Simulation (BAS) platform that enables organizations to test and measure the effectiveness of their security controls. It supports the MITRE ATT&CK Matrix, a curated knowledge base and model for cyber adversary behavior used for planning security improvements and verifying security defenses work as expected.\n\nIts security optimization platform is an open system for security control validation, SECOPS operator exercise, Red Team augmentation, and analytics. The platform allows teams to maximize their reach and capabilities, overcoming the limitations of time and resources. It also enables users to identify how individual assets in their security program respond to specific attacks.\n\nAttackIQ was established in 2013 and its headquarters is in Los Altos, CA.",
-  "active_jobs": 5,
+  "active_jobs": 1,
   "boards": [
    "jobs.khoslaventures.com"
   ],
@@ -6572,7 +6549,7 @@
    "Workflow Automation"
   ],
   "description": "Automat is building the infrastructure for agentic work. AI agents that don't just follow scripts but reason about goals, adapt to changing conditions, and operate any computer application autonomously \u2014 the same way a skilled employee would.\n\nToday, that means replacing legacy automation tools (UIPATH, AUTOMATION ANYWHERE, BLUE PRISM) that rely on brittle selectors and armies of maintenance developers. Automat's agents use Computer Use technology \u2014 vision language models that see screens, read documents, and interact with software visually. They work on SAP, Encompass, MeridianLink, government portals, and any legacy system without APIs. When interfaces change, the agents adapt. No maintenance. No breakage. No Center of Excellence needed.\n\nBut the vision is bigger than RPA replacement. Automat is building toward a future where AI agents handle entire operational roles \u2014 not just individual tasks. Automat Workforce deploys AI employees that join teams on Slack, email, and existing tools to handle operations end-to-end: research, communication, coordination, document processing, and decision support. They learn how each team works and improve continuously.\n\nThe company operates as a managed service. Forward-deployed engineers build, deploy, and maintain every automation. Customers get outcomes without building internal automation teams. Deployments take days, not months.\n\nFounded in 2023 by Lucas Ochoa (ex-Google X) and Gautam Bose (ex-Google Chrome/GCP). Headquartered in San Francisco. Backed by Felicis Ventures (Series A lead), Khosla Ventures, Initialized Capital, and Y Combinator. $19M raised.\n\nCustomers include Fortune 500 manufacturers, mortgage lenders, insurance carriers, and fintech companies. Results: 80% cost reduction per process, 2,400+ daily runs at scale, deployments measured in days.\n\nCertifications: SOC 2, HIPAA, GDPR, ISO 27001.",
-  "active_jobs": 12,
+  "active_jobs": 11,
   "boards": [
    "jobs.khoslaventures.com"
   ],
@@ -6581,6 +6558,38 @@
   "slug": "automat",
   "early": true,
   "press_90d": 31
+ },
+ {
+  "name": "Bild AI",
+  "domain": "bild.ai",
+  "stage": "seed",
+  "head_count": 1,
+  "tags": [
+   "Architecture",
+   "Artificial Intelligence (AI)",
+   "Business/Productivity Software",
+   "Computer Vision",
+   "Construction",
+   "Construction & Engineering",
+   "Data & Analytics",
+   "Hardware",
+   "Information Technology",
+   "Internet",
+   "Internet Services",
+   "Real Estate",
+   "Science and Engineering",
+   "Software"
+  ],
+  "description": "Bild AI utilizes artificial intelligence to interpret construction blueprints and extract essential material and cost information for builders. Traditionally, obtaining material and cost estimates from blueprints is a labor-intensive task that requires manual drawing and is susceptible to human error. This method can be both time-consuming and costly, potentially leading to significant financial losses on projects.",
+  "active_jobs": 3,
+  "boards": [
+   "jobs.khoslaventures.com"
+  ],
+  "sector": "building products / construction",
+  "ats": "ashby",
+  "slug": "bild-ai",
+  "early": true,
+  "press_90d": 1
  },
  {
   "name": "Caelux Corporation",
@@ -6614,7 +6623,7 @@
   "slug": "caelux",
   "careers_url": "https://caelux.com/contact/careers/",
   "early": true,
-  "press_90d": 14
+  "press_90d": 10
  },
  {
   "name": "CareLuLu",
@@ -6684,6 +6693,42 @@
   "press_90d": 0
  },
  {
+  "name": "Circadia Health",
+  "domain": "circadia.health",
+  "stage": "A",
+  "head_count": 3,
+  "tags": [
+   "Artificial Intelligence (AI)",
+   "Data & Analytics",
+   "Digital Health",
+   "Enterprise Systems (Healthcare)",
+   "Health Care",
+   "Medical",
+   "Medical Device",
+   "Medical Equipment Manufacturing",
+   "Medical Records Systems",
+   "Monitoring Equipment",
+   "Predictive Analytics",
+   "Respiratory",
+   "Science and Engineering",
+   "Software",
+   "Technology And Computing",
+   "Telehealth",
+   "Telemedicine",
+   "Therapeutics"
+  ],
+  "description": "Circadia improves clinical outcomes by using an FDA-approved truly contactless patient monitoring system to detect problems early. The technology measures a patient's respiratory rate from up to 8 feet away, with nothing on the bed or body required. Clinicians use this data to forecast medical events such as Congestive Heart Failure, COPD exacerbations, pneumonia, sepsis, urinary tract infections, and falls several hours or days in advance. To provide personalized, predictive risk alerts 24/7, a team of virtual nurses reviews device data and analyzes trends in the patient's Electronic Health Record.",
+  "active_jobs": 59,
+  "boards": [
+   "jobs.khoslaventures.com"
+  ],
+  "sector": "industrials / manufacturing",
+  "ats": "lever",
+  "slug": "circadiahealth",
+  "early": true,
+  "press_90d": 0
+ },
+ {
   "name": "Cobot",
   "domain": "co.bot",
   "stage": "B",
@@ -6696,7 +6741,7 @@
    "Robotics"
   ],
   "description": "Collaborative Robotics is a team of innovators and builders redefining the future of human-robot interaction. A future in which robots are trustworthy extensions of the environment. They operate, adapt, and react in response.",
-  "active_jobs": 14,
+  "active_jobs": 15,
   "boards": [
    "jobs.khoslaventures.com",
    "jobs.generalcatalyst.com"
@@ -6705,7 +6750,7 @@
   "ats": "ashby",
   "slug": "cobot",
   "early": true,
-  "press_90d": 63
+  "press_90d": 28
  },
  {
   "name": "Cover Technologies",
@@ -6761,7 +6806,7 @@
   "slug": "buildcover",
   "careers_url": "https://buildcover.com/careers/",
   "early": true,
-  "press_90d": 10
+  "press_90d": 8
  },
  {
   "name": "Culdesac",
@@ -6792,7 +6837,7 @@
   "slug": "culdesac",
   "careers_url": "https://culdesac.com/careers",
   "early": true,
-  "press_90d": 11
+  "press_90d": 12
  },
  {
   "name": "DevRev",
@@ -6825,7 +6870,7 @@
    "Technology"
   ],
   "description": "DevRev is a business software startup focused on bringing developers closer to customers and revenue. The company aims to empower developers by integrating development and Customer Relationship Management (CRM) in a Product-Led Growth (PLG) model. This approach seeks to break down the silos between developers and end-users, allowing for direct collaboration and communication, thereby enhancing customer-centric product development.\n\nUnlike horizontal CRMs, DevRev takes a blank canvas approach to collaboration, AI, and analytics, enabling SaaS companies to increase product velocity and reduce customer churn. DevRev is used by thousands of companies in search of low latency analytics and customizable LLMs to thrive in this era of GenAI.",
-  "active_jobs": 46,
+  "active_jobs": 42,
   "boards": [
    "jobs.khoslaventures.com"
   ],
@@ -6833,7 +6878,43 @@
   "ats": "greenhouse",
   "slug": "devrev",
   "early": true,
-  "press_90d": 9
+  "press_90d": 8
+ },
+ {
+  "name": "Dili (Yc S23)",
+  "domain": "dili.ai",
+  "stage": "A",
+  "head_count": 2,
+  "tags": [
+   "Agentic AI",
+   "Analytics",
+   "Application Performance Management",
+   "Artificial Intelligence (AI)",
+   "Big Data",
+   "Business Process Automation (BPA)",
+   "Business/Productivity Software",
+   "Compliance",
+   "Construction",
+   "Data & Analytics",
+   "Database Software",
+   "Enterprise Software",
+   "Other Financial Services",
+   "Professional Services",
+   "Real Estate",
+   "Science and Engineering",
+   "Software"
+  ],
+  "description": "Dili provides an AI-powered compliance automation platform for construction, infrastructure, energy, and manufacturing projects. The platform automates prevailing wage compliance, certified payroll review, apprenticeship tracking, wage validation, compliance reporting, and audit workflows to help organizations manage regulatory requirements for federally funded projects.",
+  "active_jobs": 12,
+  "boards": [
+   "jobs.khoslaventures.com"
+  ],
+  "sector": "building products / construction",
+  "ats": "web",
+  "slug": "dili",
+  "careers_url": "https://www.dili.com/careers",
+  "early": true,
+  "press_90d": 0
  },
  {
   "name": "distylai",
@@ -6851,7 +6932,7 @@
    "Software Development"
   ],
   "description": "Distyl AI delivers platforms and services that embed Artificial Intelligence into enterprise operations to generate measurable business outcomes. It offers a platform (\u201cDistillery Platform\u201d) that enables companies to deploy and manage AI systems rapidly, integrating directly with data, workflows, and existing enterprise infrastructure. Custom research, systems optimization, and deep technical deployment are part of its capabilities, with engineering and strategy contribution from teams with backgrounds in major institutions like OpenAI, Apple, and Palantir. Distyl AI works with clients across sectors such as Healthcare, Telecom, Manufacturing, Insurance, and Retail to create AI-driven solutions tied to financial or operational impact.",
-  "active_jobs": 26,
+  "active_jobs": 27,
   "boards": [
    "jobs.khoslaventures.com"
   ],
@@ -6899,6 +6980,31 @@
   "press_90d": 10
  },
  {
+  "name": "Foundry Robotics",
+  "domain": "foundryrobotics.ai",
+  "stage": "seed",
+  "head_count": null,
+  "tags": [
+   "Artificial Intelligence (AI)",
+   "Data & Analytics",
+   "Hardware",
+   "Manufacturing",
+   "Robotics",
+   "Science and Engineering",
+   "Software"
+  ],
+  "description": "Foundry Robotics is an AI-driven robotics company rebuilding manufacturing with advanced assembly automation and production systems.",
+  "active_jobs": 25,
+  "boards": [
+   "jobs.khoslaventures.com"
+  ],
+  "sector": "industrials / manufacturing",
+  "ats": "ashby",
+  "slug": "foundry-robotics",
+  "early": true,
+  "press_90d": 0
+ },
+ {
   "name": "Genalyte",
   "domain": "genalyte.com",
   "stage": "C",
@@ -6911,7 +7017,7 @@
    "Real Time"
   ],
   "description": "Genalyte, Inc. is a life sciences company developing and commercializing innovative next-generation multiplexing technology. Genalyte has developed a new approach to immunodetection using silicon chip manufacturing methods. Its Maverick platform uses a technology called silicon photonics to directly measure protein binding between antibodies and antigens or hybridization of nucleic acids.",
-  "active_jobs": 7,
+  "active_jobs": 5,
   "boards": [
    "jobs.khoslaventures.com"
   ],
@@ -6985,7 +7091,7 @@
    "Vehicles"
   ],
   "description": "Glydways develops autonomous transportation systems that combine small electric vehicles with dedicated guideways for urban mobility. The company designs a network that operates on demand, allowing passengers to travel directly between stations without fixed schedules. Its system integrates software, vehicles, and infrastructure to manage routing, traffic flow, and energy use. Glydways provides planning and deployment support for cities and transit agencies adopting automated transport solutions. The platform is designed to reduce congestion and improve accessibility through modular and scalable transit networks.",
-  "active_jobs": 19,
+  "active_jobs": 20,
   "boards": [
    "jobs.khoslaventures.com"
   ],
@@ -6993,7 +7099,7 @@
   "ats": "greenhouse",
   "slug": "glydways",
   "early": true,
-  "press_90d": 21
+  "press_90d": 23
  },
  {
   "name": "Grokker",
@@ -7075,7 +7181,7 @@
    "Vehicles"
   ],
   "description": "Hermeus is an aerospace and defense company that develops hypersonic aircraft capable of reaching speeds around Mach 5. The company\u2019s core mission is to drastically reduce global travel times by creating next-generation aircraft that can fly significantly faster than traditional commercial jets. Its flagship programs include the Quarterhorse series of high-speed test aircraft and the development of the Chimera engine, a turbine-based combined cycle propulsion system designed for hypersonic flight. Hermeus follows a rapid, iterative development approach, building and testing multiple prototypes to accelerate innovation and reduce engineering timelines. The company collaborates with organizations such as the U.S. Air Force and NASA, positioning its technology for both commercial aviation and defense applications.",
-  "active_jobs": 82,
+  "active_jobs": 79,
   "boards": [
    "jobs.khoslaventures.com"
   ],
@@ -7083,7 +7189,7 @@
   "ats": "lever",
   "slug": "hermeus",
   "early": true,
-  "press_90d": 54
+  "press_90d": 59
  },
  {
   "name": "IgGenix",
@@ -7115,7 +7221,7 @@
   "slug": "iggenix",
   "careers_url": "https://iggenix.com",
   "early": true,
-  "press_90d": 1
+  "press_90d": 0
  },
  {
   "name": "Immuneel Therapeutics",
@@ -7135,7 +7241,7 @@
    "Therapeutics"
   ],
   "description": "Immuneel Therapeutics is a clinical-stage biotechnology company that develops cell and gene therapies focused on cancer treatment. The company works primarily on CAR-T (Chimeric Antigen Receptor T-cell) therapy, a form of personalized immunotherapy where a patient\u2019s immune cells are modified to target and destroy cancer cells more effectively. Its platform integrates research, clinical development, and manufacturing capabilities to support the delivery of advanced cancer therapies. The company concentrates on making these therapies more accessible and cost-efficient, particularly in markets where such treatments are limited or expensive. It develops end-to-end capabilities that include cell processing, vector manufacturing, and clinical-grade production systems for immunotherapy products. This infrastructure supports both ongoing clinical trials and future commercialization of CAR-T therapies for blood cancers such as lymphomas and leukemias.",
-  "active_jobs": 2,
+  "active_jobs": 1,
   "boards": [
    "jobs.khoslaventures.com"
   ],
@@ -7176,7 +7282,7 @@
    "Software"
   ],
   "description": "Inkitt is building the operating system for storytellers, an AI-powered one-stop shop for creators to make bestselling books, audiobooks, and movies. Over the past decade, we\u2019ve built a proprietary AI pipeline that analyzes over 1,200 behavioral signals across 400,000+ manuscripts that discovers potential bestsellers on Inkitt.com, AB tests them into hits on Galatea, and scales them into movies on CandyJar, generating a new $1M bestselling novel every 7 days at a 40x better hit rate than traditional publishing. That prediction engine also powers Ironblood, the first 100% AI-generated streaming platform, where AI greenlights and generates content with no actors or cameras. Inkitt\u2019s validated IP reaches over 1 million paid subscribers across Galatea and CandyJar. Inkitt is now opening that same engine to every storyteller: creators can now use Inkitt\u2019s MCP server, AI audiobook tools, AI movie generation agent, and AI influencer harness.",
-  "active_jobs": 11,
+  "active_jobs": 10,
   "boards": [
    "jobs.khoslaventures.com"
   ],
@@ -7184,51 +7290,7 @@
   "ats": "lever",
   "slug": "inkitt",
   "early": true,
-  "press_90d": 7
- },
- {
-  "name": "Jido Maps",
-  "domain": "jidomaps.com",
-  "stage": "seed",
-  "head_count": 1,
-  "tags": [
-   "API",
-   "ARCore",
-   "ARKit",
-   "Analytics",
-   "Application Software",
-   "Artificial Intelligence (AI)",
-   "Augmented Reality",
-   "Business/Productivity Software",
-   "Computer Vision",
-   "Data & Analytics",
-   "Deep Learning",
-   "Developer APIs",
-   "Hardware",
-   "Information Technology",
-   "Internet",
-   "Internet Services",
-   "Machine Learning",
-   "Messaging and Telecommunications",
-   "Science",
-   "Science and Engineering",
-   "Software",
-   "Software Development",
-   "Telecommunications",
-   "Unity",
-   "Virtual Reality"
-  ],
-  "description": "Jido is bringing in the next wave of AR where digital content can have a shared and persistent life in the real world. Our API uses intimate understanding of a user's spatial context to preserve AR experiences across users and devices. Our research team came out of the Stanford Artificial Intelligence Labs and the Cornell Robot Learning Lab.",
-  "active_jobs": 0,
-  "boards": [
-   "jobs.khoslaventures.com"
-  ],
-  "sector": "industrials / manufacturing",
-  "ats": "web",
-  "slug": "jidomaps",
-  "careers_url": "https://about.roblox.com/",
-  "early": true,
-  "press_90d": 0
+  "press_90d": 8
  },
  {
   "name": "Jones",
@@ -7268,39 +7330,6 @@
   "press_90d": 100
  },
  {
-  "name": "Juno",
-  "domain": "juno.co",
-  "stage": "A",
-  "head_count": 2,
-  "tags": [
-   "Architecture",
-   "Buildings and Property",
-   "Construction",
-   "Construction & Design",
-   "Construction & Engineering",
-   "Construction Tech",
-   "Home Building",
-   "Living",
-   "Property Development",
-   "Real Estate",
-   "Real Estate & Construction",
-   "Real Estate Services (B2C)",
-   "Residential",
-   "Residential Real Estate",
-   "Sustainability"
-  ],
-  "description": "Juno Residential develops apartment buildings intended to offer environment-friendly and speedy housing alternatives. It uses prefabrication techniques and organic and low-carbon materials like mass timber, thereby providing clients with modern and curated apartments.",
-  "active_jobs": 0,
-  "boards": [
-   "jobs.khoslaventures.com"
-  ],
-  "sector": "building products / construction",
-  "ats": "greenhouse",
-  "slug": "juno",
-  "early": true,
-  "press_90d": 100
- },
- {
   "name": "Li Industries",
   "domain": "li-ind.com",
   "stage": "seed",
@@ -7335,7 +7364,7 @@
   "slug": "li-ind",
   "careers_url": "https://www.li-ind.com/careers",
   "early": true,
-  "press_90d": 2
+  "press_90d": 1
  },
  {
   "name": "Limelight Steel",
@@ -7380,7 +7409,7 @@
    "Veterinary"
   ],
   "description": "Loyal is a veterinary biotechnology company that develops pharmaceutical therapies for dogs aimed at extending their healthy lifespan and delaying age-associated diseases. It researches and formulates drug candidates designed to address the biological mechanisms of aging in different dog populations, including senior and large-breed dogs, with products progressing through clinical and regulatory pathways. Loyal engages in clinical studies and collaborates with veterinary professionals to advance its therapeutic programs and share scientific insights with the broader field. The company publishes research summaries to support transparency and enable other practitioners to build on its findings.",
-  "active_jobs": 4,
+  "active_jobs": 5,
   "boards": [
    "jobs.khoslaventures.com"
   ],
@@ -7389,6 +7418,66 @@
   "slug": "loyal36",
   "early": true,
   "press_90d": 100
+ },
+ {
+  "name": "Mach Industries",
+  "domain": "machindustries.com",
+  "stage": "C",
+  "head_count": 3,
+  "tags": [
+   "Aerospace",
+   "Aerospace & Defense",
+   "Defense",
+   "Defense & Space",
+   "Drone Management",
+   "Drones",
+   "Energy",
+   "Government",
+   "Government and Military",
+   "Hardware",
+   "Industrial",
+   "Infrastructure",
+   "Manufacturing",
+   "Manufacturing & Industrial",
+   "National Security",
+   "Software"
+  ],
+  "description": "Mach Industries is a defense manufacturing company that develops and produces unmanned aerospace and defense systems, along with the infrastructure required to manufacture them at scale. Its product portfolio includes strike aircraft, long-range munitions, high-altitude platforms, counter-drone systems, and propulsion technologies designed for military applications. The company follows a vertically integrated approach, designing and manufacturing key components and systems in-house to support production, testing, and deployment. Mach Industries also operates a decentralized manufacturing network that supports the production of defense hardware and related components. In addition to developing operational systems, the company provides capabilities in propulsion, energetics, testing, and advanced manufacturing for defense and aerospace applications.",
+  "active_jobs": 158,
+  "boards": [
+   "jobs.khoslaventures.com"
+  ],
+  "sector": "industrials / manufacturing",
+  "ats": "greenhouse",
+  "slug": "machindustries",
+  "early": true,
+  "press_90d": 45
+ },
+ {
+  "name": "Mariana Minerals",
+  "domain": "marianaminerals.com",
+  "stage": "A",
+  "head_count": 3,
+  "tags": [
+   "Artificial Intelligence (AI)",
+   "Data & Analytics",
+   "Energy",
+   "Mineral",
+   "Mining",
+   "Natural Resources",
+   "Science and Engineering",
+   "Software"
+  ],
+  "description": "Mariana Minerals is a software-first critical minerals company that supplies materials essential for modern energy, AI, and defense applications. The company uses its proprietary platform, MarianaOS, which combines AI, machine learning, and end-to-end project execution tools to accelerate the timeline from discovery to production in the mining sector.",
+  "active_jobs": 96,
+  "boards": [
+   "jobs.khoslaventures.com"
+  ],
+  "sector": "industrials / manufacturing",
+  "ats": "ashby",
+  "slug": "marianaminerals",
+  "early": true,
+  "press_90d": 18
  },
  {
   "name": "Menten AI",
@@ -7496,7 +7585,7 @@
   "ats": "greenhouse",
   "slug": "nitricity",
   "early": true,
-  "press_90d": 0
+  "press_90d": 1
  },
  {
   "name": "Nomagic",
@@ -7554,7 +7643,7 @@
    "Technology"
   ],
   "description": "Pearl Bio is a synthetic biology company recording life to create a new era of biologics and biomaterials.",
-  "active_jobs": 0,
+  "active_jobs": 1,
   "boards": [
    "jobs.khoslaventures.com"
   ],
@@ -7564,6 +7653,45 @@
   "careers_url": "https://www.pearlbio.com/careers/",
   "early": true,
   "press_90d": 1
+ },
+ {
+  "name": "Point One Navigation",
+  "domain": "pointonenav.com",
+  "stage": "C",
+  "head_count": 2,
+  "tags": [
+   "Application Software",
+   "Automotive",
+   "Autonomous Vehicles",
+   "Consumer Services",
+   "Electronic Equipment and Instruments",
+   "GNSS",
+   "GPS",
+   "Geolocation",
+   "Hardware",
+   "Industrial Automation",
+   "Manufacturing",
+   "Mapping",
+   "Navigation",
+   "Robotics",
+   "Satellite",
+   "Science and Engineering",
+   "Software",
+   "Software Development",
+   "Technology",
+   "Technology And Computing",
+   "Transportation"
+  ],
+  "description": "Point One Navigation provides a centimeter-accurate positioning platform that combines a professionally managed Real-Time Kinematic (RTK) corrections network, a developer-friendly API, and a sensor-fusion positioning engine. Their Polaris network delivers GNSS corrections from thousands of base stations to achieve very high precision, while their FusionEngine software fuses satellite signals, inertial data, and motion sensors to maintain accuracy even without clear sky view. They also offer reference hardware like their Standard Development Kit and Atlas device for rapid prototyping or deployment. Point One supports a variety of use cases, from drones and robotics to autonomous vehicles and surveying.",
+  "active_jobs": 13,
+  "boards": [
+   "jobs.khoslaventures.com"
+  ],
+  "sector": "industrials / manufacturing",
+  "ats": "ashby",
+  "slug": "point-one-navigation",
+  "early": true,
+  "press_90d": 10
  },
  {
   "name": "Primer",
@@ -7605,39 +7733,6 @@
   "sector": "consumer / DTC",
   "ats": "ashby",
   "slug": "primer",
-  "early": true,
-  "press_90d": 100
- },
- {
-  "name": "Quell",
-  "domain": "playquell.com",
-  "stage": "A",
-  "head_count": 2,
-  "tags": [
-   "Community and Lifestyle",
-   "Computer Games",
-   "Entertainment Software",
-   "Fitness",
-   "Fitness and Wellness",
-   "Games",
-   "Gaming",
-   "Information Technology",
-   "Media & Entertainment",
-   "Other Hardware",
-   "Software",
-   "Sports",
-   "Technology",
-   "Virtual World"
-  ],
-  "description": "Quell delivers a virtual fitness world that offers a unique experience of intense workouts while gaming to achieve fitness goals. The startup uses resistance bands to help players get fit while fighting their way through a virtual fitness world. It coins itself as a \u201cPeloton meets gaming\u201d and charges a monthly fee to keep content fresh.",
-  "active_jobs": 0,
-  "boards": [
-   "jobs.khoslaventures.com"
-  ],
-  "sector": "industrials / manufacturing",
-  "ats": "web",
-  "slug": "playquell",
-  "careers_url": "https://smithfieldrealflavorrealfast.com/",
   "early": true,
   "press_90d": 100
  },
@@ -7729,7 +7824,7 @@
   "slug": "siphox",
   "careers_url": "https://siphoxhealth.com/join",
   "early": true,
-  "press_90d": 1
+  "press_90d": 0
  },
  {
   "name": "Spiritus",
@@ -7759,43 +7854,45 @@
   "slug": "spiritus",
   "careers_url": "https://spiritus.com/careers",
   "early": true,
-  "press_90d": 31
+  "press_90d": 14
  },
  {
-  "name": "TaxProper",
-  "domain": "taxproper.com",
-  "stage": "seed",
-  "head_count": 1,
+  "name": "Swarm Aero",
+  "domain": "swarm.aero",
+  "stage": "A",
+  "head_count": 2,
   "tags": [
-   "Accounting, Audit and Tax Services (B2C)",
-   "Computer",
+   "Aerospace",
+   "Aerospace & Defense",
+   "Artificial Intelligence (AI)",
+   "Automation",
+   "Business/Productivity Software",
    "Consumer Electronics",
-   "Finance",
-   "Financial Services",
-   "Financial Software",
-   "Fintech",
+   "Consumer Goods",
+   "Data & Analytics",
+   "Defense",
+   "Drones",
+   "Government",
+   "Government and Military",
    "Hardware",
-   "Machine Learning",
-   "Other Financial Services",
-   "Platform",
-   "Property Management",
-   "Real Estate & Construction",
+   "Information Technology",
+   "Military",
+   "National Security",
+   "Other Hardware",
+   "Science and Engineering",
    "Software",
-   "Software Development",
-   "Tax",
    "Technology"
   ],
-  "description": "The technology used by governments to valuate homes for property tax assessment is outdated and often inaccurate. The appeal process, which is intended to allow homeowners to contest inaccurate valuations, is expensive, confusing, and time-consuming. As a result, homeowners often pay more than their fair share in property taxes.\n\nThey founded taxProper because they wanted to level the playing field. They believe homeowners shouldn\u2019t pay the price for bad technology, and that the appeals process should be easy and fair.\n\nTheir appeals software is based on cutting-edge machine-learning techniques and generates more accurate valuations every single time. If a customer is being taxed for more than their house is worth, they automatically generate an appeal using their data, generate the correct paperwork, and file it for you.",
-  "active_jobs": 10,
+  "description": "Swarm Aero is an aerospace and defense company that develops large-scale unmanned aerial vehicle (UAV) swarms to operate in coordinated drone swarms for defense, logistics, and sensing missions. The company builds large uncrewed aircraft and supporting software that allow multiple drones to collaborate and perform tasks as a coordinated network rather than as independent vehicles. These systems use onboard computing, sensors, and artificial intelligence to enable autonomous flight behaviors and collective decision-making among groups of drones. The technology platform includes aircraft hardware, swarm coordination software, and command-and-control tools that allow operators to deploy and manage large numbers of drones. A swarm node architecture integrates edge computing and distributed sensors on each vehicle so that drones can communicate with one another, share environmental data, and adapt their behavior during missions. Through this system, operators can translate mission objectives into coordinated flight patterns and task assignments executed by the swarm.\n\nSwarm Aero\u2019s aircraft and software systems support applications such as intelligence gathering, environmental monitoring, cargo delivery, communications relay, disaster response, and security operations. The platform is designed to enable operations in environments where communications may be limited or conditions change rapidly, allowing autonomous drones to coordinate actions and adjust routes in real time.",
+  "active_jobs": 44,
   "boards": [
    "jobs.khoslaventures.com"
   ],
-  "sector": "building products / construction",
-  "ats": "web",
-  "slug": "taxproper",
-  "careers_url": "https://www.mainstay.io/",
+  "sector": "consumer / DTC",
+  "ats": "ashby",
+  "slug": "swarmaero",
   "early": true,
-  "press_90d": 0
+  "press_90d": 46
  },
  {
   "name": "Tempo",
@@ -7812,8 +7909,9 @@
    "Wellness"
   ],
   "description": "Tempo designs and develops a home fitness platform with personal guidance to help users in their training sessions. It features live elite trainers who can help users when they make mistakes. It has built-in three-dimensional sensors that track form, count reps, and recommend weights. It helps users to improve in real-time. Powered by 3D motion sensors and AI, it analyzes 25 of the body\u2019s essential joints as users work out and gives understood form feedback.\n\nMoawia Eldeeb and Joshua Augustin founded it as Pivot in 2015, with its headquarters in San Francisco, California.",
-  "active_jobs": 0,
+  "active_jobs": 14,
   "boards": [
+   "jobs.khoslaventures.com",
    "jobs.khoslaventures.com",
    "jobs.generalcatalyst.com"
   ],
@@ -7849,7 +7947,7 @@
    "Workforce Management"
   ],
   "description": "Traba is building a world where the global supply chain operates at peak efficiency. We connect industrial businesses with reliable workers to fill open shifts and empower both businesses and workers to reach their full productivity and potential.",
-  "active_jobs": 33,
+  "active_jobs": 28,
   "boards": [
    "jobs.khoslaventures.com",
    "jobs.generalcatalyst.com"
@@ -7858,7 +7956,7 @@
   "ats": "ashby",
   "slug": "traba",
   "early": true,
-  "press_90d": 3
+  "press_90d": 1
  },
  {
   "name": "Vahan.ai",
@@ -7888,7 +7986,7 @@
   "slug": "vahan",
   "careers_url": "https://vahan.co/careers",
   "early": true,
-  "press_90d": 7
+  "press_90d": 5
  },
  {
   "name": "Vinci4D.ai",
@@ -7944,7 +8042,7 @@
    "Transportation"
   ],
   "description": "WindBorne develops, manufactures, and operates a network of long-duration smart weather balloons. The company collects atmospheric data for weather forecasting, climate research, and environmental monitoring. The company uses high-altitude balloons equipped with sensors to gather data from various layers of the atmosphere. These balloons can capture precise and comprehensive atmospheric measurements. By providing high-resolution atmospheric data, WindBorne Systems contributes to more accurate weather predictions, which can help mitigate the impacts of severe weather events.",
-  "active_jobs": 37,
+  "active_jobs": 34,
   "boards": [
    "jobs.khoslaventures.com"
   ],
@@ -7989,7 +8087,7 @@
    "Workforce Management"
   ],
   "description": "WorkWhile is an hourly labor marketplace that connects businesses with flexible professionals for various job opportunities. The platform allows companies to find workers for events and warehouse tasks, ensuring that their staffing needs are met efficiently. Workers can browse available shifts that align with their skills and schedules, providing them with the flexibility they seek. Additionally, WorkWhile offers next-day pay, allowing employees to receive their earnings promptly after completing their shifts. This feature enhances financial flexibility for workers. The platform also utilizes location-based job matching to ensure that job opportunities are accessible to nearby professionals.",
-  "active_jobs": 9,
+  "active_jobs": 11,
   "boards": [
    "jobs.khoslaventures.com"
   ],
@@ -7997,7 +8095,7 @@
   "ats": "ashby",
   "slug": "workwhilejobs",
   "early": true,
-  "press_90d": 8
+  "press_90d": 9
  },
  {
   "name": "Airbyte",
@@ -8038,7 +8136,7 @@
   "ats": "ashby",
   "slug": "airbyte",
   "early": true,
-  "press_90d": 10
+  "press_90d": 7
  },
  {
   "name": "Commerce Layer",
@@ -8074,7 +8172,7 @@
   "slug": "commercelayer",
   "careers_url": "https://commercelayer.io/",
   "early": true,
-  "press_90d": 19
+  "press_90d": 8
  },
  {
   "name": "Complir",
@@ -8087,7 +8185,7 @@
    "Software"
   ],
   "description": "Complir is a compliance platform tailored for the retail sector, assisting businesses in managing regulations and ensuring product compliance throughout the design and delivery process. It consolidates product data to ensure regulatory adherence and improve transparency across the supply chain. The platform helps retailers maintain standards and stay informed about regulatory updates by automating reporting and simplifying data management. Complir supports retailers in improving compliance and operational efficiency in their product offerings.",
-  "active_jobs": 3,
+  "active_jobs": 2,
   "boards": [
    "jobs.svangel.com"
   ],
@@ -8095,7 +8193,7 @@
   "ats": "ashby",
   "slug": "complir",
   "early": true,
-  "press_90d": 6
+  "press_90d": 7
  },
  {
   "name": "Convex",
@@ -8143,7 +8241,7 @@
   "ats": "ashby",
   "slug": "convex-dev",
   "early": true,
-  "press_90d": 53
+  "press_90d": 50
  },
  {
   "name": "Etleap",
@@ -8209,7 +8307,7 @@
   "slug": "gooddog",
   "careers_url": "https://www.gooddog.com/join-as-breeder",
   "early": true,
-  "press_90d": 80
+  "press_90d": 42
  },
  {
   "name": "Huskeys",
@@ -8229,7 +8327,7 @@
    "Software Development Applications"
   ],
   "description": "Huskeys is a cybersecurity company that develops an Edge Security Management (ESM) platform designed to modernize and unify web application protection systems. The company integrates an AI-driven, agentic layer across security components such as CDN, WAF, infrastructure, and applications to streamline operations and improve protection. Its platform continuously analyzes and adapts security policies, orchestrating configurations in real time to optimize both security performance and business outcomes. Huskeys focuses on transforming legacy web security solutions by enabling dynamic, automated mitigation of modern threats. The company has emerged from stealth with seed funding to accelerate product development and expand its global market presence, serving clients including major digital platforms.",
-  "active_jobs": 0,
+  "active_jobs": 6,
   "boards": [
    "jobs.svangel.com"
   ],
@@ -8237,7 +8335,7 @@
   "ats": "ashby",
   "slug": "huskeys",
   "early": true,
-  "press_90d": 20
+  "press_90d": 17
  },
  {
   "name": "Inscribe",
@@ -8267,7 +8365,7 @@
    "Technology"
   ],
   "description": "Inscribe offers a way for FinTech and financial services organizations to automate their manual reviews, reduce fraud losses, and increase decision accuracy. By automating document reviews and improving fraud detection, companies can increase efficiency and reduce operational costs. Founded in 2017, Inscribe is trusted by leading companies like BlueVine, Petal, Fair, and Ramp. With investors from Y Combinator, Uncork Capital, Crosslink Capital, and Foundry Group, Inscribe has a global footprint with locations in North America and Europe.",
-  "active_jobs": 3,
+  "active_jobs": 4,
   "boards": [
    "jobs.svangel.com"
   ],
@@ -8275,7 +8373,7 @@
   "ats": "ashby",
   "slug": "InscribeAI",
   "early": true,
-  "press_90d": 32
+  "press_90d": 34
  },
  {
   "name": "Mosaic",
@@ -8334,7 +8432,7 @@
    "Unstructured Data"
   ],
   "description": "Nomic AI engages in improving both the explainability and accessibility of AI.",
-  "active_jobs": 9,
+  "active_jobs": 8,
   "boards": [
    "jobs.svangel.com"
   ],
@@ -8342,7 +8440,7 @@
   "ats": "ashby",
   "slug": "nomic",
   "early": true,
-  "press_90d": 4
+  "press_90d": 5
  },
  {
   "name": "Nylas",
@@ -8379,7 +8477,7 @@
    "Technology"
   ],
   "description": "Nylas is the communication platform-as-a-service company that empowers businesses worldwide to unlock the power of their communications data. They simplify developers\u2019 lives by enabling them to automate manual, repetitive, everyday tasks with little to no code. Their platform drives brands to create unified and personalized experiences backed by customer insights.",
-  "active_jobs": 6,
+  "active_jobs": 5,
   "boards": [
    "jobs.svangel.com",
    "jobs.8vc.com"
@@ -8388,93 +8486,7 @@
   "ats": "ashby",
   "slug": "nylas",
   "early": true,
-  "press_90d": 7
- },
- {
-  "name": "OpenSea",
-  "domain": "opensea.io",
-  "stage": "C",
-  "head_count": 4,
-  "tags": [
-   "Art And Entertainment",
-   "Bitcoin",
-   "Blockchain",
-   "Blockchain and Cryptocurrency",
-   "Commerce and Shopping",
-   "Cryptocurrency",
-   "Decentralized Finance (DeFi)",
-   "E-Commerce",
-   "Financial Services",
-   "Financial Software",
-   "Fintech",
-   "Internet Services",
-   "Marketplace",
-   "Non-Fungible Token (NFT)",
-   "Other Financial Services",
-   "Payments",
-   "Platform",
-   "Software",
-   "Software Development",
-   "Technology",
-   "Web3"
-  ],
-  "description": "OpenSea is a peer-to-peer marketplace for crypto collectibles and non-fungible tokens. It includes collectibles, gaming items, and other virtual goods backed by a blockchain. On OpenSea, anyone can buy or sell these items through a smart contract.",
-  "active_jobs": 0,
-  "boards": [
-   "jobs.svangel.com"
-  ],
-  "sector": "consumer / DTC",
-  "ats": "web",
-  "slug": "opensea",
-  "careers_url": "https://opensea.io/careers",
-  "early": true,
-  "press_90d": 44
- },
- {
-  "name": "Parabol",
-  "domain": "parabol.co",
-  "stage": "A",
-  "head_count": 2,
-  "tags": [
-   "Accountability",
-   "Agile",
-   "Application Software",
-   "Artificial Intelligence (AI)",
-   "Automation",
-   "Autonomy",
-   "Business/Productivity Software",
-   "Collaboration",
-   "Computer",
-   "Consumer Electronics",
-   "Culture",
-   "Data & Analytics",
-   "Enterprise Software",
-   "Facilitation",
-   "Hardware",
-   "Lean",
-   "Meetings",
-   "Remote Teams",
-   "Responsive",
-   "SaaS",
-   "Science and Engineering",
-   "Security",
-   "Software",
-   "Software Development",
-   "Technology",
-   "Technology And Computing",
-   "Transparency"
-  ],
-  "description": "Parabol is a remote retrospective and meeting app that generates automatic insights about team performance from online collaboration activity. Our software allows distributed, cloud-based teams to run meetings from anywhere, across time zones, in real time or asynchronously. Team notes and tasks are automatically rolled into a meeting summary which is instantly posted to the team timeline and emailed to stakeholders. Teammates can also export their tasks to JIRA, Confluence, GitHub, or Slack. Parabol also analyzes meeting data to generate powerful leadership insights about what\u2019s holding your team back, and how to unlock better performance.",
-  "active_jobs": 0,
-  "boards": [
-   "jobs.svangel.com"
-  ],
-  "sector": "industrials / manufacturing",
-  "ats": "web",
-  "slug": "parabol",
-  "careers_url": "https://www.parabol.co/join/speculative-application/",
-  "early": true,
-  "press_90d": 1
+  "press_90d": 5
  },
  {
   "name": "Phia",
@@ -8509,7 +8521,7 @@
   "ats": "ashby",
   "slug": "phia",
   "early": true,
-  "press_90d": 100
+  "press_90d": 35
  },
  {
   "name": "Preset",
@@ -8598,7 +8610,7 @@
   "ats": "ashby",
   "slug": "rescale",
   "early": true,
-  "press_90d": 17
+  "press_90d": 18
  },
  {
   "name": "Resolve",
@@ -8705,7 +8717,7 @@
    "Technology, Information and Internet"
   ],
   "description": "Together AI provides a cloud platform for developing, training, fine-tuning, and deploying generative artificial intelligence models using open-source technologies. Its services include serverless and dedicated model inference, GPU compute infrastructure, managed storage, code sandboxes, and model customization tools that support AI application development and production workloads. The platform also offers APIs and deployment options that enable developers and organizations to build, run, and manage language, image, audio, vision, and code models without maintaining underlying infrastructure.",
-  "active_jobs": 78,
+  "active_jobs": 85,
   "boards": [
    "jobs.svangel.com",
    "jobs.generalcatalyst.com"
@@ -8750,7 +8762,7 @@
    "Transaction Monitoring"
   ],
   "description": "Unit21 is the leader in AI Risk Infrastructure for fraud prevention and AML monitoring. Trusted by over 200 institutions, including Intuit, Chime, and Sallie Mae, our platform unifies detection, investigation, and decisioning in a single system built on data-agnostic architecture.\n\nPowered by agentic AI, Unit21 doesn\u2019t just summarize alerts; it executes the full investigation workflow, reducing false positives by up to 93% and accelerating handle times by 80%. By automating repetitive tasks while maintaining full regulator-ready auditability, Unit21 empowers banks and fintechs to operate proactively and focus on real risk.",
-  "active_jobs": 4,
+  "active_jobs": 5,
   "boards": [
    "jobs.svangel.com"
   ],
@@ -8759,7 +8771,7 @@
   "slug": "unit21",
   "careers_url": "https://www.unit21.ai/",
   "early": true,
-  "press_90d": 8
+  "press_90d": 5
  },
  {
   "name": "Activ Surgical",
@@ -8834,7 +8846,7 @@
   "slug": "anduintransact",
   "careers_url": "https://anduintransact.com/careers",
   "early": true,
-  "press_90d": 8
+  "press_90d": 7
  },
  {
   "name": "Bedrock Robotics",
@@ -8855,7 +8867,7 @@
    "Transportation"
   ],
   "description": "Bedrock Robotics brings advanced autonomy to the built world, helping the construction industry build at the pace today's society demands.",
-  "active_jobs": 57,
+  "active_jobs": 59,
   "boards": [
    "jobs.8vc.com"
   ],
@@ -8885,7 +8897,7 @@
    "Peer Support"
   ],
   "description": "Better Health is a support and supplies platform built on peer-to-peer connection. The supported chronic conditions include ostomy, chronic wounds, diabetes, chronic retention, and incontinence. Better Health is trusted by healthcare payers and providers to deliver peer support, education, and medical supplies to drive engagement and adherence, improve outcomes, and lower the cost of care. The result is reduced overutilization, improved mental health, and a 98% customer satisfaction rating. Co-founded by Naama Stauber Breckler and Adam Breckler, Better Health operates in 48 states and serves the members of top payers, including Medicare, Medicaid, CIGNA, Humana, Florida Blue, and Oscar, among others. To learn more, visit joinbetter.com.",
-  "active_jobs": 4,
+  "active_jobs": 3,
   "boards": [
    "jobs.8vc.com",
    "jobs.generalcatalyst.com"
@@ -8928,7 +8940,7 @@
   "slug": "byheart",
   "careers_url": "https://byheart.com/pages/careers",
   "early": true,
-  "press_90d": 19
+  "press_90d": 15
  },
  {
   "name": "Cambium",
@@ -8969,7 +8981,7 @@
   "ats": "ashby",
   "slug": "cambium",
   "early": true,
-  "press_90d": 95
+  "press_90d": 96
  },
  {
   "name": "Chemify",
@@ -8999,7 +9011,7 @@
   "slug": "chemify",
   "careers_url": "https://www.chemify.io/careers",
   "early": true,
-  "press_90d": 8
+  "press_90d": 11
  },
  {
   "name": "Coram AI",
@@ -9025,7 +9037,7 @@
    "Video Streaming"
   ],
   "description": "Coram AI develops a video intelligence platform to provide businesses with insights into daily operations. The company offers a novel, AI-native security platform that helps customers ranging from schools to manufacturers better monitor their sites to dramatically improve safety and efficiency.",
-  "active_jobs": 44,
+  "active_jobs": 43,
   "boards": [
    "jobs.8vc.com"
   ],
@@ -9061,7 +9073,7 @@
   "ats": "lever",
   "slug": "cx2",
   "early": true,
-  "press_90d": 6
+  "press_90d": 8
  },
  {
   "name": "Dealpath",
@@ -9079,7 +9091,7 @@
    "Software"
   ],
   "description": "Dealpath has pioneered and established the Real Estate Deal Management industry by creating the leading intelligent software solution for investment management firms, empowering faster, more informed investment decisions and connections throughout the deal lifecycle with data-driven insights and digital collaboration. We\u2019re building out an industry-defining company to accelerate the largest asset class in the world into the future. Recent company highlights include: surpassing $10 trillion of transactions supported on the platform with prominent firms like Blackstone, Nuveen, AEW, Bridge Investment Group, Oxford Property Group, as well as recognition as the \u201cTop Technology\u201d at the Global PropTech Awards. To learn more about Dealpath, and to see our open roles, visit www.dealpath.com.",
-  "active_jobs": 21,
+  "active_jobs": 19,
   "boards": [
    "jobs.8vc.com"
   ],
@@ -9087,7 +9099,7 @@
   "ats": "greenhouse",
   "slug": "dealpath",
   "early": true,
-  "press_90d": 0
+  "press_90d": 3
  },
  {
   "name": "Dover",
@@ -9210,7 +9222,7 @@
    "Technology, Information and Internet"
   ],
   "description": "This AI company develops transformative computing technology to enhance collective AI capabilities by enabling the largest and most capable neural networks of today and tomorrow to run faster, more efficiently and sustainably.",
-  "active_jobs": 41,
+  "active_jobs": 39,
   "boards": [
    "jobs.8vc.com",
    "jobs.accel.com"
@@ -9248,7 +9260,7 @@
    "Vendor Management"
   ],
   "description": "Gallatin is building a logistics platform based on the needs and constraints of today's defense industry. Gallatin's platform creates actionable insights across the tactical, operational, and strategic levels, providing integrated capabilities for first, middle, and last mile solutions where they're needed most.",
-  "active_jobs": 23,
+  "active_jobs": 25,
   "boards": [
    "jobs.8vc.com"
   ],
@@ -9276,7 +9288,7 @@
    "Science and Engineering"
   ],
   "description": "General Matter focuses on producing enriched uranium fuel for nuclear energy applications, supplying forms of uranium used in power generation and advanced reactors. It provides uranium enrichment services that convert raw material into low-enriched and high-assay low-enriched uranium for use in nuclear reactors and other energy infrastructure. The company develops and applies technology aimed at supporting energy clients with domestic fuel supply capabilities and reducing reliance on foreign sources. Its operations serve organizations in the nuclear energy ecosystem by offering products and services essential to maintaining and expanding nuclear power generation. General Matter collaborates with stakeholders from technology, energy, and government sectors to advance its enrichment and fuel services.",
-  "active_jobs": 126,
+  "active_jobs": 131,
   "boards": [
    "jobs.8vc.com"
   ],
@@ -9284,7 +9296,7 @@
   "ats": "greenhouse",
   "slug": "generalmatter",
   "early": true,
-  "press_90d": 54
+  "press_90d": 58
  },
  {
   "name": "Generalist",
@@ -9303,7 +9315,7 @@
    "Software"
   ],
   "description": "Generalist is an AI robotics company building general intelligence for the physical world and making it useful to everyone. The founding team includes engineers from OpenAI, Google DeepMind, and Boston Dynamics. The company embraces both large-scale AI and robotics as core to its DNA.\r\n\r\n",
-  "active_jobs": 21,
+  "active_jobs": 22,
   "boards": [
    "jobs.8vc.com"
   ],
@@ -9373,7 +9385,7 @@
    "Technology"
   ],
   "description": "Shogun Enterprises is a financial technology platform for home improvement.",
-  "active_jobs": 5,
+  "active_jobs": 4,
   "boards": [
    "jobs.8vc.com"
   ],
@@ -9418,7 +9430,7 @@
   "ats": "greenhouse",
   "slug": "hillhousehome",
   "early": true,
-  "press_90d": 19
+  "press_90d": 14
  },
  {
   "name": "iCOMAT",
@@ -9457,7 +9469,7 @@
   "slug": "icomat",
   "careers_url": "https://www.icomat.co.uk/careers",
   "early": true,
-  "press_90d": 4
+  "press_90d": 5
  },
  {
   "name": "Knowde",
@@ -9499,7 +9511,7 @@
   "slug": "knowde",
   "careers_url": "https://www.knowde.com/resources/careers",
   "early": true,
-  "press_90d": 1
+  "press_90d": 0
  },
  {
   "name": "KOJO ",
@@ -9645,7 +9657,7 @@
    "Transportation"
   ],
   "description": "Loop provides a platform that manages logistics and supply chain data through automation and analytics tools. The system aggregates shipment, carrier, and financial data into a unified interface to support visibility and coordination. It includes features for freight audit, payment processing, and cost tracking across transportation activities. The platform also supports issue resolution, reporting, and performance monitoring for carriers and shipments. Loop serves organizations that require structured data handling and process automation within logistics operations.",
-  "active_jobs": 24,
+  "active_jobs": 27,
   "boards": [
    "jobs.8vc.com"
   ],
@@ -9705,7 +9717,7 @@
    "Therapeutic Devices"
   ],
   "description": "Luminate is an oncology-focused healthtech and tech-enabled services company that partners with payers, providers, and people with cancer to reduce the cost of cancer care while improving quality of life and outcomes for patients. The company offers a portfolio of services and technologies that enable home-based cancer treatment, adverse event monitoring, and prevention of drug-induced side effects.",
-  "active_jobs": 6,
+  "active_jobs": 8,
   "boards": [
    "jobs.8vc.com"
   ],
@@ -9713,7 +9725,7 @@
   "ats": "bamboohr",
   "slug": "luminatemedical",
   "early": true,
-  "press_90d": 2
+  "press_90d": 4
  },
  {
   "name": "Matician",
@@ -9738,7 +9750,7 @@
    "Transportation"
   ],
   "description": "We are building robots that can learn from the environment by moving around and interacting with it. We believe in owning the full stack from the lowest levels of software to the actual hardware. We design and produce robots under one roof to accelerate our iteration cycle. Our integration starts all the way from the firmware to the electrical engineering to the actual assembly of the robot.\n\nFoundational to our mission is the ability for the robot to see the world in 3D using just regular cameras. We developed a neural network to see the world in depth using stereo cameras and a SLAM system to locate our robot in 3D space. We believe that the fastest and the most robust way to learn about the world is through interaction. When our robot encounters a novel object, it can move around to observe the object from different angles and viewpoints to acquire more data.\n\nMatician is led by repeat founders Navneet Dalal and Mehul Nariyawala.\n\nNavneet has a PhD in Computer Vision and is perhaps best known for his thesis, Histogram of Oriented Gradients (HOG), a landmark in computer vision research, which remained the state-of-the-art for 10 years with over 35,000 citations.\n\nNavneet and Mehul were early employees at a startup called Like.com, which pioneered facial recognition in images in 2005 and was acquired by Google in 2010.\n\nNext, they started Flutter (Y Combinator W12), a startup that built on-device hand-gesture recognition. The algorithms worked locally on the device using the webcam with just an 800kB footprint. And yet, Flutter beat the state-of-the-art algorithms in accuracy and recall, leading to its acquisition by Google in 2013. At the time of acquisition, Flutter was the #1 Mac Store app in 73 countries and its users had performed over 77 million gestures.\n\nAt Google, they helped launch Google Cardboard at Google Research. Later, the team moved over to Nest where Mehul was the Lead PM for Nest Cam and Navneet led the algorithms team. The team conceptualized and launched Nest Cam Outdoor, Nest Cam IQ, and Nest Hello Doorbell along with other computer vision features such as person and stranger detection.\n\nIn 2017, Mehul and Navneet returned to the startup world, co-founding Matician. They have since grown the team to over 25, including Google, Tesla, and Cisco alumni, all working together to bring the vision of home autonomy into the hands of our customers.",
-  "active_jobs": 25,
+  "active_jobs": 26,
   "boards": [
    "jobs.8vc.com"
   ],
@@ -9789,7 +9801,7 @@
   "slug": "middleware",
   "careers_url": "https://middleware.io/careers/",
   "early": true,
-  "press_90d": 62
+  "press_90d": 57
  },
  {
   "name": "Mindbloom",
@@ -9817,7 +9829,7 @@
    "Wellness"
   ],
   "description": "Mindbloom is a mental health and wellbeing brand helping people achieve personal and clinical breakthroughs with at-home, clinician-prescribed psychedelic therapies. The company provides science-backed medicine designed by leading psychiatrists and facilitated by friendly, expert guides.",
-  "active_jobs": 9,
+  "active_jobs": 8,
   "boards": [
    "jobs.8vc.com"
   ],
@@ -9826,7 +9838,7 @@
   "slug": "mindbloom",
   "careers_url": "https://www.mindbloom.com/careers",
   "early": true,
-  "press_90d": 1
+  "press_90d": 3
  },
  {
   "name": "Nile",
@@ -9864,7 +9876,7 @@
    "Zero Trust"
   ],
   "description": "Nile is disrupting the enterprise network market by modernizing IT operations with a new AI networking architecture, delivering enterprise networks entirely as a service. For the first time in the industry, its Nile Access Service integrates zero trust security and offers performance guarantees. With Nile, IT organizations close the gap between their digital aspirations and legacy realities, reduce their total cost of ownership by more than 60%, and recover critical IT resources while their users gain superior connectivity. For more information, visit nilesecure.com/journey.",
-  "active_jobs": 16,
+  "active_jobs": 17,
   "boards": [
    "jobs.8vc.com"
   ],
@@ -9956,33 +9968,7 @@
   "ats": "rippling",
   "slug": "overland-ai",
   "early": true,
-  "press_90d": 37
- },
- {
-  "name": "Parallel Fluidics",
-  "domain": "parallelfluidics.com",
-  "stage": "seed",
-  "head_count": 2,
-  "tags": [
-   "Electronic Components",
-   "Electronics",
-   "Industrial",
-   "Industrial Manufacturing",
-   "Manufacturing",
-   "Manufacturing & Industrial",
-   "Other Commercial Products",
-   "Other Commercial Services"
-  ],
-  "description": "Parallel Fluidics is a new microfluidics manufacturing company out of Boston. The company started in 2019 to solve a problem they\u2019d faced firsthand as engineers: it\u2019s hard to get quality microfluidic prototypes, fast.",
-  "active_jobs": 1,
-  "boards": [
-   "jobs.8vc.com"
-  ],
-  "sector": "industrials / manufacturing",
-  "ats": "ashby",
-  "slug": "parallel-fluidics",
-  "early": true,
-  "press_90d": 0
+  "press_90d": 32
  },
  {
   "name": "Patlytics",
@@ -9992,17 +9978,23 @@
   "tags": [
    "Artificial Intelligence (AI)",
    "Business/Productivity Software",
+   "Competitive Intelligence",
    "Data & Analytics",
+   "IP Strategy",
    "Information Technology",
    "Legal Tech",
+   "Legal Technology",
    "Media and Information Services (B2B)",
    "Other Consumer Products and Services",
+   "Patent Drafting",
+   "Patent Litigation",
+   "Patent Prosecution",
    "Professional Services",
    "Science and Engineering",
    "Software"
   ],
   "description": "Patlytics is an AI-powered patent intelligence platform that provides tools for patent drafting, analysis, and portfolio management, enabling companies to improve research efficiency and streamline patent-related processes. The platform facilitates the identification of potential infringements, assists in the evaluation of patent portfolios, and supports the overall management of intellectual property assets. By leveraging advanced algorithms and data analytics, Patlytics helps organizations optimize their patent strategies and make informed decisions regarding their intellectual property.",
-  "active_jobs": 14,
+  "active_jobs": 13,
   "boards": [
    "jobs.8vc.com"
   ],
@@ -10010,7 +10002,7 @@
   "ats": "ashby",
   "slug": "patlytics",
   "early": true,
-  "press_90d": 2
+  "press_90d": 1
  },
  {
   "name": "PointOne",
@@ -10042,7 +10034,7 @@
   "ats": "ashby",
   "slug": "PointOne",
   "early": true,
-  "press_90d": 3
+  "press_90d": 4
  },
  {
   "name": "Psyonic",
@@ -10078,7 +10070,7 @@
   "slug": "psyonic",
   "careers_url": "https://www.psyonic.io/careers",
   "early": true,
-  "press_90d": 6
+  "press_90d": 5
  },
  {
   "name": "Rainbow",
@@ -10140,7 +10132,7 @@
   "ats": "ashby",
   "slug": "realmalliance",
   "early": true,
-  "press_90d": 0
+  "press_90d": 1
  },
  {
   "name": "Samara",
@@ -10214,7 +10206,7 @@
    "Technology And Computing"
   ],
   "description": "Second Front Systems (2F) is a venture-backed public-benefit software company that accelerates secure delivery of commercial and SaaS applications to government and regulated environments, simplifying compliance and deployment for defense and national security missions.",
-  "active_jobs": 23,
+  "active_jobs": 25,
   "boards": [
    "jobs.8vc.com"
   ],
@@ -10222,7 +10214,7 @@
   "ats": "ashby",
   "slug": "Second-Front-Systems",
   "early": true,
-  "press_90d": 10
+  "press_90d": 7
  },
  {
   "name": "Senra Systems",
@@ -10246,7 +10238,7 @@
    "Software"
   ],
   "description": "Senra Systems designs and manufactures wire harnesses for Aerospace, Defense, and other industries while integrating software with engineering and production workflows. The company provides wire harness design support, digital manufacturing, cable assembly, testing, inventory management, configuration management, and production tracking services. Its software platform connects quoting, engineering, manufacturing, supply chain management, and production to improve coordination across the manufacturing process. Senra Systems also offers design-for-manufacturing guidance, digital twin conversion, and production support for wire harness assemblies from prototype development through manufacturing.",
-  "active_jobs": 22,
+  "active_jobs": 20,
   "boards": [
    "jobs.8vc.com",
    "jobs.generalcatalyst.com"
@@ -10255,7 +10247,7 @@
   "ats": "greenhouse",
   "slug": "senrasystems",
   "early": true,
-  "press_90d": 7
+  "press_90d": 8
  },
  {
   "name": "Sirona Medical",
@@ -10285,7 +10277,7 @@
    "Workflow"
   ],
   "description": "Sirona Medical is revolutionizing radiology by delivering a cloud-native platform that unifies the worklist, viewer, reporter, archive, and AI into a single, intuitive workspace. Designed specifically for radiologists, Sirona\u2019s platform simplifies complex workflows, enhances productivity, and empowers practitioners to work as fast as they think. Founded in San Francisco, CA, Sirona combines deep expertise in the practice and business of radiology to create purpose-built solutions that address the evolving needs of the field. By streamlining radiology workflows and integrating cutting-edge AI, Sirona enables radiologists to deliver better, faster, and more efficient care.",
-  "active_jobs": 11,
+  "active_jobs": 10,
   "boards": [
    "jobs.8vc.com"
   ],
@@ -10293,7 +10285,7 @@
   "ats": "greenhouse",
   "slug": "sironamedical",
   "early": true,
-  "press_90d": 35
+  "press_90d": 13
  },
  {
   "name": "Sonoma BioTherapeutics",
@@ -10317,7 +10309,7 @@
   "slug": "sonomabio",
   "careers_url": "https://sonomabio.com/careers/",
   "early": true,
-  "press_90d": 10
+  "press_90d": 9
  },
  {
   "name": "Structify",
@@ -10372,7 +10364,7 @@
   "slug": "tascatx",
   "careers_url": "https://www.tascatx.com/careers",
   "early": true,
-  "press_90d": 42
+  "press_90d": 44
  },
  {
   "name": "Terminal Industries",
@@ -10403,7 +10395,7 @@
   "ats": "ashby",
   "slug": "terminal-industries",
   "early": true,
-  "press_90d": 4
+  "press_90d": 5
  },
  {
   "name": "Tigris Data",
@@ -10482,7 +10474,7 @@
   "ats": "ashby",
   "slug": "uncountable",
   "early": true,
-  "press_90d": 38
+  "press_90d": 40
  },
  {
   "name": "AltoVita",
@@ -10600,7 +10592,7 @@
    "Travel & Tourism"
   ],
   "description": "Belong is a residential network that vertically integrates all aspects of the home rental and home improvement process. Powered by AI. Made and loved by people.",
-  "active_jobs": 3,
+  "active_jobs": 1,
   "boards": [
    "jobs.fifthwall.com"
   ],
@@ -10656,7 +10648,7 @@
   "ats": "ashby",
   "slug": "built-robotics",
   "early": true,
-  "press_90d": 9
+  "press_90d": 15
  },
  {
   "name": "Cottage",
@@ -10772,7 +10764,7 @@
    "Title Insurance"
   ],
   "description": "Doma enables an instant real estate closing experience. The company uses machine intelligence and its patented technology solution to transform residential real estate, making closings instant and affordable.",
-  "active_jobs": 2,
+  "active_jobs": 1,
   "boards": [
    "jobs.fifthwall.com"
   ],
@@ -10844,7 +10836,7 @@
   "slug": "huspy",
   "careers_url": "https://huspy.com/careers",
   "early": true,
-  "press_90d": 15
+  "press_90d": 19
  },
  {
   "name": "Impulse",
@@ -10902,7 +10894,7 @@
   "slug": "navigate",
   "careers_url": "https://www.navigate.ai/careers",
   "early": true,
-  "press_90d": 5
+  "press_90d": 3
  },
  {
   "name": "Neighbor",
@@ -11006,7 +10998,7 @@
    "Software"
   ],
   "description": "Runwise is a wireless control, sensor network, and software platform to better operate heating systems. Its mission is to enable buildings to run more efficiently using intelligent and easy-to-install wireless hardware and software.\n\nThe company's users can reduce heating expenses and carbon emissions thanks to the network's management of heating and boiler systems, which also avoids under- and overheating and gives a verifiable online record of both.",
-  "active_jobs": 9,
+  "active_jobs": 7,
   "boards": [
    "jobs.fifthwall.com"
   ],
@@ -11043,7 +11035,7 @@
    "Transaction Processing"
   ],
   "description": "Setpoint is building trust in our credit system. An operating system for capital markets functions that drives capital and operational efficiency, while offering peace of mind to Capital Providers. Our platform unlocks speed, efficiency, and accuracy for borrowers and lenders.",
-  "active_jobs": 8,
+  "active_jobs": 7,
   "boards": [
    "jobs.fifthwall.com"
   ],
@@ -11059,6 +11051,7 @@
   "stage": "B",
   "head_count": 3,
   "tags": [
+   "AI",
    "Analytics",
    "Artificial Intelligence",
    "B2B",
@@ -11068,6 +11061,7 @@
    "Data & Analytics",
    "Enterprise Software",
    "Freight",
+   "Freight Management",
    "Information Technology",
    "Integrations",
    "Logistics",
@@ -11091,7 +11085,7 @@
    "Workflow Automation"
   ],
   "description": "Shipwell is a freight trucking startup that provides businesses with an automated way to transport goods and services. The company believes that all businesses can have best-in-class shipping and transportation networks to ensure the efficient movement of goods and services. It builds intelligent and connected tools and software that allow shippers, brokers, and carriers to communicate in real-time and move freight in a painless and delightful way. It then leverages advanced analytics to uncover opportunities in their supply chain networks and help drive impact.\n\nIt also combines a marketplace for shippers to connect with freight companies and online tools to manage those shipments. The company makes money by charging a commission on freight services and fees for its freight management software platform.\n\nShipwell was founded in 2016 and is based in Austin, Texas.",
-  "active_jobs": 0,
+  "active_jobs": 3,
   "boards": [
    "jobs.fifthwall.com"
   ],
@@ -11133,7 +11127,7 @@
   "slug": "solarcycle",
   "careers_url": "https://www.solarcycle.us/careers",
   "early": true,
-  "press_90d": 8
+  "press_90d": 6
  },
  {
   "name": "Sundae",
@@ -11252,7 +11246,7 @@
    "Transport"
   ],
   "description": "Turntide specializes in developing sustainable technologies that drive down energy consumption and operating costs in buildings, agriculture, and electric transport, boosting bottom lines and accelerating a global path to 100% renewable energy. It has developed an efficient electric motor system, based on revolutionary switched reluctance technology, managed by advanced cloud software. Its goal is to eliminate the 25% of global electricity consumption that is wasted by legacy electric motors, thus accelerating the world\u2019s transition from fossil fuels and leaving them in the ground where they belong.\n\nThe company was founded in 2013 and is headquartered in Sunnyvale, California.",
-  "active_jobs": 6,
+  "active_jobs": 0,
   "boards": [
    "jobs.fifthwall.com"
   ],
@@ -11261,7 +11255,7 @@
   "slug": "turntide",
   "careers_url": "https://turntide.com/careers/",
   "early": true,
-  "press_90d": 14
+  "press_90d": 9
  },
  {
   "name": "Wheelhouse",
@@ -11303,7 +11297,7 @@
   "ats": "greenhouse",
   "slug": "wheelhouse",
   "early": true,
-  "press_90d": 60
+  "press_90d": 64
  },
  {
   "name": "airSlate",
@@ -11336,7 +11330,7 @@
    "Workflow Automation"
   ],
   "description": "AirSlate is a global SaaS technology company that provides no-code business process automation and document management solutions. The company's PDF editing, e-signature workflow, and business process automation solutions empower users to digitally transform their businesses to run faster and easier. AirSlate, pdfFiller, signNow, and USLegal make up the company's portfolio of award-winning products.",
-  "active_jobs": 15,
+  "active_jobs": 14,
   "boards": [
    "jobs.generalcatalyst.com"
   ],
@@ -11382,7 +11376,7 @@
   "ats": "greenhouse",
   "slug": "apiiro",
   "early": true,
-  "press_90d": 6
+  "press_90d": 8
  },
  {
   "name": "Autoscience Institute",
@@ -11435,7 +11429,7 @@
    "Workforce Management"
   ],
   "description": "Awardco is a human resources technology company that specializes in employee recognition and rewards solutions. Its platform enables organizations to build culture, incentivize performance, and drive modern engagement strategies by providing customizable recognition programs integrated with major online retailers like Amazon and Lazada. Awardco's platform is utilized by over 3,000 organizations across 163 countries, serving more than six million users. The company's services are designed to reduce employee turnover and absenteeism by fostering a culture of appreciation and engagement.",
-  "active_jobs": 10,
+  "active_jobs": 7,
   "boards": [
    "jobs.generalcatalyst.com"
   ],
@@ -11443,7 +11437,7 @@
   "ats": "greenhouse",
   "slug": "awardco",
   "early": true,
-  "press_90d": 1
+  "press_90d": 2
  },
  {
   "name": "Beacon Biosignals",
@@ -11475,7 +11469,7 @@
    "Wearables"
   ],
   "description": "Beacon Biosignals is a neurotechnology company focused on bringing precision neuroscience into clinical trials and treatments for brain- and sleep-related disorders. The company\u2019s core offering includes an FDA-cleared wearable device (the Waveband headband) that captures high-fidelity EEG during sleep and wake states, combined with an AI-driven analytics platform that processes millions of hours of neural data to extract biomarkers of brain function. Its end-to-end solution supports pharmaceutical and biotech clients by providing tools for patient stratification, dose-response monitoring, and early-stage disease progression, enabling trials to be more precise and efficient.",
-  "active_jobs": 27,
+  "active_jobs": 28,
   "boards": [
    "jobs.generalcatalyst.com"
   ],
@@ -11483,7 +11477,35 @@
   "ats": "greenhouse",
   "slug": "beaconbiosignals",
   "early": true,
-  "press_90d": 4
+  "press_90d": 5
+ },
+ {
+  "name": "Beauty Pie",
+  "domain": "beautypie.com",
+  "stage": "B",
+  "head_count": 4,
+  "tags": [
+   "Beauty",
+   "Consumer",
+   "Consumer Goods",
+   "Cosmetics",
+   "Ecommerce",
+   "Manufacturing & Industrial",
+   "Personal Products",
+   "Retail",
+   "Style And Fashion"
+  ],
+  "description": "Beauty Pie is a beauty buyers' club that gives members access to high-quality beauty and wellness products at transparent factory-cost prices directly from third-party suppliers in premium skincare, makeup, haircare, body care, candles, fragrance, accessories, and nutritional supplements.",
+  "active_jobs": 14,
+  "boards": [
+   "jobs.generalcatalyst.com"
+  ],
+  "sector": "consumer / DTC",
+  "ats": "web",
+  "slug": "beautypie",
+  "careers_url": "https://beautypiehiringplaybook.notion.site/Well-Hello-There-Want-To-Know-More-About-Us-75e7348fc9c34801a3590db2e4179e99",
+  "early": true,
+  "press_90d": 41
  },
  {
   "name": "Blank Street",
@@ -11506,7 +11528,7 @@
    "Travel & Tourism"
   ],
   "description": "Blank Street is a coffee chain that offers coffee as a daily ritual that more people can enjoy, in places convenient to their lives. Its automated espresso machines consistently produce consistent coffee, allowing baristas to be more interactive and build relationships. Customers can order ahead of time using their app, streamlining their experience. Their vendors (outsourced milk and pastries) are excellent, allowing them to concentrate on the coffee.",
-  "active_jobs": 103,
+  "active_jobs": 101,
   "boards": [
    "jobs.generalcatalyst.com"
   ],
@@ -11514,7 +11536,7 @@
   "ats": "greenhouse",
   "slug": "blankstreet",
   "early": true,
-  "press_90d": 77
+  "press_90d": 76
  },
  {
   "name": "Bloomscape",
@@ -11550,7 +11572,7 @@
   "slug": "bloomscape",
   "careers_url": "https://bloomscape.com/careers/",
   "early": true,
-  "press_90d": 3
+  "press_90d": 4
  },
  {
   "name": "Castelion",
@@ -11576,7 +11598,7 @@
    "Science and Engineering"
   ],
   "description": "Castelion is a venture-backed defense tech company applying modern hardware development and manufacturing processes to critical national security challenges, specifically to solve affordability, scale, and supply chain robustness. The company combines vertical integration, rapid iteration, and high-cadence testing to build hardware that is engineered from the ground up for scalable production.\n\nCastelion\u2019s core offerings include solid-rocket motors, missile avionics, flight-control systems, seekers, and full strike-weapon assemblies, all designed for compatibility with existing military launch platforms.",
-  "active_jobs": 110,
+  "active_jobs": 108,
   "boards": [
    "jobs.generalcatalyst.com"
   ],
@@ -11585,7 +11607,7 @@
   "slug": "castelion",
   "careers_url": "https://www.castelion.com/careers/",
   "early": true,
-  "press_90d": 96
+  "press_90d": 46
  },
  {
   "name": "ChannelEngine",
@@ -11624,7 +11646,7 @@
    "Vendor Management"
   ],
   "description": "With a single powerful Software as a Service integration, ChannelEngine connects a seller's systems to international marketplaces and sales channels while optimizing sales, minimizing time, and maximizing profit and reach. It offers brands, distributors, and retailers automated order and return systems, an advanced management suite, and a rich partner ecosystem to bring their sales to the next level.\n\nChannelEngine empowers companies by creating a seamless integration between businesses and marketplaces. Learn more: www.channelengine.com.",
-  "active_jobs": 7,
+  "active_jobs": 8,
   "boards": [
    "jobs.generalcatalyst.com"
   ],
@@ -11659,7 +11681,7 @@
    "Vehicles"
   ],
   "description": "Chariot Defense is developing the sophisticated hardware and software framework to address the military's most pressing problem: the distribution, control, and transformation of energy into power on the contemporary battlefield.",
-  "active_jobs": 9,
+  "active_jobs": 10,
   "boards": [
    "jobs.generalcatalyst.com"
   ],
@@ -11667,7 +11689,7 @@
   "ats": "greenhouse",
   "slug": "chariotdefense",
   "early": true,
-  "press_90d": 6
+  "press_90d": 9
  },
  {
   "name": "Claros",
@@ -11696,7 +11718,7 @@
   "slug": "claros",
   "careers_url": "https://claros.tech/careers/",
   "early": true,
-  "press_90d": 75
+  "press_90d": 86
  },
  {
   "name": "Doccla",
@@ -11744,7 +11766,7 @@
   "slug": "doccla",
   "careers_url": "https://www.doccla.com/jobs",
   "early": true,
-  "press_90d": 10
+  "press_90d": 0
  },
  {
   "name": "DOSS.COM",
@@ -11775,7 +11797,7 @@
    "Warehousing"
   ],
   "description": "Doss provides an adaptive resource platform (ARP) that integrates core business functions such as inventory management, procurement, sales orders and billing, accounting, warehousing, and production planning into a unified system. The platform includes a workflow editor, allowing users to automate processes and configure workflows tailored to their operations. Doss also offers DataStudio, a feature that enables users to create dashboards and monitor sales analytics, production metrics, and operational KPIs without the need for separate business intelligence tools. The system supports integration with digital tools, facilitating the aggregation of orders across point-of-sale systems and synchronization of data from third-party sources and warehouses. Doss serves various industries, including Industrials, Consumer Goods, Food and Beverage, Construction, Distribution, and Cosmetics, providing a centralized solution for managing complex operations.",
-  "active_jobs": 19,
+  "active_jobs": 20,
   "boards": [
    "jobs.generalcatalyst.com"
   ],
@@ -11798,7 +11820,7 @@
    "Software"
   ],
   "description": "Dryft is a software company that specializes in Artificial Intelligence in optimizing manufacturing operations.",
-  "active_jobs": 14,
+  "active_jobs": 13,
   "boards": [
    "jobs.generalcatalyst.com"
   ],
@@ -11829,7 +11851,7 @@
    "Software"
   ],
   "description": "Dwelly is a property technology company that acquires and partners with independent residential lettings agencies. The company provides AI-powered software and operational tools to support property management, tenant services, compliance, payments, maintenance, and agency operations. In addition to acquiring agencies, Dwelly integrates technology and operational support to help modernize property management while maintaining existing agency brands and client relationships.",
-  "active_jobs": 49,
+  "active_jobs": 59,
   "boards": [
    "jobs.generalcatalyst.com"
   ],
@@ -11837,7 +11859,7 @@
   "ats": "greenhouse",
   "slug": "dwelly",
   "early": true,
-  "press_90d": 38
+  "press_90d": 41
  },
  {
   "name": "Emidat",
@@ -11896,7 +11918,7 @@
    "Technology, Information and Internet"
   ],
   "description": "Empathy is a leading technology company transforming the way people plan for and navigate life\u2019s toughest moments. By combining cutting-edge innovation with compassion, Empathy provides unparalleled support for bereavement, estate management, legacy planning, and more. \r\nTrusted by Fortune 500 companies and leading life insurers, Empathy serves over 40 million individuals across North America, setting a new standard for modern family care and workplace benefits.\r\nEmpathy\u2019s mission is to make care as practical as it is compassionate\u2014partnering with employers, insurers, and financial institutions to deliver scalable support that eases emotional burdens, simplifies complex logistics, and empowers families to move forward with clarity and resilience.",
-  "active_jobs": 12,
+  "active_jobs": 15,
   "boards": [
    "jobs.generalcatalyst.com"
   ],
@@ -11932,7 +11954,7 @@
    "Technology"
   ],
   "description": "Clinical protocols are scientific decisions wrapped in administrative burden. The Faro system handles the tedious work better left for a computer, freeing clinical researchers to focus on the important decisions that drive clinical value.",
-  "active_jobs": 6,
+  "active_jobs": 0,
   "boards": [
    "jobs.generalcatalyst.com"
   ],
@@ -12015,7 +12037,7 @@
   "slug": "feedvisor",
   "careers_url": "https://www.comeet.com/jobs/feedvisor/11.00A",
   "early": true,
-  "press_90d": 1
+  "press_90d": 4
  },
  {
   "name": "Flashfood",
@@ -12048,7 +12070,7 @@
    "Waste Management"
   ],
   "description": "Flashfood is the app for grocery's best deals. As a certified B-Corp, our mission is to feed families, not landfills. Our marketplace connects food retailers in North America who have products that are near-expiry or surplus that may have been destined for waste, and offers it instead to motivated consumers who want to save serious cash. B2B2C has saved consumers over $250B USD and redirected over 150M pounds of food from waste streams.",
-  "active_jobs": 4,
+  "active_jobs": 3,
   "boards": [
    "jobs.generalcatalyst.com"
   ],
@@ -12056,7 +12078,7 @@
   "ats": "greenhouse",
   "slug": "flashfood",
   "early": true,
-  "press_90d": 14
+  "press_90d": 11
  },
  {
   "name": "Fourier",
@@ -12085,7 +12107,7 @@
   "ats": "ashby",
   "slug": "Fourier",
   "early": true,
-  "press_90d": 57
+  "press_90d": 56
  },
  {
   "name": "Hippocractic AI",
@@ -12101,7 +12123,7 @@
    "Software"
   ],
   "description": "Hippocratic AI presents a platform that develops safety-focused large language models tailored for healthcare settings. The company offers AI agents designed to engage in non-diagnostic, patient-facing tasks such as preoperative preparation, post-discharge follow-up, and chronic-care management. Its architecture is built on a multi-agent system that aims to reduce clinician burden by managing routine patient interactions, while a clinician-driven test framework ensures service readiness. The service includes an \u201cagent store\u201d where licensed clinicians can design and deploy new agents across diverse specialties, and health systems, payers, or providers can deploy them to support outreach and engagement workflows.",
-  "active_jobs": 38,
+  "active_jobs": 51,
   "boards": [
    "jobs.generalcatalyst.com"
   ],
@@ -12148,7 +12170,7 @@
   "slug": "jadu",
   "careers_url": "https://jadu.ar/join",
   "early": true,
-  "press_90d": 29
+  "press_90d": 16
  },
  {
   "name": "Kopperfield",
@@ -12196,7 +12218,7 @@
    "Software"
   ],
   "description": "Lila Sciences is a platform that uses artificial intelligence to support research in life sciences, chemical sciences, and materials sciences. It develops AI-driven tools and autonomous labs to improve research efficiency and facilitate scientific discoveries. The platform is designed to enhance various aspects of the scientific method and contribute to advancements in technology and innovation.",
-  "active_jobs": 111,
+  "active_jobs": 107,
   "boards": [
    "jobs.generalcatalyst.com"
   ],
@@ -12204,7 +12226,7 @@
   "ats": "greenhouse",
   "slug": "lilasciences",
   "early": true,
-  "press_90d": 10
+  "press_90d": 22
  },
  {
   "name": "Luma AI",
@@ -12241,7 +12263,7 @@
    "Virtual Reality"
   ],
   "description": "Luma AI develops tools that let users generate photorealistic images and videos from text, image, or video prompts via its Dream Machine platform. Its models learn from multimodal data, including video, audio, and language to build \u201cworld models\u201d that can reason about motion, context, and physics. It provides access through a web app, iOS app, and API, enabling creative professionals to scale visuals for storytelling, advertising, animation, gaming, and more. For enterprises, Luma offers a secure full-stack solution with data ownership, legal clarity, and customizable AI models.",
-  "active_jobs": 35,
+  "active_jobs": 31,
   "boards": [
    "jobs.generalcatalyst.com"
   ],
@@ -12320,7 +12342,7 @@
    "Wireless Communications Equipment"
   ],
   "description": "Meter provides Internet infrastructure for businesses, handling everything needed to get great Internet, networking, Wi-Fi, and cell coverage in a space. Their unified stack\u2014enterprise hardware, software, and operations\u2014is purpose-built, scalable, and delivered as a service for one predictable monthly fee. Today, some of the largest companies and enduring institutions rely on Meter to keep their thousands of employees and locations online and productive. Meter is headquartered in San Francisco and backed by leading venture capital firms, investors, and founders.",
-  "active_jobs": 51,
+  "active_jobs": 55,
   "boards": [
    "jobs.generalcatalyst.com"
   ],
@@ -12351,7 +12373,7 @@
    "Software"
   ],
   "description": "MinIO is a provider of High Performance Enterprise Object Storage solution released under a proprietary license. It is API compatible with Amazon S3 cloud storage service and designed for production enterprise environments. Use MinIO AIStor to build high performance infrastructure for machine learning, analytics, and application data workloads with enterprise-grade features, support, and compliance.",
-  "active_jobs": 23,
+  "active_jobs": 27,
   "boards": [
    "jobs.generalcatalyst.com"
   ],
@@ -12359,7 +12381,7 @@
   "ats": "greenhouse",
   "slug": "minio",
   "early": true,
-  "press_90d": 21
+  "press_90d": 24
  },
  {
   "name": "Native Security",
@@ -12376,7 +12398,7 @@
    "Privacy and Security"
   ],
   "description": "Native Security is a cloud security control plane for enterprises. It translates security outcomes into native cloud controls, simulates deployment impacts, and maintains alignment as environments change. The platform enforces security at the architectural level across multi-cloud setups.",
-  "active_jobs": 10,
+  "active_jobs": 8,
   "boards": [
    "jobs.generalcatalyst.com"
   ],
@@ -12385,7 +12407,7 @@
   "slug": "native",
   "careers_url": "https://www.native.security/careers",
   "early": true,
-  "press_90d": 77
+  "press_90d": 70
  },
  {
   "name": "Onebrief",
@@ -12426,7 +12448,7 @@
   "ats": "ashby",
   "slug": "onebrief",
   "early": true,
-  "press_90d": 5
+  "press_90d": 7
  },
  {
   "name": "OneSchema",
@@ -12500,7 +12522,7 @@
   "slug": "orchard-robotics",
   "careers_url": "https://www.orchard.ai/company-careers#careers",
   "early": true,
-  "press_90d": 8
+  "press_90d": 10
  },
  {
   "name": "Payrails",
@@ -12535,7 +12557,7 @@
   "ats": "ashby",
   "slug": "payrails",
   "early": true,
-  "press_90d": 0
+  "press_90d": 2
  },
  {
   "name": "PhysicsX",
@@ -12561,7 +12583,7 @@
    "Technology"
   ],
   "description": "PhysicsX is a physical AI company on a mission to accelerate innovation and overhaul what engineering and manufacturing look like today. The company is building a new software stack to deliver deep AI enablement across the entire engineering lifecycle. PhysicsX partners with leading organizations in Aerospace & Defense, Automotive, Semiconductors, Materials, and Energy, supporting them on some of their most critical and complex challenges. PhysicsX is headquartered in the United Kingdom, with offices in London and New York.",
-  "active_jobs": 40,
+  "active_jobs": 42,
   "boards": [
    "jobs.generalcatalyst.com"
   ],
@@ -12569,7 +12591,7 @@
   "ats": "greenhouse",
   "slug": "physicsx",
   "early": true,
-  "press_90d": 36
+  "press_90d": 35
  },
  {
   "name": "Primus",
@@ -12640,7 +12662,7 @@
   "ats": "greenhouse",
   "slug": "pronto",
   "early": true,
-  "press_90d": 100
+  "press_90d": 27
  },
  {
   "name": "Prosimo.io",
@@ -12666,7 +12688,7 @@
    "Technology"
   ],
   "description": "Prosimo delivers a simplified multi-cloud infrastructure for distributed enterprise cloud journeys. Their services include this stack, which combines cloud networking, performance, security, observability, and cost management.",
-  "active_jobs": 196,
+  "active_jobs": 192,
   "boards": [
    "jobs.generalcatalyst.com"
   ],
@@ -12732,7 +12754,7 @@
   "slug": "raphe",
   "careers_url": "https://www.raphe.com/careers",
   "early": true,
-  "press_90d": 10
+  "press_90d": 9
  },
  {
   "name": "Remesh",
@@ -12782,7 +12804,7 @@
   "slug": "remesh",
   "careers_url": "https://www.remesh.ai/careers",
   "early": true,
-  "press_90d": 8
+  "press_90d": 6
  },
  {
   "name": "Render",
@@ -12810,7 +12832,7 @@
    "Technology And Computing"
   ],
   "description": "Render helps software teams like Base44 and OpenAI ship products fast and at any scale. We host everything from hundred-line prototypes to AI agents and applications with hundreds of services, all with a relentless commitment to reliability and uptime.",
-  "active_jobs": 38,
+  "active_jobs": 37,
   "boards": [
    "jobs.generalcatalyst.com"
   ],
@@ -12874,7 +12896,7 @@
    "Software"
   ],
   "description": "Slide provides a business continuity and disaster recovery platform for Managed Service Providers.",
-  "active_jobs": 5,
+  "active_jobs": 7,
   "boards": [
    "jobs.generalcatalyst.com"
   ],
@@ -12988,7 +13010,7 @@
    "Technology"
   ],
   "description": "Standard Bots develops industrial robotics systems that combine robotic hardware with AI-driven software to automate manufacturing and operational tasks. Its product portfolio includes collaborative robotic arms with different payload capacities, as well as software platforms that support robot programming, fleet management, and application development. The company\u2019s technology enables users to teach robots through demonstration rather than relying solely on traditional coding methods, allowing robots to perform tasks such as machine tending, inspection, palletizing, welding, and material handling. Standard Bots also provides AI capabilities that allow robots to learn from observed actions, adapt to changes in their environment, and improve task execution over time. In addition to its robotic systems, the company offers operating software, development tools, and integration capabilities designed to support deployment across a range of industrial workflows.",
-  "active_jobs": 39,
+  "active_jobs": 35,
   "boards": [
    "jobs.generalcatalyst.com"
   ],
@@ -12996,7 +13018,7 @@
   "ats": "ashby",
   "slug": "StandardBots",
   "early": true,
-  "press_90d": 10
+  "press_90d": 9
  },
  {
   "name": "Substrate ",
@@ -13097,7 +13119,7 @@
    "Technology"
   ],
   "description": "Vannevar Labs is a group of technologists and former defense and intelligence officers building computer vision and natural language processing products for some of the country\u2019s most important national security problems. The company believes its military service members and intelligence officers deserve access to the best technology American innovation can offer and is building great products for this mission.\n\nVannevar Labs was founded in 2019 and is headquartered in Palo Alto, California.",
-  "active_jobs": 31,
+  "active_jobs": 30,
   "boards": [
    "jobs.generalcatalyst.com"
   ],
@@ -13125,7 +13147,7 @@
    "Transportation"
   ],
   "description": "Veho provides technology-enabled parcel delivery and logistics services for eCommerce brands. The company operates a network of warehouses and delivery partners to support last-mile shipping, including next-day and two-day delivery, while providing brands and customers with delivery tracking, flexible delivery options, and customer support.",
-  "active_jobs": 58,
+  "active_jobs": 56,
   "boards": [
    "jobs.generalcatalyst.com"
   ],
@@ -13133,7 +13155,7 @@
   "ats": "ashby",
   "slug": "veho-tech-inc",
   "early": true,
-  "press_90d": 11
+  "press_90d": 9
  },
  {
   "name": "Vital Lyfe",
@@ -13207,7 +13229,7 @@
   "ats": "lever",
   "slug": "100ms",
   "early": true,
-  "press_90d": 15
+  "press_90d": 14
  },
  {
   "name": "Agave",
@@ -13268,7 +13290,7 @@
    "Video Conferencing"
   ],
   "description": "Airmeet serves as an all-in-one virtual events platform for event organizers, marketers, community builders, and enterprises. With a core focus on creating the immersive and integrated virtual events platform for knowledge professionals, Airmeet\u2019s scalable platform supports a variety of event formats including fairs, expos, meetups, workshops, summits, town halls, and more, virtually.",
-  "active_jobs": 0,
+  "active_jobs": 1,
   "boards": [
    "jobs.accel.com"
   ],
@@ -13337,7 +13359,7 @@
    "Pharmaceuticals"
   ],
   "description": "Axio is a MedTech R&D and Manufacturing Company focused on Advanced Surgical and Wound Care. Axio has the distinction of being the first company from India to get USFDA clearance for a Wound Care/Hemostat product. Controlling life-threatening bleeding continues to be the major cause of death from traumatic injuries. Axiostat is its flagship product developed to reduce mortality due to traumatic bleeding. A CE approved product, Axiostat is based on a patented novel 100% chitosan platform and has variants catering to Emergency & Trauma, Military, Cardiovascular, and Dental applications.",
-  "active_jobs": 5,
+  "active_jobs": 6,
   "boards": [
    "jobs.accel.com"
   ],
@@ -13346,7 +13368,7 @@
   "slug": "axiobio",
   "careers_url": "https://axiobio.com/careers",
   "early": true,
-  "press_90d": 0
+  "press_90d": 1
  },
  {
   "name": "Bevy",
@@ -13394,7 +13416,7 @@
   "slug": "bevy",
   "careers_url": "https://bevy.com:443/b/jobs",
   "early": true,
-  "press_90d": 73
+  "press_90d": 74
  },
  {
   "name": "BlackPoint",
@@ -13431,7 +13453,7 @@
    "Technology"
   ],
   "description": "Blackpoint Cyber is a technology that offers a nation-state-grade cybersecurity ecosystem. Blackpoint Cyber serves the MSP community using its own proprietary security operations and incident response platform, SNAP-Defence, available as a product or as a 24/7 true managed detection and response (MDR) service.",
-  "active_jobs": 26,
+  "active_jobs": 24,
   "boards": [
    "jobs.accel.com"
   ],
@@ -13440,7 +13462,7 @@
   "slug": "blackpointcyber",
   "careers_url": "https://blackpointcyber.com/company/careers/",
   "early": true,
-  "press_90d": 19
+  "press_90d": 15
  },
  {
   "name": "Brick&Bolt",
@@ -13494,7 +13516,7 @@
    "iOS"
   ],
   "description": "BrowserStack is a software testing platform that runs more than two million tests per day across 15 global data centers. It enables Microsoft, Twitter, Barclays, Expedia, and more than 25,000 customers to produce high-quality software quickly by transferring testing to the cloud. Its technology delivers rapid access to over 2,000 real mobile devices and browsers via a highly reliable cloud architecture that scales seamlessly as testing requirements grow. BrowserStack enables development and QA teams to move quickly while providing an exceptional client experience.",
-  "active_jobs": 27,
+  "active_jobs": 29,
   "boards": [
    "jobs.accel.com"
   ],
@@ -13549,7 +13571,7 @@
   "slug": "bryter",
   "careers_url": "https://bryter.com/careers/",
   "early": true,
-  "press_90d": 5
+  "press_90d": 7
  },
  {
   "name": "Campfire",
@@ -13659,7 +13681,7 @@
    "Technology"
   ],
   "description": "From content moderation to responsible AI, Cinder empowers businesses to orchestrate and automate digital safety at scale. Cinder was founded to help organizations foster safe online spaces for everyone. The Cinder platform empowers companies from start-ups to enterprises with end-to-end capabilities to mitigate harm, investigate abuse, and produce trustworthy and reliable AI outcomes. Building your world-class company means keeping your users and community safe\u2014Cinder unlocks faster growth by making safety easy. We work with customers in every industry from frontier AI labs to e-commerce and social media.",
-  "active_jobs": 9,
+  "active_jobs": 10,
   "boards": [
    "jobs.accel.com"
   ],
@@ -13745,7 +13767,7 @@
    "Software"
   ],
   "description": "Over the last decade, businesses have struggled to adjust digital commerce experiences at the same pace as consumer behavior, preferences, and the rapidly diversifying touchpoints that have emerged (e.g., web, smartphone, tablet, POS). This constant state of change required the technical agility to quickly test and co-opt new trends and technologies to meet true omnichannel demands. Simultaneously, online revenues were growing at a pace over 4x projections, which put pressure on the IT infrastructure and operations teams to scale.\n\nCommercetools identified this paradigm market shift early and reinvented the approach to digital commerce with its cloud-native, component-based, tech-agnostic, composable platform. It is easy to learn, enterprise market-ready, and scalable to support even the largest B2B and B2C enterprises. With commercetools, brands across the globe have unlimited flexibility to deliver outstanding, scalable commerce experiences and take advantage of new markets and revenue-generating opportunities at their own pace \u2013\u2013 with limited technical or operational risks.\n\nToday, commercetools is recognized as a market leader in enterprise commerce technology and the fastest growing company globally in this domain, serving major brands including Audi, Danone, Eurorail, NBCUniversal, Sephora, and Volkswagen Group.",
-  "active_jobs": 31,
+  "active_jobs": 34,
   "boards": [
    "jobs.accel.com"
   ],
@@ -13753,7 +13775,7 @@
   "ats": "greenhouse",
   "slug": "commercetools",
   "early": true,
-  "press_90d": 6
+  "press_90d": 7
  },
  {
   "name": "Detect Technologies",
@@ -13805,7 +13827,7 @@
   "slug": "detecttechnologies",
   "careers_url": "https://detecttechnologies.com/careers",
   "early": true,
-  "press_90d": 10
+  "press_90d": 8
  },
  {
   "name": "Digbi Health",
@@ -13850,7 +13872,7 @@
   "slug": "digbihealth",
   "careers_url": "https://digbihealth.com/pages/join",
   "early": true,
-  "press_90d": 25
+  "press_90d": 5
  },
  {
   "name": "Fabheads Automation",
@@ -14061,7 +14083,7 @@
    "Utilities"
   ],
   "description": "We are building a full stack energy company to lower cost of energy & accelerate energy abundance. We are hiring globally. We've raised $210m from top tier investors to fix Energy. We never settle - second best is not an option.",
-  "active_jobs": 69,
+  "active_jobs": 73,
   "boards": [
    "jobs.accel.com"
   ],
@@ -14069,7 +14091,7 @@
   "ats": "workable",
   "slug": "fuseenergy",
   "early": true,
-  "press_90d": 29
+  "press_90d": 43
  },
  {
   "name": "G2 Crowd",
@@ -14084,7 +14106,7 @@
    "Marketing Analytics"
   ],
   "description": "G2 Crowd is a peer-to-peer, business solutions review platform.",
-  "active_jobs": 52,
+  "active_jobs": 51,
   "boards": [
    "jobs.accel.com"
   ],
@@ -14094,6 +14116,50 @@
   "careers_url": "https://company.g2.com/careers",
   "early": true,
   "press_90d": 3
+ },
+ {
+  "name": "Gravity Sketch",
+  "domain": "gravitysketch.com",
+  "stage": "A",
+  "head_count": 3,
+  "tags": [
+   "3D Design",
+   "3D Modeling",
+   "3D Printing",
+   "3D Technology",
+   "Application Software",
+   "Art And Entertainment",
+   "Augmented Reality",
+   "Automotive Design",
+   "Business/Productivity Software",
+   "Cloud",
+   "Concept Art",
+   "Design",
+   "Entertainment",
+   "Hardware",
+   "Industrial Design",
+   "Manufacturing",
+   "Mobile",
+   "Multimedia and Design Software",
+   "Platform",
+   "Product Design",
+   "Sketch",
+   "Software",
+   "Software Development",
+   "Technology",
+   "Transportation Design",
+   "Virtual Reality"
+  ],
+  "description": "Gravity Sketch is powering design teams that need to think, collaborate, and create in three dimensions. They build intuitive multi-platform tools to radically improve the efficacy and efficiency of developing 3D products.\n\nTheir energy is focused entirely on their customers - removing friction from their archaic workflows, helping enhance and expedite their creative intent, and ultimately, making collaboration in cross-functional teams faster and more cost-effective.\n\nIt was founded in 2014 and is headquartered in London, England.",
+  "active_jobs": 1,
+  "boards": [
+   "jobs.accel.com"
+  ],
+  "sector": "industrials / manufacturing",
+  "ats": "ashby",
+  "slug": "gravitysketch",
+  "early": true,
+  "press_90d": 7
  },
  {
   "name": "Houseeazy",
@@ -14121,35 +14187,6 @@
   "press_90d": 1
  },
  {
-  "name": "Invoice2go",
-  "domain": "invoice2go.com",
-  "stage": "C",
-  "head_count": 3,
-  "tags": [
-   "Business And Industrial",
-   "Business Process Management",
-   "Consumer Services",
-   "Enterprise Software",
-   "Finance",
-   "Mobile",
-   "Payments",
-   "Professional Services",
-   "Technology And Computing"
-  ],
-  "description": "straightforward tools that empower small business owners to take control of the way they work",
-  "active_jobs": 45,
-  "boards": [
-   "jobs.accel.com",
-   "jobs.accel.com"
-  ],
-  "sector": "industrials / manufacturing",
-  "ats": "web",
-  "slug": "invoice2go",
-  "careers_url": "https://invoice.2go.com:443/careers/",
-  "early": true,
-  "press_90d": 0
- },
- {
   "name": "Laravel",
   "domain": "laravel.com",
   "stage": "A",
@@ -14175,7 +14212,7 @@
   "slug": "laravel",
   "careers_url": "https://laravel.com/careers",
   "early": true,
-  "press_90d": 70
+  "press_90d": 73
  },
  {
   "name": "Lydia",
@@ -14316,7 +14353,7 @@
   "ats": "ashby",
   "slug": "readme",
   "early": true,
-  "press_90d": 10
+  "press_90d": 11
  },
  {
   "name": "Nabhdrishti Aerospace Private Limited",
@@ -14381,7 +14418,7 @@
   "slug": "newme",
   "careers_url": "https://newme.asia/join",
   "early": true,
-  "press_90d": 23
+  "press_90d": 27
  },
  {
   "name": "nimble-robotics",
@@ -14413,7 +14450,7 @@
    "Warehousing"
   ],
   "description": "Nimble Robotics specializes in AI-driven robots that automate the processes of picking and packing products, significantly enhancing efficiency in logistics. The company provides a complete eCommerce and omni-channel fulfillment service, allowing merchants to streamline their operations.",
-  "active_jobs": 76,
+  "active_jobs": 77,
   "boards": [
    "jobs.accel.com"
   ],
@@ -14421,7 +14458,7 @@
   "ats": "greenhouse",
   "slug": "nimblerobotics",
   "early": true,
-  "press_90d": 3
+  "press_90d": 2
  },
  {
   "name": "Nory AI",
@@ -14457,7 +14494,7 @@
    "Workforce Management"
   ],
   "description": "Nory is the all-knowing restaurant management system that learns the behind the scenes of your business. Helping you forecast sales, plan labour, and optimise your inventory.",
-  "active_jobs": 5,
+  "active_jobs": 6,
   "boards": [
    "jobs.accel.com"
   ],
@@ -14492,7 +14529,7 @@
    "Video"
   ],
   "description": "Nuance Labs, an AI research company, is developing the first human foundation model that understands and displays emotion in real time using voice, facial emotions, and body language.",
-  "active_jobs": 9,
+  "active_jobs": 10,
   "boards": [
    "jobs.accel.com"
   ],
@@ -14554,7 +14591,7 @@
    "Wholesale"
   ],
   "description": "Nuit\u00e9e provides infrastructure APIs tailored for the travel sector, offering a user-friendly solution to transform hotel connectivity and distribution. Its technology platform serves as a vital link between accommodation providers and demand partners. The business started with a simple API and white-label solution that enables businesses and brands to offer a comprehensive hotel booking system. Today, Nuit\u00e9e is a multi-product ecosystem that allows businesses to create their own booking apps, monetize their audience, and establish ongoing revenue streams while retaining full control over their brand and pricing. Founded in 2017, Nuit\u00e9e is headquartered in Ireland.",
-  "active_jobs": 28,
+  "active_jobs": 30,
   "boards": [
    "jobs.accel.com"
   ],
@@ -14627,7 +14664,7 @@
    "Technology"
   ],
   "description": "PermitFlow is the first construction permit application and management platform for builders and owners. The company aims to streamline and simplify construction permitting. The company's software reduces the time to allow while standardizing municipalities\u2019 building permit submittal process in a single platform. PermitFlow supports permitting end-to-end, including permit research, application preparation, submission, and monitoring. With our nationwide coverage and deep, local municipal expertise, PermitFlow helps builders obtain permits whether in a single municipality or across multiple states.\n\nPermitFlow is a Y Combinator graduate from the YC W22 program.",
-  "active_jobs": 43,
+  "active_jobs": 45,
   "boards": [
    "jobs.accel.com"
   ],
@@ -14669,7 +14706,7 @@
   "ats": "greenhouse",
   "slug": "phasev",
   "early": true,
-  "press_90d": 5
+  "press_90d": 7
  },
  {
   "name": "PointFive",
@@ -14703,7 +14740,7 @@
   "ats": "ashby",
   "slug": "pointfive",
   "early": true,
-  "press_90d": 7
+  "press_90d": 4
  },
  {
   "name": "Polars",
@@ -14742,7 +14779,7 @@
   "slug": "pola",
   "careers_url": "https://pola.rs/careers/",
   "early": true,
-  "press_90d": 23
+  "press_90d": 22
  },
  {
   "name": "Privacera",
@@ -14832,7 +14869,7 @@
    "Workforce Management"
   ],
   "description": "Process Street is a SaaS platform that lets non-technical teams create powerful, no-code workflows. It provides an easy way to document, track, automate, and optimize human-centric processes.\n\nProcess Street was founded in 2014 and is based in San Francisco, California.",
-  "active_jobs": 43,
+  "active_jobs": 37,
   "boards": [
    "jobs.accel.com"
   ],
@@ -14910,7 +14947,7 @@
    "Wholesale"
   ],
   "description": "Qogita is a leading global wholesale B2B platform that offers a wide variety of products, brands, and categories across geographies. We cater to a large range of organizations, from small retailers to large brands. With Qogita, you can generate higher margins and greater turnover whilst reducing labor costs by using our technology infrastructure. We're a technology company that simplifies business-to-business trade.",
-  "active_jobs": 42,
+  "active_jobs": 43,
   "boards": [
    "jobs.accel.com"
   ],
@@ -14954,7 +14991,7 @@
    "Travel"
   ],
   "description": "Radar specializes in providing location data infrastructure and tools for app developers to integrate location-based services in their applications. The platform offers geofencing, location tracking, and proximity solutions that enable developers to create personalized and contextually aware app experiences. Radar supports various use cases, including retail, travel, logistics, and more, by offering APIs and SDKs for easy integration. The company focuses on privacy and security, ensuring that location data is handled with care.",
-  "active_jobs": 19,
+  "active_jobs": 21,
   "boards": [
    "jobs.accel.com",
    "jobs.accel.com"
@@ -14987,7 +15024,7 @@
   "ats": "ashby",
   "slug": "radixark",
   "early": true,
-  "press_90d": 6
+  "press_90d": 8
  },
  {
   "name": "RapidCanvas",
@@ -15023,7 +15060,7 @@
   "slug": "rapidcanvas",
   "careers_url": "https://www.rapidcanvas.ai/careers",
   "early": true,
-  "press_90d": 34
+  "press_90d": 33
  },
  {
   "name": "Rasa",
@@ -15062,7 +15099,7 @@
    "Virtual Assistant"
   ],
   "description": "Rasa is an enterprise platform for building and operating AI agents across chat and voice channels. Organizations use Rasa to orchestrate complex, multi-step conversations, integrate AI agents with core business systems, and run them reliably in production environments.\n\nRasa supports long-running interactions that span channels and systems. The platform enables consistent agent behavior as conversations evolve, including escalation, recovery, and coordination across workflows. This allows enterprises to deploy AI agents that align with operational requirements rather than isolated use cases.\n\nDesigned for large-scale deployments, Rasa supports secure operation across cloud and on-prem environments and integrates with existing data, APIs, and tooling. Enterprises adopt Rasa when they need control, scalability, and governance for AI agents supporting critical customer and employee interactions. Rasa was founded in 2016 and is privately held. The company is backed by Accel, Andreessen Horowitz, Basis Set Ventures, PayPal Ventures, and StepStone Group.",
-  "active_jobs": 2,
+  "active_jobs": 4,
   "boards": [
    "jobs.accel.com"
   ],
@@ -15107,7 +15144,7 @@
   "slug": "recommercex",
   "careers_url": "https://recommercex.com/careers/",
   "early": true,
-  "press_90d": 0
+  "press_90d": 1
  },
  {
   "name": "Rekise Marine",
@@ -15126,7 +15163,7 @@
    "Transportation"
   ],
   "description": "Rekise Marine develops autonomous robotic systems and infrastructure for maritime operations. The company designs and integrates unmanned surface and underwater vessels, combining vessel engineering, systems integration, and proprietary autonomy software to support maritime, naval, survey, and exploration activities. Its offerings include autonomous platforms for surface and subsea missions, along with software that enables navigation, control, and mission management across different vessel types. Rekise Marine also works on sustainable maritime infrastructure and collaborates with shipbuilding and marine industry stakeholders to develop robotic solutions for ocean-based operations and resource utilization.",
-  "active_jobs": 4,
+  "active_jobs": 5,
   "boards": [
    "jobs.accel.com"
   ],
@@ -15135,7 +15172,7 @@
   "slug": "rekise",
   "careers_url": "https://www.rekise.com/careers",
   "early": true,
-  "press_90d": 5
+  "press_90d": 4
  },
  {
   "name": "S4S Technologies",
@@ -15166,7 +15203,7 @@
   "slug": "s4stechnologies",
   "careers_url": "https://s4stechnologies.com/careers/",
   "early": true,
-  "press_90d": 10
+  "press_90d": 9
  },
  {
   "name": "Scimplify",
@@ -15182,7 +15219,7 @@
    "Science and Engineering"
   ],
   "description": "Scimplify is a B2B fulfillment platform that provides end-to-end procurement and production for specialty chemicals.",
-  "active_jobs": 88,
+  "active_jobs": 99,
   "boards": [
    "jobs.accel.com"
   ],
@@ -15191,7 +15228,7 @@
   "slug": "scimplify",
   "careers_url": "https://www.scimplify.com/careers",
   "early": true,
-  "press_90d": 32
+  "press_90d": 34
  },
  {
   "name": "Shogun",
@@ -15261,7 +15298,7 @@
   "ats": "ashby",
   "slug": "smallstep",
   "early": true,
-  "press_90d": 1
+  "press_90d": 2
  },
  {
   "name": "Snaptrude",
@@ -15350,7 +15387,7 @@
    "User Research"
   ],
   "description": "Sprig is the product development lifecycle research platform with a mission to make experiences that matter. Companies use Sprig\u2019s Concept and Usability Testing and In-Product Surveys to get research insights from users about new ideas, designs, and prototypes, as well as currently available product experiences. Dropbox, Square, Opendoor, and Loom trust Sprig to help them build better products.",
-  "active_jobs": 5,
+  "active_jobs": 8,
   "boards": [
    "jobs.accel.com"
   ],
@@ -15358,7 +15395,7 @@
   "ats": "ashby",
   "slug": "sprig",
   "early": true,
-  "press_90d": 39
+  "press_90d": 52
  },
  {
   "name": "Stacklok",
@@ -15395,7 +15432,7 @@
    "Technology"
   ],
   "description": "Stacklok enables you to trust and empower knowledge workers with AI agents that are connected to your sensitive systems and data. It is a self-hosted, Kubernetes native platform for AI agent governance. Stacklok offers the building blocks of agentic workflows (MCP servers, skills, environments, harnesses, etc.), so your internal experts have the tools to create value, share with peers, and accelerate the adoption of AI. Our Applied AI Engineers embed with your team from pilot to production to ensure you achieve your business objectives and use AI agents and knowledge workers as a competitive advantage.",
-  "active_jobs": 4,
+  "active_jobs": 2,
   "boards": [
    "jobs.accel.com"
   ],
@@ -15403,7 +15440,7 @@
   "ats": "greenhouse",
   "slug": "stacklok",
   "early": true,
-  "press_90d": 5
+  "press_90d": 3
  },
  {
   "name": "Super Payments",
@@ -15431,7 +15468,7 @@
   "ats": "greenhouse",
   "slug": "superpayments",
   "early": true,
-  "press_90d": 16
+  "press_90d": 20
  },
  {
   "name": "Taxdoo",
@@ -15542,7 +15579,7 @@
   "ats": "greenhouse",
   "slug": "tines",
   "early": true,
-  "press_90d": 44
+  "press_90d": 47
  },
  {
   "name": "Transcend",
@@ -15761,7 +15798,7 @@
   "ats": "ashby",
   "slug": "vivun",
   "early": true,
-  "press_90d": 2
+  "press_90d": 1
  },
  {
   "name": "VoiceOps",
@@ -15894,7 +15931,7 @@
    "Technology"
   ],
   "description": "We are now Digital.ai. Follow us at linkedin.com/company/digitaldotai.",
-  "active_jobs": 10,
+  "active_jobs": 11,
   "boards": [
    "jobs.accel.com"
   ],
@@ -15955,7 +15992,7 @@
    "SaaS"
   ],
   "description": "Zinier\u2019s low-code field service automation platform empowers field service organizations with the combined power of humans and technology to keep our world up and running. Powered by AI, Zinier transforms how teams coordinate and execute work, so they can solve problems faster, fix things before they break, and maintain an agile infrastructure that evolves with their needs. Enterprises around the world use Zinier to reach their full potential, delivering always-on service now, while future-proofing for the unexpected. We are a global team headquartered in Silicon Valley with leading investors including Accel, ICONIQ Capital, Founders Fund, Newfund Capital, NGP Capital, Tiger Global Management, and Qualcomm Ventures LLC.",
-  "active_jobs": 0,
+  "active_jobs": 26,
   "boards": [
    "jobs.accel.com"
   ],
@@ -16029,7 +16066,7 @@
    "Wellness"
   ],
   "description": "ZyG is a technology platform that provides an AI-driven operating system designed to help direct-to-consumer (DTC) brands scale their products into full businesses. The company\u2019s system uses data, predictive modeling, and interconnected AI agents to evaluate product potential, manage growth activities, and coordinate different aspects of the customer lifecycle. It integrates functions such as branding, store development, marketing, user acquisition, conversion optimization, and logistics into a unified platform, replacing the need for multiple tools and agencies. The platform also incorporates a financing component and a partnership model where ZyG supports execution and scaling while product owners retain control over their products. By combining infrastructure, analytics, and operational execution, ZyG enables product-focused companies to manage growth and scaling through a single system.",
-  "active_jobs": 8,
+  "active_jobs": 7,
   "boards": [
    "jobs.accel.com"
   ],
@@ -16038,7 +16075,7 @@
   "slug": "zyg",
   "careers_url": "https://www.zyg.com/careers",
   "early": true,
-  "press_90d": 4
+  "press_90d": 5
  },
  {
   "name": "Perry Health",
@@ -16067,7 +16104,7 @@
   "ats": "greenhouse",
   "slug": "perryhealthinc",
   "early": true,
-  "press_90d": 8
+  "press_90d": 9
  },
  {
   "name": "Remedy Logic",
@@ -16122,7 +16159,7 @@
    "Wellness"
   ],
   "description": "Two Chairs delivers the nation's best therapy at scale. Founded in 2017, the company's mission is to build a world where we all have access to exceptional mental health care. Their unique approach begins with an in-depth, research-backed process where a licensed Two Chairs clinician matches patients with their ideal therapist. Two Chairs then uses their industry-leading system for measurement-based care to help patients get better, faster. Two Chairs is the employer of choice for over 500 licensed therapists across 90 areas of expertise and has more than 20 million covered lives. The company has earned a number of awards, including the 2024 Great Place To Work and San Francisco Business Times Best Places To Work.",
-  "active_jobs": 35,
+  "active_jobs": 38,
   "boards": [
    "jobs.maveron.com"
   ],
@@ -16215,7 +16252,7 @@
   "ats": "ashby",
   "slug": "ellipsis-health",
   "early": true,
-  "press_90d": 9
+  "press_90d": 10
  },
  {
   "name": "SuperDial",
@@ -16251,7 +16288,7 @@
   "ats": "ashby",
   "slug": "superdial",
   "early": true,
-  "press_90d": 2
+  "press_90d": 3
  },
  {
   "name": "ianacare",
@@ -16334,7 +16371,7 @@
    "Telehealth"
   ],
   "description": "Workit Health is the industry-leading provider of clinically proven telemedicine treatment for Substance Use Disorder, offering online therapy, medication-assisted treatment, psychiatric support, and primary care via the Workit Health mobile app. Workit brings the gold standard of substance use treatment into the privacy of people\u2019s homes at the moment they\u2019re ready for help, allowing people to find long-term freedom from drugs and alcohol with minimal disruption to their daily life.",
-  "active_jobs": 8,
+  "active_jobs": 7,
   "boards": [
    "jobs.firstmark.com"
   ],
@@ -16342,7 +16379,7 @@
   "ats": "greenhouse",
   "slug": "workithealth",
   "early": true,
-  "press_90d": 5
+  "press_90d": 3
  },
  {
   "name": "Hallow",
@@ -16377,7 +16414,7 @@
   "ats": "gem",
   "slug": "hallow",
   "early": true,
-  "press_90d": 65
+  "press_90d": 87
  },
  {
   "name": "Tia",
@@ -16407,7 +16444,7 @@
    "Wellness"
   ],
   "description": "At Tia, they believe that the healthcare system was not built with women in mind. Today, considering that women control 80% of healthcare dollars in the U.S., Tia is seizing the opportunity to build a new, distinctly female model of care both digitally and physically. Tia is backed by healthcare and consumer funds, including Torch Capital, Define Ventures, Homebrew, Threshold Ventures, and Acme Ventures.",
-  "active_jobs": 35,
+  "active_jobs": 31,
   "boards": [
    "careers.homebrew.co"
   ],

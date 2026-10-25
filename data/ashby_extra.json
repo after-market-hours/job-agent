@@ -70,6 +70,13 @@
   "early": true
  },
  {
+  "name": "Alloy",
+  "ats": "ashby",
+  "slug": "alloy",
+  "stage": "A",
+  "early": true
+ },
+ {
   "name": "Altis ",
   "ats": "ashby",
   "slug": "altis",
@@ -812,6 +819,13 @@
   "early": true
  },
  {
+  "name": "Bild AI",
+  "ats": "ashby",
+  "slug": "bild-ai",
+  "stage": "seed",
+  "early": true
+ },
+ {
   "name": "Cobot",
   "ats": "ashby",
   "slug": "cobot",
@@ -830,6 +844,20 @@
   "ats": "ashby",
   "slug": "dualentry",
   "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Fastino",
+  "ats": "ashby",
+  "slug": "fastino-ai",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Foundry Robotics",
+  "ats": "ashby",
+  "slug": "foundry-robotics",
+  "stage": "seed",
   "early": true
  },
  {
@@ -889,6 +917,13 @@
   "early": true
  },
  {
+  "name": "Mariana Minerals",
+  "ats": "ashby",
+  "slug": "marianaminerals",
+  "stage": "A",
+  "early": true
+ },
+ {
   "name": "Mimica Automation",
   "ats": "ashby",
   "slug": "mimica",
@@ -896,10 +931,10 @@
   "early": true
  },
  {
-  "name": "Onyx AI",
+  "name": "Norm AI",
   "ats": "ashby",
-  "slug": "onyx",
-  "stage": "seed",
+  "slug": "norm-ai",
+  "stage": "C",
   "early": true
  },
  {
@@ -907,6 +942,13 @@
   "ats": "ashby",
   "slug": "parallel",
   "stage": "B",
+  "early": true
+ },
+ {
+  "name": "Point One Navigation",
+  "ats": "ashby",
+  "slug": "point-one-navigation",
+  "stage": "C",
   "early": true
  },
  {
@@ -945,10 +987,31 @@
   "early": true
  },
  {
+  "name": "Sekai",
+  "ats": "ashby",
+  "slug": "sekai",
+  "stage": "A",
+  "early": true
+ },
+ {
   "name": "Stuut",
   "ats": "ashby",
   "slug": "stuut-ai",
   "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Swarm Aero",
+  "ats": "ashby",
+  "slug": "swarmaero",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Synthetic",
+  "ats": "ashby",
+  "slug": "synthetic",
+  "stage": "seed",
   "early": true
  },
  {
@@ -1325,7 +1388,7 @@
  {
   "name": "Matician",
   "ats": "ashby",
-  "slug": "Maticrobots",
+  "slug": "MaticRobots",
   "stage": "seed",
   "early": true
  },
@@ -1337,13 +1400,6 @@
   "early": true
  },
  {
-  "name": "Parallel Fluidics",
-  "ats": "ashby",
-  "slug": "parallel-fluidics",
-  "stage": "seed",
-  "early": true
- },
- {
   "name": "Patlytics",
   "ats": "ashby",
   "slug": "patlytics",
@@ -1351,9 +1407,16 @@
   "early": true
  },
  {
+  "name": "People Data Labs",
+  "ats": "ashby",
+  "slug": "people-data-labs",
+  "stage": "B",
+  "early": true
+ },
+ {
   "name": "PointOne",
   "ats": "ashby",
-  "slug": "PointOne",
+  "slug": "pointone",
   "stage": "seed",
   "early": true
  },
@@ -1827,6 +1890,13 @@
   "early": true
  },
  {
+  "name": "Gravity Sketch",
+  "ats": "ashby",
+  "slug": "gravitysketch",
+  "stage": "A",
+  "early": true
+ },
+ {
   "name": "Jellyfish",
   "ats": "ashby",
   "slug": "jellyfish",
@@ -2013,6 +2083,13 @@
   "ats": "ashby",
   "slug": "teya",
   "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Thinking Machines Lab",
+  "ats": "ashby",
+  "slug": "thinkingmachines",
+  "stage": "seed",
   "early": true
  },
  {
