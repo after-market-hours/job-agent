@@ -28,6 +28,13 @@
   "early": true
  },
  {
+  "name": "Magic",
+  "ats": "ashby",
+  "slug": "magic",
+  "stage": "seed",
+  "early": true
+ },
+ {
   "name": "Novel",
   "ats": "ashby",
   "slug": "novel",
@@ -147,17 +154,17 @@
   "early": true
  },
  {
-  "name": "Gorgias",
-  "ats": "ashby",
-  "slug": "gorgias",
-  "stage": "C",
-  "early": true
- },
- {
   "name": "Thread AI",
   "ats": "ashby",
   "slug": "thread-ai",
   "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Gorgias",
+  "ats": "ashby",
+  "slug": "gorgias",
+  "stage": "C",
   "early": true
  },
  {
@@ -210,9 +217,9 @@
   "early": true
  },
  {
-  "name": "Lago",
+  "name": "Henry AI",
   "ats": "ashby",
-  "slug": "lago",
+  "slug": "henry.ai",
   "stage": "A",
   "early": true
  },
@@ -347,13 +354,6 @@
   "ats": "ashby",
   "slug": "brightwheel",
   "stage": "C",
-  "early": true
- },
- {
-  "name": "Catio",
-  "ats": "ashby",
-  "slug": "catio",
-  "stage": "seed",
   "early": true
  },
  {
@@ -525,6 +525,13 @@
   "early": true
  },
  {
+  "name": "Armadin",
+  "ats": "ashby",
+  "slug": "armadin",
+  "stage": "A",
+  "early": true
+ },
+ {
   "name": "Axiom Math",
   "ats": "ashby",
   "slug": "axiommath",
@@ -536,6 +543,13 @@
   "ats": "ashby",
   "slug": "clerk",
   "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Crogl",
+  "ats": "ashby",
+  "slug": "crogl",
+  "stage": "seed",
   "early": true
  },
  {
@@ -588,6 +602,20 @@
   "early": true
  },
  {
+  "name": "Mercor",
+  "ats": "ashby",
+  "slug": "mercor",
+  "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Modal Labs",
+  "ats": "ashby",
+  "slug": "modal",
+  "stage": "C",
+  "early": true
+ },
+ {
   "name": "Numeric",
   "ats": "ashby",
   "slug": "numeric",
@@ -599,6 +627,13 @@
   "ats": "ashby",
   "slug": "primeintellect",
   "stage": "A",
+  "early": true
+ },
+ {
+  "name": "Squint",
+  "ats": "ashby",
+  "slug": "squint.ai",
+  "stage": "B",
   "early": true
  },
  {
@@ -728,13 +763,6 @@
   "early": true
  },
  {
-  "name": "Modal Labs",
-  "ats": "ashby",
-  "slug": "modal",
-  "stage": "C",
-  "early": true
- },
- {
   "name": "Orca Security",
   "ats": "ashby",
   "slug": "orca",
@@ -850,6 +878,13 @@
   "name": "Fastino",
   "ats": "ashby",
   "slug": "fastino-ai",
+  "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Formulary Financial",
+  "ats": "ashby",
+  "slug": "formulary",
   "stage": "seed",
   "early": true
  },
@@ -1015,24 +1050,10 @@
   "early": true
  },
  {
-  "name": "Tempo",
-  "ats": "ashby",
-  "slug": "tempo",
-  "stage": "C",
-  "early": true
- },
- {
   "name": "Terra AI",
   "ats": "ashby",
   "slug": "terraai",
   "stage": "A",
-  "early": true
- },
- {
-  "name": "Tilde",
-  "ats": "ashby",
-  "slug": "tilderesearch",
-  "stage": "seed",
   "early": true
  },
  {
@@ -1137,13 +1158,6 @@
   "name": "Feathery",
   "ats": "ashby",
   "slug": "feathery",
-  "stage": "A",
-  "early": true
- },
- {
-  "name": "Halliday",
-  "ats": "ashby",
-  "slug": "halliday",
   "stage": "A",
   "early": true
  },
@@ -1281,13 +1295,6 @@
   "early": true
  },
  {
-  "name": "Armadin",
-  "ats": "ashby",
-  "slug": "armadin",
-  "stage": "A",
-  "early": true
- },
- {
   "name": "Bedrock Robotics",
   "ats": "ashby",
   "slug": "bedrock-robotics",
@@ -1390,6 +1397,13 @@
   "ats": "ashby",
   "slug": "MaticRobots",
   "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "Minerva",
+  "ats": "ashby",
+  "slug": "minerva",
+  "stage": "A",
   "early": true
  },
  {
@@ -1620,13 +1634,6 @@
   "name": "Luma AI",
   "ats": "ashby",
   "slug": "lumaai",
-  "stage": "C",
-  "early": true
- },
- {
-  "name": "Mercor",
-  "ats": "ashby",
-  "slug": "mercor",
   "stage": "C",
   "early": true
  },
@@ -1935,13 +1942,6 @@
   "name": "Monarch Money",
   "ats": "ashby",
   "slug": "monarchmoney",
-  "stage": "B",
-  "early": true
- },
- {
-  "name": "Nansen",
-  "ats": "ashby",
-  "slug": "nansen",
   "stage": "B",
   "early": true
  },
