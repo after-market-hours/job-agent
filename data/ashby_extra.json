@@ -294,6 +294,13 @@
   "early": true
  },
  {
+  "name": "CoinTracker",
+  "ats": "ashby",
+  "slug": "cointracker",
+  "stage": "A",
+  "early": true
+ },
+ {
   "name": "Ello",
   "ats": "ashby",
   "slug": "ello",
@@ -679,13 +686,6 @@
   "early": true
  },
  {
-  "name": "Comun Banking",
-  "ats": "ashby",
-  "slug": "comun",
-  "stage": "A",
-  "early": true
- },
- {
   "name": "Every",
   "ats": "ashby",
   "slug": "every-io",
@@ -968,7 +968,7 @@
  {
   "name": "Norm AI",
   "ats": "ashby",
-  "slug": "norm-ai",
+  "slug": "norm",
   "stage": "C",
   "early": true
  },
@@ -1207,6 +1207,13 @@
   "name": "Neo.Tax",
   "ats": "ashby",
   "slug": "neo-tax",
+  "stage": "A",
+  "early": true
+ },
+ {
+  "name": "NEXUS",
+  "ats": "ashby",
+  "slug": "nexus.xyz",
   "stage": "A",
   "early": true
  },
@@ -1757,6 +1764,13 @@
   "early": true
  },
  {
+  "name": "Substrate ",
+  "ats": "ashby",
+  "slug": "substrate",
+  "stage": "A",
+  "early": true
+ },
+ {
   "name": "Twenty",
   "ats": "ashby",
   "slug": "twenty",
@@ -1796,6 +1810,13 @@
   "ats": "ashby",
   "slug": "atlas",
   "stage": "seed",
+  "early": true
+ },
+ {
+  "name": "CaptivateIQ",
+  "ats": "ashby",
+  "slug": "captivateiq",
+  "stage": "C",
   "early": true
  },
  {
@@ -2086,13 +2107,6 @@
   "early": true
  },
  {
-  "name": "Thinking Machines Lab",
-  "ats": "ashby",
-  "slug": "thinkingmachines",
-  "stage": "seed",
-  "early": true
- },
- {
   "name": "Unit",
   "ats": "ashby",
   "slug": "unit",
@@ -2111,6 +2125,13 @@
   "ats": "ashby",
   "slug": "weave",
   "stage": "C",
+  "early": true
+ },
+ {
+  "name": "Wizard",
+  "ats": "ashby",
+  "slug": "wizard",
+  "stage": "A",
   "early": true
  },
  {
