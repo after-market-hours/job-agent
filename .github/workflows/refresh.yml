@@ -1,8 +1,10 @@
 name: Weekly company-list refresh
 
 on:
-  schedule:
-    - cron: "0 10 * * 0"   # Sundays 10:00 UTC
+  # Retired 2026-11-12 after Jimmy took a job. Re-enable the cron (and
+  # `gh workflow enable "Weekly company-list refresh"`) only if you want it again.
+  # schedule:
+  #   - cron: "0 10 * * 0"   # Sundays 10:00 UTC
   workflow_dispatch: {}
 
 concurrency:

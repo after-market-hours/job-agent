@@ -1,8 +1,10 @@
 name: Daily job digest
 
 on:
-  schedule:
-    - cron: "0 13 * * *"   # 13:00 UTC = 8:00am US Eastern (9:00am during daylight time)
+  # Retired 2026-11-12 after Jimmy took a job. Re-enable the cron (and
+  # `gh workflow enable "Daily job digest"`) only if you want emails again.
+  # schedule:
+  #   - cron: "0 13 * * *"   # 13:00 UTC = 8:00am US Eastern
   workflow_dispatch:
     inputs:
       no_save:
